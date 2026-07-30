@@ -1,0 +1,21 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.pid
+*.lock
+
+# Local models, caches, raw data, and generated experiment trees
+/models/
+/cache/
+/data/
+/outputs/
+/workspaces/
+/enterprise_N*/
+
+# Editor and OS metadata
+.DS_Store
+.idea/
+.vscode/

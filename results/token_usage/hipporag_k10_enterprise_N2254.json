@@ -1,0 +1,20 @@
+{
+  "baseline": "hipporag_k10",
+  "dataset": "enterprise_N2254",
+  "source": "hipporag_sqlite",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": -1
+  },
+  "qa": {
+    "prompt_tokens": 1519014,
+    "completion_tokens": 18049,
+    "total_tokens": 1537063,
+    "calls": -1
+  },
+  "build_qa_total_tokens": 1537063,
+  "note": "qa=rag_qa增量delta(进程隔离); build=0(QA-mode不记,见ledger); top_k=10",
+  "ts": "2026-07-25T11:21:34"
+}

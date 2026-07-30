@@ -1,0 +1,6 @@
+N_docs,N_chunks,build_total_tok,build_prompt_tok,build_completion_tok,qa_total_tok,build_qa_sec,wall_clean,judge_acc,recall,storage_mb,status
+1144,2018,34622003,27861589,6760414,5067468,103903,DIRTY_parallel,52.8,0.00,803,ok
+1434,2435,41575416,33554262,8021154,5309736,52479,DIRTY_parallel,50.6,0.00,956,ok
+1798,2955,58675543,45155474,13520069,5258363,76084,DIRTY_parallel,50.2,0.00,1183,ok
+2254,3606,73309672,56169146,17140526,5472229,81814,DIRTY_parallel,47.6,0.00,1439,ok
+2826,4425,,,,,50978,DIRTY_parallel,,NA,905,build_fail

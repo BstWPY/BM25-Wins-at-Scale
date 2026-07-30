@@ -1,0 +1,20 @@
+{
+  "baseline": "agent_bm25",
+  "dataset": "enterprise_N6980",
+  "source": "qwen_agent_hook",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 7500689,
+    "completion_tokens": 84907,
+    "total_tokens": 7585596,
+    "calls": 567
+  },
+  "build_qa_total_tokens": 7585596,
+  "note": "agent探索token,hook vLLM真实usage;max_calls=80;llm_calls=567 tool_calls=422;attempt_rows=150 failed_attempts=0;native_BM25_top5;build_llm_tokens=0;build_sec=2.7",
+  "ts": "2026-07-25T13:15:02"
+}

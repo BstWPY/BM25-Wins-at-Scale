@@ -1,0 +1,20 @@
+{
+  "baseline": "hybrid_rrf",
+  "dataset": "enterprise_N42587",
+  "source": "wrapper_usage",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 808340,
+    "completion_tokens": 17612,
+    "total_tokens": 825952,
+    "calls": 150
+  },
+  "build_qa_total_tokens": 825952,
+  "note": "build=0 API LLM tokens; local/remote embedding compute is recorded separately in the run manifest",
+  "ts": "2026-07-26T07:46:12"
+}

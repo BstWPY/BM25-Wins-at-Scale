@@ -1,0 +1,52 @@
+[
+ {
+  "baseline": "bm25_para",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 64.67,
+  "completeness": 67.28,
+  "combined": 60.05,
+  "doc_recall": 73.37,
+  "fail": 0
+ },
+ {
+  "baseline": "graphrag_para",
+  "scale": 2254,
+  "n": 148,
+  "correctness": 43.92,
+  "completeness": 45.7,
+  "combined": 36.33,
+  "doc_recall": 49.02,
+  "fail": 2
+ },
+ {
+  "baseline": "hipporag_para",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 64.0,
+  "completeness": 61.81,
+  "combined": 54.94,
+  "doc_recall": 71.8,
+  "fail": 0
+ },
+ {
+  "baseline": "naiverag_para",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 56.67,
+  "completeness": 57.43,
+  "combined": 49.92,
+  "doc_recall": 64.84,
+  "fail": 0
+ },
+ {
+  "baseline": "sandbox_para",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 70.0,
+  "completeness": 72.06,
+  "combined": 67.15,
+  "doc_recall": 72.4,
+  "fail": 0
+ }
+]

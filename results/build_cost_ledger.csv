@@ -1,0 +1,4 @@
+ts,dataset,baseline,n_chunks,gen_tok,prompt_tok,wall_sec,peak_gpu_mb,storage_mb,status
+2026-06-08T10:48:48Z,2wikimultihopqa,LinearRAG,6121,,,6536,22936,314,done
+2026-06-08T10:53:17Z,hotpotqa,LinearRAG,9813,,,6804,22936,535,done
+2026-06-08T19:02:20Z,2wikimultihopqa,graphrag,6121,19708918,88723529,36107,23630,2423,done|acc=53.40

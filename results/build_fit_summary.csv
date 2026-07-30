@@ -1,0 +1,5 @@
+method,n_measured_points,fit_exponent,last_measured_build_tokens,last_measured_corpus_tokens,full_corpus_tokens,projected_full_build_tokens,throughput_tokens_per_second,projected_time
+HippoRAG_2,22,1.009895,723623189,154746510,600823640,2875627808,11900,2.8_days
+MS_GraphRAG,10,0.921732,190048585,10575654,600823640,7861490476,1800,51_days
+LightRAG,4,1.362337,73309672,2984222,600823640,101861294034,800,4.0_years
+LinearRAG,22,NA,0,154746510,600823640,0,NA,1_day_embedding_only

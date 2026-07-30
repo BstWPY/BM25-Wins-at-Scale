@@ -1,0 +1,20 @@
+{
+  "baseline": "graphrag",
+  "dataset": "enterprise_N10970",
+  "source": "graphrag_log",
+  "build": {
+    "prompt_tokens": 23,
+    "completion_tokens": 3,
+    "total_tokens": 26,
+    "calls": 1
+  },
+  "qa": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "build_qa_total_tokens": 26,
+  "note": "build=indexing-engine.log末块; qa未计量(api流式丢usage)",
+  "ts": "2026-06-11T19:29:07"
+}

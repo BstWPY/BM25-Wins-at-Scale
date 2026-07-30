@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "proposals_path": "${URAG_ROOT}/results/trap_proposal_sensitivity_20260724/proposals.json",
+  "proposals_sha256": "1c820ea52cc611395ff5b2023bd66bbdfc34834b9ffe07aec362eb5bea468f07",
+  "labels_path": "${URAG_ROOT}/results/trap_proposal_sensitivity_20260724/labels.jsonl",
+  "labels_sha256": "c0a9f65ffe82e485cb348a7423d775ea5cf2a15171c47872df29a4b8fdc03852",
+  "summary_path": "${URAG_ROOT}/results/trap_proposal_sensitivity_20260724/summary.json",
+  "summary_sha256": "6b019b5fc8c4497ac4034f63140e0f964144bf7f824b2f9603ccdd73366bf47b",
+  "sources": {
+    "corpus_meta_sha256": "41d8191e44616227a9be173a6e4a09340b873a07a8f03e3f283ecbde85547cd6",
+    "chunk_meta_sha256": "2b780a3eaf3774498ec36b2f8aa857fc6fb72b3b873c18424906205d7d26aa11",
+    "dense_index_sha256": "49636a96c06910c7c073f7624b64c764e8d33424435a9ab485bb51af801f2cf8",
+    "questions_sha256": "2bf0dd6e5f1f5c1675cad5a8061703f35f572f7c9e85c00227a302df3cc31c8a",
+    "old_traps_sha256": "0ecb1b7fbbe68900b8f9143d74fd65fea785ce3e82283a0c0de4f1867c67ad44"
+  },
+  "config": {
+    "top_m": 10,
+    "historical_prefilter": 200,
+    "full_chunk_pool": 300,
+    "embedding_model": "qwen3-embed-0.6b",
+    "query_instruction": "Instruct: Given a question, retrieve passages that help answer it\nQuery: ",
+    "label_model": "qwen3.6-27b",
+    "label_endpoint": "LABEL_ENDPOINT"
+  }
+}

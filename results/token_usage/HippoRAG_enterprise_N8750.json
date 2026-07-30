@@ -1,0 +1,20 @@
+{
+  "baseline": "HippoRAG",
+  "dataset": "enterprise_N8750",
+  "source": "hipporag_sqlite",
+  "build": {
+    "prompt_tokens": 34801703,
+    "completion_tokens": 14209989,
+    "total_tokens": 49011692,
+    "calls": -1
+  },
+  "qa": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "build_qa_total_tokens": 49011692,
+  "note": "build=OpenIE llm_cache; QA skipped (token-scaling only needs build)",
+  "ts": "2026-06-09T20:40:30"
+}

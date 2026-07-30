@@ -1,0 +1,10 @@
+method,accuracy,token_cost,covered_tiers,accuracy_source,cost_source
+BM25,70.085000,2869055,6/6,matched six-scale retrieval-control rejudge,six full-500 reader ledgers; no model-based construction
+BM25+Dense RRF,67.741667,6091289,6/6,matched six-scale retrieval-control rejudge,six fixed-150 reader ledgers normalized to 500 + exact Qwen embedding-token backfill at 0.6/27 weight
+File-System Agent,66.760403,217124531,6/6,canonical official judge restricted to fixed 150 IDs,sum(total_tok) over six full-500 prediction ledgers
+DenseRAG (BGE-M3),58.705000,6342855,6/6,matched six-scale retrieval-control rejudge,six fixed-150 reader ledgers normalized to 500 + BGE full-cache tokens allocated by exact Qwen prefix ratios at 0.6/27 weight
+DenseRAG (Qwen),49.055000,5737967,6/6,matched six-scale retrieval-control rejudge,six full-500 reader ledgers + exact Qwen embedding-token backfill at 0.6/27 weight
+HippoRAG 2,49.575208,207022629,5/6,canonical official judge restricted to fixed 150 IDs,five completed build+QA ledgers; N=131876 QA median-imputed
+MS-GraphRAG,21.506242,88347336,3/6,canonical official judge restricted to fixed 150 IDs,three completed build+QA ledgers
+LightRAG,16.326419,58840104,2/6,canonical official judge restricted to fixed 150 IDs,two completed build+QA ledgers
+LinearRAG,34.372095,5138245,5/6,canonical official judge restricted to fixed 150 IDs,five completed QA ledgers + audited embedding-token accounting

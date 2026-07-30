@@ -1,0 +1,242 @@
+[
+ {
+  "baseline": "bm25",
+  "scale": 1144,
+  "n": 150,
+  "correctness": 91.33,
+  "completeness": 84.46,
+  "combined": 81.24,
+  "doc_recall": 92.85,
+  "fail": 0
+ },
+ {
+  "baseline": "bm25",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 86.67,
+  "completeness": 82.77,
+  "combined": 79.35,
+  "doc_recall": 89.5,
+  "fail": 0
+ },
+ {
+  "baseline": "bm25",
+  "scale": 6980,
+  "n": 150,
+  "correctness": 83.33,
+  "completeness": 81.73,
+  "combined": 76.79,
+  "doc_recall": 87.74,
+  "fail": 0
+ },
+ {
+  "baseline": "bm25",
+  "scale": 42587,
+  "n": 150,
+  "correctness": 74.0,
+  "completeness": 72.13,
+  "combined": 66.74,
+  "doc_recall": 77.49,
+  "fail": 0
+ },
+ {
+  "baseline": "bm25",
+  "scale": 131876,
+  "n": 150,
+  "correctness": 70.0,
+  "completeness": 65.89,
+  "combined": 60.28,
+  "doc_recall": 73.13,
+  "fail": 0
+ },
+ {
+  "baseline": "bm25",
+  "scale": 511959,
+  "n": 150,
+  "correctness": 61.33,
+  "completeness": 62.68,
+  "combined": 56.11,
+  "doc_recall": 65.56,
+  "fail": 0
+ },
+ {
+  "baseline": "dense_bgem3",
+  "scale": 1144,
+  "n": 150,
+  "correctness": 81.33,
+  "completeness": 74.46,
+  "combined": 70.51,
+  "doc_recall": 84.32,
+  "fail": 0
+ },
+ {
+  "baseline": "dense_bgem3",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 78.0,
+  "completeness": 74.83,
+  "combined": 69.74,
+  "doc_recall": 82.19,
+  "fail": 0
+ },
+ {
+  "baseline": "dense_bgem3",
+  "scale": 6980,
+  "n": 150,
+  "correctness": 70.67,
+  "completeness": 68.79,
+  "combined": 62.71,
+  "doc_recall": 74.39,
+  "fail": 0
+ },
+ {
+  "baseline": "dense_bgem3",
+  "scale": 42587,
+  "n": 150,
+  "correctness": 62.0,
+  "completeness": 64.46,
+  "combined": 55.58,
+  "doc_recall": 66.06,
+  "fail": 0
+ },
+ {
+  "baseline": "dense_bgem3",
+  "scale": 131876,
+  "n": 150,
+  "correctness": 56.0,
+  "completeness": 58.64,
+  "combined": 50.64,
+  "doc_recall": 61.0,
+  "fail": 0
+ },
+ {
+  "baseline": "dense_bgem3",
+  "scale": 511959,
+  "n": 150,
+  "correctness": 50.0,
+  "completeness": 51.82,
+  "combined": 43.05,
+  "doc_recall": 50.74,
+  "fail": 0
+ },
+ {
+  "baseline": "hybrid_rrf",
+  "scale": 1144,
+  "n": 150,
+  "correctness": 88.0,
+  "completeness": 82.59,
+  "combined": 78.87,
+  "doc_recall": 92.57,
+  "fail": 0
+ },
+ {
+  "baseline": "hybrid_rrf",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 86.0,
+  "completeness": 80.83,
+  "combined": 77.14,
+  "doc_recall": 88.95,
+  "fail": 0
+ },
+ {
+  "baseline": "hybrid_rrf",
+  "scale": 6980,
+  "n": 150,
+  "correctness": 80.67,
+  "completeness": 76.96,
+  "combined": 72.41,
+  "doc_recall": 83.39,
+  "fail": 0
+ },
+ {
+  "baseline": "hybrid_rrf",
+  "scale": 42587,
+  "n": 150,
+  "correctness": 70.0,
+  "completeness": 67.03,
+  "combined": 62.59,
+  "doc_recall": 73.14,
+  "fail": 0
+ },
+ {
+  "baseline": "hybrid_rrf",
+  "scale": 131876,
+  "n": 150,
+  "correctness": 67.33,
+  "completeness": 67.47,
+  "combined": 60.26,
+  "doc_recall": 72.22,
+  "fail": 0
+ },
+ {
+  "baseline": "hybrid_rrf",
+  "scale": 511959,
+  "n": 150,
+  "correctness": 61.33,
+  "completeness": 63.53,
+  "combined": 55.18,
+  "doc_recall": 65.31,
+  "fail": 0
+ },
+ {
+  "baseline": "naiverag",
+  "scale": 1144,
+  "n": 150,
+  "correctness": 68.0,
+  "completeness": 69.27,
+  "combined": 62.2,
+  "doc_recall": 74.0,
+  "fail": 0
+ },
+ {
+  "baseline": "naiverag",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 64.0,
+  "completeness": 66.0,
+  "combined": 58.72,
+  "doc_recall": 70.1,
+  "fail": 0
+ },
+ {
+  "baseline": "naiverag",
+  "scale": 6980,
+  "n": 150,
+  "correctness": 59.33,
+  "completeness": 60.63,
+  "combined": 53.23,
+  "doc_recall": 63.2,
+  "fail": 0
+ },
+ {
+  "baseline": "naiverag",
+  "scale": 42587,
+  "n": 150,
+  "correctness": 49.33,
+  "completeness": 53.02,
+  "combined": 44.97,
+  "doc_recall": 53.06,
+  "fail": 0
+ },
+ {
+  "baseline": "naiverag",
+  "scale": 131876,
+  "n": 150,
+  "correctness": 46.67,
+  "completeness": 49.87,
+  "combined": 41.41,
+  "doc_recall": 46.44,
+  "fail": 0
+ },
+ {
+  "baseline": "naiverag",
+  "scale": 511959,
+  "n": 150,
+  "correctness": 38.0,
+  "completeness": 40.59,
+  "combined": 33.8,
+  "doc_recall": 35.02,
+  "fail": 0
+ }
+]

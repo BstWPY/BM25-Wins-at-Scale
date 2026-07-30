@@ -1,0 +1,8 @@
+{
+ "prompt": 1155936,
+ "completion": 565036,
+ "reasoning": 538896,
+ "calls": 2577,
+ "model": "deepseek-v4-flash",
+ "updated_at": "2026-07-25 11:31:38"
+}

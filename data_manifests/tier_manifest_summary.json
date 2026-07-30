@@ -1,0 +1,170 @@
+[
+  {
+    "tier": "enterprise_N1144",
+    "N_docs": 1144,
+    "manifest_sha256": "80483824548b47c0e1eb965bf5816a35d626a87ce12d9c46eabad42812f50799",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N1434",
+    "N_docs": 1434,
+    "manifest_sha256": "278b9c0b6cad247b2d8f939f96dd86c652446307786c2fdafb0edcc516814ac1",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N1798",
+    "N_docs": 1798,
+    "manifest_sha256": "57e584c183e0c362bc25247f8aec5d94b210be0598df5746c3034542c1c52e88",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N2254",
+    "N_docs": 2254,
+    "manifest_sha256": "a0a607e8ef93faef54d5d6b86bfd8b3c66095b616d4c422d8b44f8d405941b2c",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N2826",
+    "N_docs": 2826,
+    "manifest_sha256": "bc81ba6fbc13bc8a160bb8f702e933141083e69bd0a06a7d125b61d0353660b4",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N3543",
+    "N_docs": 3543,
+    "manifest_sha256": "c16b3fe1636901bdd931dda1e80802b82ba356975cefb2e1bcbe7fd6c1a3a673",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N4441",
+    "N_docs": 4441,
+    "manifest_sha256": "0e9057530c32cfc75767ce368db9050ea6e931750e464adc23f1c974b51327ab",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N5568",
+    "N_docs": 5568,
+    "manifest_sha256": "0a7c9c549901668a68d665200d134cf3dacd70ff0f8c1b9f62147c584869633d",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N6980",
+    "N_docs": 6980,
+    "manifest_sha256": "b68c393db42933002d96f4af5523871aa85e63f770c5189a5c979afe6b7c0ac9",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N8750",
+    "N_docs": 8750,
+    "manifest_sha256": "fef4a422810c15d473dc26dcbacd2aa580814146631d45a6e59af61a484fcaa3",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N10970",
+    "N_docs": 10970,
+    "manifest_sha256": "1155ee8a419c50afd790c33e4f2718ec29bf2e9e8a1461daf6381fdec1ca0308",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N13753",
+    "N_docs": 13753,
+    "manifest_sha256": "6b6e3f262c5211373fcd88483e8eb0a5f0ad50a84fab852162124094f853d813",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N17241",
+    "N_docs": 17241,
+    "manifest_sha256": "4b8d42fb27f9054e1fe379778020f673ebad34df8512c3817bb365b5b7e49ffe",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N21614",
+    "N_docs": 21614,
+    "manifest_sha256": "08170f826d7c4bc25c0eab8cad499e949307ee58c9a7ce4afbc761ae1d9a7a37",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N27097",
+    "N_docs": 27097,
+    "manifest_sha256": "1314bed590b1771514662c7ab50ebf5d3421e8724fbe132b05031c3072d497ef",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N33970",
+    "N_docs": 33970,
+    "manifest_sha256": "2cf0f2150b1287feddaa5a7ca37166efa518f3af2a52a471358f69341f48e3f1",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N42587",
+    "N_docs": 42587,
+    "manifest_sha256": "cc70d16d9754ff127b2c6b3f8d5a2b08dab725e400e54ff9b51ecca7e2138e2e",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N53389",
+    "N_docs": 53389,
+    "manifest_sha256": "c4d509be1fab7af7dc53f9e8384b3771e5ad44519ab8728e80ef43c46d3df1f5",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N66932",
+    "N_docs": 66932,
+    "manifest_sha256": "86fe0ec0240cd4fadf6e34d5867b8cea022a705499d31c6507cfa7cbd5bccfca",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N83909",
+    "N_docs": 83909,
+    "manifest_sha256": "71bd55d0cf662d21a2d2eb33249a60e000ccf6cd2aa8be023b1723dadeaeb0c7",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N105193",
+    "N_docs": 105193,
+    "manifest_sha256": "a8836ead051428e32ab62ad2bd8752aed674dccf82e43efafe63d4e02a0732ed",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N131876",
+    "N_docs": 131876,
+    "manifest_sha256": "8efc09e1948d364a3bc8081f8361c4f3ed852c946cd466560c635ca6e5cb3e62",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N165327",
+    "N_docs": 165327,
+    "manifest_sha256": "4209021f67d33054fac2e8b015ac69b4abcf137022cc1121c3a6d2475a2467d0",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N207263",
+    "N_docs": 207263,
+    "manifest_sha256": "25022e491ac652cf2b900a2ac422ad419f7fde93aa38d57631c5cf09b994b2c1",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N259837",
+    "N_docs": 259837,
+    "manifest_sha256": "c0e04952c905b566353b6ec793b2b084111e0a572bd7ac8c80b5fa9d7e45bdb6",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N325746",
+    "N_docs": 325746,
+    "manifest_sha256": "220dac142654519fe8879e5d69bec51f472c356375764c6cff8b414ea42dc90e",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N408373",
+    "N_docs": 408373,
+    "manifest_sha256": "a35d5eeaa0d4aa78c7c7f099d19a409cba7fe2f2482369433a97dece8d92cc45",
+    "dsids_omitted": true
+  },
+  {
+    "tier": "enterprise_N511959",
+    "N_docs": 511959,
+    "manifest_sha256": "e6ab841d4383dcba258bd3751d85cd81cd810e936c103079877c992fdd563218",
+    "dsids_omitted": true
+  }
+]

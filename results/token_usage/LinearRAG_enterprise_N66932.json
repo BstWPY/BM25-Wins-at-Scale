@@ -1,0 +1,20 @@
+{
+  "baseline": "LinearRAG",
+  "dataset": "enterprise_N66932",
+  "source": "wrapper_usage",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 2546402,
+    "completion_tokens": 454710,
+    "total_tokens": 3001112,
+    "calls": 500
+  },
+  "build_qa_total_tokens": 3001112,
+  "note": "build=0 (spaCy NER, no LLM); qa via PatchedLLM.infer",
+  "ts": "2026-06-11T22:06:07"
+}

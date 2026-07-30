@@ -1,0 +1,20 @@
+{
+  "baseline": "graphrag_global",
+  "dataset": "enterprise_N1144",
+  "source": "graphrag_log+openai_hook",
+  "build": {
+    "prompt_tokens": 26252027,
+    "completion_tokens": 8876232,
+    "total_tokens": 35128259,
+    "calls": 12891
+  },
+  "qa": {
+    "prompt_tokens": 21170686,
+    "completion_tokens": 249817,
+    "total_tokens": 21420503,
+    "calls": 1559
+  },
+  "build_qa_total_tokens": 56548762,
+  "note": "build=indexing-engine.log末块; qa=openai create hook真实usage(2026-06-15补)",
+  "ts": "2026-07-22T14:14:07"
+}

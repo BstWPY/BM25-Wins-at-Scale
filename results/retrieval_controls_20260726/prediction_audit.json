@@ -1,0 +1,449 @@
+{
+  "sample_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+  "sample_n": 150,
+  "cells": {
+    "hybrid_rrf_N1144": {
+      "rows": 150,
+      "predictions_sha256": "8e2dfd20579cd5e4a03dd16270b930c5f8bb761ae400377297742cfdf8110fa1",
+      "manifest_sha256": "f14af74984391be4952f05ac5e93bb859c0f2a962dda05cdab4243f462f1f5c4",
+      "parameters": {
+        "method": "unweighted reciprocal rank fusion",
+        "components": [
+          "BM25",
+          "qwen3-embed-0.6b"
+        ],
+        "candidate_k_per_component": 100,
+        "rrf_k": 60,
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "qwen_document_cache": "CACHE_ROOT/naiverag_ws/enterprise_N1144/emb.npy",
+        "query_embedding_usage": {
+          "prompt_tokens": 8132,
+          "total_tokens": 8132
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "hybrid_rrf_N2254": {
+      "rows": 150,
+      "predictions_sha256": "2cb559771640e5d5b7a20745e4901f5aa68aed9d1f673b6d979526eb9690d5c7",
+      "manifest_sha256": "a77c865c0c0ad5578c3a899ae49d0d9bfa1b663f1af0e7cb489e5ad2ab82094f",
+      "parameters": {
+        "method": "unweighted reciprocal rank fusion",
+        "components": [
+          "BM25",
+          "qwen3-embed-0.6b"
+        ],
+        "candidate_k_per_component": 100,
+        "rrf_k": 60,
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "qwen_document_cache": "CACHE_ROOT/naiverag_ws/enterprise_N2254/emb.npy",
+        "query_embedding_usage": {
+          "prompt_tokens": 8132,
+          "total_tokens": 8132
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "hybrid_rrf_N6980": {
+      "rows": 150,
+      "predictions_sha256": "b58aee4806b36c4f15ae22e80b20615f29d23a07002ff71aa48cd0278f3d4f5f",
+      "manifest_sha256": "97061c637998b3cd82d1adeb6cab27f5eac7e1d22f0ef303336446a86d35460b",
+      "parameters": {
+        "method": "unweighted reciprocal rank fusion",
+        "components": [
+          "BM25",
+          "qwen3-embed-0.6b"
+        ],
+        "candidate_k_per_component": 100,
+        "rrf_k": 60,
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "qwen_document_cache": "CACHE_ROOT/naiverag_ws/enterprise_N6980/emb.npy",
+        "query_embedding_usage": {
+          "prompt_tokens": 8132,
+          "total_tokens": 8132
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "hybrid_rrf_N42587": {
+      "rows": 150,
+      "predictions_sha256": "7ddf076dfb49859d7481ff8d767d00c50b51955d3c291a516478e0238128b52d",
+      "manifest_sha256": "82ef5de899334130f0c29b0db77fd404dbb46fa95eb103279d79b4ce01e065cd",
+      "parameters": {
+        "method": "unweighted reciprocal rank fusion",
+        "components": [
+          "BM25",
+          "qwen3-embed-0.6b"
+        ],
+        "candidate_k_per_component": 100,
+        "rrf_k": 60,
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "qwen_document_cache": "CACHE_ROOT/naiverag_ws/enterprise_N42587/emb.npy",
+        "query_embedding_usage": {
+          "prompt_tokens": 8132,
+          "total_tokens": 8132
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "hybrid_rrf_N131876": {
+      "rows": 150,
+      "predictions_sha256": "e9e479259bfe823a017f394a657afcceaf256160956a40866d241d0a53516852",
+      "manifest_sha256": "f3dfa54727f50fde0103c3830d0e0842f554ab699a24bc054a77554f6da6cfde",
+      "parameters": {
+        "method": "unweighted reciprocal rank fusion",
+        "components": [
+          "BM25",
+          "qwen3-embed-0.6b"
+        ],
+        "candidate_k_per_component": 100,
+        "rrf_k": 60,
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "qwen_document_cache": "CACHE_ROOT/naiverag_ws/enterprise_N131876/emb.npy",
+        "query_embedding_usage": {
+          "prompt_tokens": 8132,
+          "total_tokens": 8132
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "hybrid_rrf_N511959": {
+      "rows": 150,
+      "predictions_sha256": "643c3ca91524a159c9b54c64fbc06b3338eecc206034eedcecc2eef0658490d5",
+      "manifest_sha256": "a257740312fe2af32e1d626c31d61147fce16fa74b2cf85bac343f85ee3af9d4",
+      "parameters": {
+        "method": "unweighted reciprocal rank fusion",
+        "components": [
+          "BM25",
+          "qwen3-embed-0.6b"
+        ],
+        "candidate_k_per_component": 100,
+        "rrf_k": 60,
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "qwen_document_cache": "CACHE_ROOT/naiverag_ws/enterprise_N511959/emb.npy",
+        "query_embedding_usage": {
+          "prompt_tokens": 8132,
+          "total_tokens": 8132
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "dense_bgem3_N1144": {
+      "rows": 150,
+      "predictions_sha256": "441563a6aa401d190fbff76c79e821a8d36301165a5401c1f7cd592e797105a8",
+      "manifest_sha256": "94d1a293a226d2e0c582db4d6c021ecb611655029353cd4f5ace81c6ad58d9d9",
+      "parameters": {
+        "method": "dense cosine",
+        "embedding_model": "bge-m3",
+        "query_instruction": "",
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "max_prefix_cache": "CACHE_ROOT/dense_variant_ws/bge_m3/enterprise_N511959/emb.npy",
+        "max_prefix_rows": 737878,
+        "document_embedding_usage": {
+          "schema_version": 1,
+          "model": "bge-m3",
+          "endpoints": [
+            "EMBED_ENDPOINT_REPLICA_0",
+            "EMBED_ENDPOINT_REPLICA_1",
+            "EMBED_ENDPOINT_REPLICA_2",
+            "EMBED_ENDPOINT_REPLICA_3",
+            "EMBED_ENDPOINT_REPLICA_4",
+            "EMBED_ENDPOINT_REPLICA_5",
+            "EMBED_ENDPOINT_REPLICA_6",
+            "EMBED_ENDPOINT_REPLICA_7"
+          ],
+          "rows": 737878,
+          "dimension": 1024,
+          "batch_size": 16,
+          "workers": 8,
+          "pause_sec": 0.15,
+          "completed_rows": 737878,
+          "embedding_prompt_tokens": 740545867,
+          "embedding_total_tokens": 740545867,
+          "embedding_calls": 46119,
+          "updated_at": "2026-07-26T09:23:21"
+        },
+        "query_embedding_usage": {
+          "prompt_tokens": 7085,
+          "total_tokens": 7085
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "dense_bgem3_N2254": {
+      "rows": 150,
+      "predictions_sha256": "56eaef507bdab350c6af6b119915cf594cbe419ea0b84e6e9179476eab1feeba",
+      "manifest_sha256": "9a4400cd4504ac1579d753984a8674000c56d32ca9321e38d3cc8b85266d7ee2",
+      "parameters": {
+        "method": "dense cosine",
+        "embedding_model": "bge-m3",
+        "query_instruction": "",
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "max_prefix_cache": "CACHE_ROOT/dense_variant_ws/bge_m3/enterprise_N511959/emb.npy",
+        "max_prefix_rows": 737878,
+        "document_embedding_usage": {
+          "schema_version": 1,
+          "model": "bge-m3",
+          "endpoints": [
+            "EMBED_ENDPOINT_REPLICA_0",
+            "EMBED_ENDPOINT_REPLICA_1",
+            "EMBED_ENDPOINT_REPLICA_2",
+            "EMBED_ENDPOINT_REPLICA_3",
+            "EMBED_ENDPOINT_REPLICA_4",
+            "EMBED_ENDPOINT_REPLICA_5",
+            "EMBED_ENDPOINT_REPLICA_6",
+            "EMBED_ENDPOINT_REPLICA_7"
+          ],
+          "rows": 737878,
+          "dimension": 1024,
+          "batch_size": 16,
+          "workers": 8,
+          "pause_sec": 0.15,
+          "completed_rows": 737878,
+          "embedding_prompt_tokens": 740545867,
+          "embedding_total_tokens": 740545867,
+          "embedding_calls": 46119,
+          "updated_at": "2026-07-26T09:23:21"
+        },
+        "query_embedding_usage": {
+          "prompt_tokens": 7085,
+          "total_tokens": 7085
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "dense_bgem3_N6980": {
+      "rows": 150,
+      "predictions_sha256": "b80abf8c149efc85b796c145edf59fed22103a8c25258243eee608061814d2f0",
+      "manifest_sha256": "9de84df690bbcb7d4305d4320a78fb113ab00f3171cc2ff246e824874763f503",
+      "parameters": {
+        "method": "dense cosine",
+        "embedding_model": "bge-m3",
+        "query_instruction": "",
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "max_prefix_cache": "CACHE_ROOT/dense_variant_ws/bge_m3/enterprise_N511959/emb.npy",
+        "max_prefix_rows": 737878,
+        "document_embedding_usage": {
+          "schema_version": 1,
+          "model": "bge-m3",
+          "endpoints": [
+            "EMBED_ENDPOINT_REPLICA_0",
+            "EMBED_ENDPOINT_REPLICA_1",
+            "EMBED_ENDPOINT_REPLICA_2",
+            "EMBED_ENDPOINT_REPLICA_3",
+            "EMBED_ENDPOINT_REPLICA_4",
+            "EMBED_ENDPOINT_REPLICA_5",
+            "EMBED_ENDPOINT_REPLICA_6",
+            "EMBED_ENDPOINT_REPLICA_7"
+          ],
+          "rows": 737878,
+          "dimension": 1024,
+          "batch_size": 16,
+          "workers": 8,
+          "pause_sec": 0.15,
+          "completed_rows": 737878,
+          "embedding_prompt_tokens": 740545867,
+          "embedding_total_tokens": 740545867,
+          "embedding_calls": 46119,
+          "updated_at": "2026-07-26T09:23:21"
+        },
+        "query_embedding_usage": {
+          "prompt_tokens": 7085,
+          "total_tokens": 7085
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "dense_bgem3_N42587": {
+      "rows": 150,
+      "predictions_sha256": "ef5bb2d168dec624acc81582c16f6a304f02fa0993176f21f99a9cec58f9e24d",
+      "manifest_sha256": "cbf4e9db1ee20182bdaaaf27ad6d102ce335aba1967c7fec7d8f5df9901d0b8b",
+      "parameters": {
+        "method": "dense cosine",
+        "embedding_model": "bge-m3",
+        "query_instruction": "",
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "max_prefix_cache": "CACHE_ROOT/dense_variant_ws/bge_m3/enterprise_N511959/emb.npy",
+        "max_prefix_rows": 737878,
+        "document_embedding_usage": {
+          "schema_version": 1,
+          "model": "bge-m3",
+          "endpoints": [
+            "EMBED_ENDPOINT_REPLICA_0",
+            "EMBED_ENDPOINT_REPLICA_1",
+            "EMBED_ENDPOINT_REPLICA_2",
+            "EMBED_ENDPOINT_REPLICA_3",
+            "EMBED_ENDPOINT_REPLICA_4",
+            "EMBED_ENDPOINT_REPLICA_5",
+            "EMBED_ENDPOINT_REPLICA_6",
+            "EMBED_ENDPOINT_REPLICA_7"
+          ],
+          "rows": 737878,
+          "dimension": 1024,
+          "batch_size": 16,
+          "workers": 8,
+          "pause_sec": 0.15,
+          "completed_rows": 737878,
+          "embedding_prompt_tokens": 740545867,
+          "embedding_total_tokens": 740545867,
+          "embedding_calls": 46119,
+          "updated_at": "2026-07-26T09:23:21"
+        },
+        "query_embedding_usage": {
+          "prompt_tokens": 7085,
+          "total_tokens": 7085
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "dense_bgem3_N131876": {
+      "rows": 150,
+      "predictions_sha256": "47c751bbb2ae5c71b888d058975159bb78a91d66f7bd6827978ebfef83d30228",
+      "manifest_sha256": "81c66f1cf6aea98e3ceb8fbf19deddfb9828de95182bdb5755ce7ce80d2c895c",
+      "parameters": {
+        "method": "dense cosine",
+        "embedding_model": "bge-m3",
+        "query_instruction": "",
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "max_prefix_cache": "CACHE_ROOT/dense_variant_ws/bge_m3/enterprise_N511959/emb.npy",
+        "max_prefix_rows": 737878,
+        "document_embedding_usage": {
+          "schema_version": 1,
+          "model": "bge-m3",
+          "endpoints": [
+            "EMBED_ENDPOINT_REPLICA_0",
+            "EMBED_ENDPOINT_REPLICA_1",
+            "EMBED_ENDPOINT_REPLICA_2",
+            "EMBED_ENDPOINT_REPLICA_3",
+            "EMBED_ENDPOINT_REPLICA_4",
+            "EMBED_ENDPOINT_REPLICA_5",
+            "EMBED_ENDPOINT_REPLICA_6",
+            "EMBED_ENDPOINT_REPLICA_7"
+          ],
+          "rows": 737878,
+          "dimension": 1024,
+          "batch_size": 16,
+          "workers": 8,
+          "pause_sec": 0.15,
+          "completed_rows": 737878,
+          "embedding_prompt_tokens": 740545867,
+          "embedding_total_tokens": 740545867,
+          "embedding_calls": 46119,
+          "updated_at": "2026-07-26T09:23:21"
+        },
+        "query_embedding_usage": {
+          "prompt_tokens": 7085,
+          "total_tokens": 7085
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    },
+    "dense_bgem3_N511959": {
+      "rows": 150,
+      "predictions_sha256": "f39b53af35dbffd1016a3bb29efaf9ec65cd2b1e09ec276deaa1c9bec1bdefea",
+      "manifest_sha256": "db357137cfba86bca31ff5a33ab60d972c0c210f4f72e429ccf1c5d5a2bd9065",
+      "parameters": {
+        "method": "dense cosine",
+        "embedding_model": "bge-m3",
+        "query_instruction": "",
+        "top_k": 5,
+        "sample_file_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567",
+        "max_prefix_cache": "CACHE_ROOT/dense_variant_ws/bge_m3/enterprise_N511959/emb.npy",
+        "max_prefix_rows": 737878,
+        "document_embedding_usage": {
+          "schema_version": 1,
+          "model": "bge-m3",
+          "endpoints": [
+            "EMBED_ENDPOINT_REPLICA_0",
+            "EMBED_ENDPOINT_REPLICA_1",
+            "EMBED_ENDPOINT_REPLICA_2",
+            "EMBED_ENDPOINT_REPLICA_3",
+            "EMBED_ENDPOINT_REPLICA_4",
+            "EMBED_ENDPOINT_REPLICA_5",
+            "EMBED_ENDPOINT_REPLICA_6",
+            "EMBED_ENDPOINT_REPLICA_7"
+          ],
+          "rows": 737878,
+          "dimension": 1024,
+          "batch_size": 16,
+          "workers": 8,
+          "pause_sec": 0.15,
+          "completed_rows": 737878,
+          "embedding_prompt_tokens": 740545867,
+          "embedding_total_tokens": 740545867,
+          "embedding_calls": 46119,
+          "updated_at": "2026-07-26T09:23:21"
+        },
+        "query_embedding_usage": {
+          "prompt_tokens": 7085,
+          "total_tokens": 7085
+        },
+        "reader_model": "qwen3.6-27b",
+        "reader_temperature": 0.0,
+        "reader_seed": 42
+      }
+    }
+  },
+  "bge_build": {
+    "schema_version": 1,
+    "model": "bge-m3",
+    "endpoints": [
+      "EMBED_ENDPOINT_REPLICA_0",
+      "EMBED_ENDPOINT_REPLICA_1",
+      "EMBED_ENDPOINT_REPLICA_2",
+      "EMBED_ENDPOINT_REPLICA_3",
+      "EMBED_ENDPOINT_REPLICA_4",
+      "EMBED_ENDPOINT_REPLICA_5",
+      "EMBED_ENDPOINT_REPLICA_6",
+      "EMBED_ENDPOINT_REPLICA_7"
+    ],
+    "rows": 737878,
+    "dimension": 1024,
+    "batch_size": 16,
+    "workers": 8,
+    "pause_sec": 0.15,
+    "completed_rows": 737878,
+    "embedding_prompt_tokens": 740545867,
+    "embedding_total_tokens": 740545867,
+    "embedding_calls": 46119,
+    "updated_at": "2026-07-26T09:23:21"
+  },
+  "bge_acceleration": {
+    "transition_path": "${URAG_ROOT}/results/retrieval_controls_20260726/bge_acceleration_transition.json",
+    "transition_sha256": "2cacd300a27656a50da4e587bd708d8d4889d999ced94512c104290f38299bbd",
+    "verified_unchanged_prefix_sha256": "8cd4310263fcb93cb735a22d37e0c55e5afe12740155bc10db31c7337fd2021d"
+  }
+}

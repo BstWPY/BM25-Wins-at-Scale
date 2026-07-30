@@ -1,0 +1,19 @@
+{
+  "N_docs": 83909,
+  "N_chunks": 121123,
+  "noise_frac": 0.0782,
+  "source_dist": {
+    "slack": 0.554,
+    "gmail": 0.2352,
+    "linear": 0.0693,
+    "google_drive": 0.0496,
+    "hubspot": 0.0294,
+    "fireflies": 0.02,
+    "github": 0.0164,
+    "jira": 0.0139,
+    "confluence": 0.0124,
+    "scaffold": 0.0
+  },
+  "q_with_gold": 470,
+  "manifest_sha256": "71bd55d0cf662d21a2d2eb33249a60e000ccf6cd2aa8be023b1723dadeaeb0c7"
+}

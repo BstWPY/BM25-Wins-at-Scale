@@ -1,0 +1,20 @@
+{
+  "baseline": "LightRAG",
+  "dataset": "enterprise_N1798",
+  "source": "wrapper_usage",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 5063966,
+    "completion_tokens": 226311,
+    "total_tokens": 5290277,
+    "calls": 1000
+  },
+  "build_qa_total_tokens": 5290277,
+  "note": "build=insert(实体/关系抽取+描述总结), qa=aquery; 缓存命中未计(未调LLM)",
+  "ts": "2026-06-23T11:50:46"
+}

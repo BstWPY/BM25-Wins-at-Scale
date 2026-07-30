@@ -1,0 +1,20 @@
+{
+  "baseline": "dense_bgem3",
+  "dataset": "enterprise_N2254",
+  "source": "wrapper_usage",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 781776,
+    "completion_tokens": 16727,
+    "total_tokens": 798503,
+    "calls": 150
+  },
+  "build_qa_total_tokens": 798503,
+  "note": "build=0 API LLM tokens; local/remote embedding compute is recorded separately in the run manifest",
+  "ts": "2026-07-26T09:26:26"
+}

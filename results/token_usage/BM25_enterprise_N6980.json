@@ -1,0 +1,20 @@
+{
+  "baseline": "BM25",
+  "dataset": "enterprise_N6980",
+  "source": "wrapper_usage",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 2792985,
+    "completion_tokens": 61796,
+    "total_tokens": 2854781,
+    "calls": 500
+  },
+  "build_qa_total_tokens": 2854781,
+  "note": "build=0 (lexical, build_sec=3); qa=1 LLM/Q, concurrency=8",
+  "ts": "2026-06-22T21:21:51"
+}

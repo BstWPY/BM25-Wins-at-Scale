@@ -1,0 +1,1475 @@
+{
+  "schema_version": 1,
+  "source_judgments": "${URAG_ROOT}/results/judge_official_resweep",
+  "source_predictions": "${URAG_ROOT}/results",
+  "sample_file": "${URAG_ROOT}/results/query_sample_150.json",
+  "scales": [
+    {
+      "scale": 1144,
+      "status": "ok",
+      "n_common": 150,
+      "combined": {
+        "bm25": 82.099,
+        "file_system_agent": 86.335,
+        "delta_bm25_minus_fs": -4.236
+      },
+      "correctness_pct": {
+        "bm25": 90.67,
+        "file_system_agent": 90.67
+      },
+      "paired_correctness_counts": {
+        "both_correct": 128,
+        "bm25_only_correct": 8,
+        "fs_only_correct": 8,
+        "neither_correct": 6
+      },
+      "retrieval_doc_hit_pct": {
+        "bm25": 90.0,
+        "file_system_agent": 89.33
+      },
+      "file_system_agent_telemetry": {
+        "mean_llm_calls": 8.873,
+        "mean_tool_calls": 18.34,
+        "mean_total_tokens": 129684.907,
+        "mean_read_files": 6.84,
+        "truncated_questions_pct": 16.67
+      },
+      "bm25_win_decomposition": {
+        "n": 8,
+        "bm25_gold_doc_hit_pct": 75.0,
+        "fs_gold_doc_hit_pct": 25.0,
+        "fs_search_miss_n": 6,
+        "fs_hit_but_wrong_n": 2,
+        "fs_empty_answer_n": 1,
+        "fs_error_n": 0,
+        "fs_truncated_n": 5,
+        "mean_fs_llm_calls": 28.625,
+        "mean_fs_tool_calls": 60.375,
+        "mean_fs_read_files": 17.5
+      },
+      "bm25_win_examples": [
+        {
+          "id": "qst_0136",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 4,
+          "fs_tool_calls": 10,
+          "bm25_chunks": [
+            1171,
+            311,
+            1742,
+            447,
+            1428
+          ],
+          "fs_read_source_categories": [
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0181",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 107,
+          "bm25_chunks": [
+            1112,
+            903,
+            9,
+            206,
+            167
+          ],
+          "fs_read_source_categories": [
+            "confluence",
+            "jira",
+            "slack"
+          ]
+        },
+        {
+          "id": "qst_0211",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 19,
+          "fs_tool_calls": 44,
+          "bm25_chunks": [
+            254,
+            439,
+            959,
+            447,
+            1899
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0256",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 3,
+          "fs_tool_calls": 4,
+          "bm25_chunks": [
+            873,
+            1571,
+            1015,
+            1802,
+            1950
+          ],
+          "fs_read_source_categories": [
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0361",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 100.0,
+          "fs_llm_calls": 10,
+          "fs_tool_calls": 16,
+          "bm25_chunks": [
+            199,
+            1480,
+            200,
+            1756,
+            1757
+          ],
+          "fs_read_source_categories": [
+            "confluence",
+            "google_drive"
+          ]
+        },
+        {
+          "id": "qst_0381",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 100.0,
+          "fs_llm_calls": 23,
+          "fs_tool_calls": 45,
+          "bm25_chunks": [
+            1735,
+            1039,
+            1736,
+            1038,
+            1737
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0496",
+          "bm25_doc_recall": null,
+          "fs_doc_recall": null,
+          "fs_llm_calls": 10,
+          "fs_tool_calls": 26,
+          "bm25_chunks": [
+            197,
+            592,
+            1279,
+            1934,
+            593
+          ],
+          "fs_read_source_categories": [
+            "github",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0497",
+          "bm25_doc_recall": null,
+          "fs_doc_recall": null,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 231,
+          "bm25_chunks": [
+            893,
+            894,
+            1733,
+            1658,
+            1987
+          ],
+          "fs_read_source_categories": [
+            "github",
+            "confluence",
+            "linear"
+          ]
+        }
+      ]
+    },
+    {
+      "scale": 2254,
+      "status": "ok",
+      "n_common": 150,
+      "combined": {
+        "bm25": 78.469,
+        "file_system_agent": 83.171,
+        "delta_bm25_minus_fs": -4.702
+      },
+      "correctness_pct": {
+        "bm25": 85.33,
+        "file_system_agent": 87.33
+      },
+      "paired_correctness_counts": {
+        "both_correct": 117,
+        "bm25_only_correct": 11,
+        "fs_only_correct": 14,
+        "neither_correct": 8
+      },
+      "retrieval_doc_hit_pct": {
+        "bm25": 86.67,
+        "file_system_agent": 85.33
+      },
+      "file_system_agent_telemetry": {
+        "mean_llm_calls": 9.78,
+        "mean_tool_calls": 20.347,
+        "mean_total_tokens": 152236.567,
+        "mean_read_files": 8.467,
+        "truncated_questions_pct": 24.0
+      },
+      "bm25_win_decomposition": {
+        "n": 11,
+        "bm25_gold_doc_hit_pct": 90.91,
+        "fs_gold_doc_hit_pct": 27.27,
+        "fs_search_miss_n": 8,
+        "fs_hit_but_wrong_n": 3,
+        "fs_empty_answer_n": 0,
+        "fs_error_n": 0,
+        "fs_truncated_n": 9,
+        "mean_fs_llm_calls": 25.455,
+        "mean_fs_tool_calls": 57.455,
+        "mean_fs_read_files": 26.636
+      },
+      "bm25_win_examples": [
+        {
+          "id": "qst_0091",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 18,
+          "fs_tool_calls": 32,
+          "bm25_chunks": [
+            1266,
+            751,
+            406,
+            750,
+            1267
+          ],
+          "fs_read_source_categories": [
+            "linear",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0191",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 39,
+          "fs_tool_calls": 94,
+          "bm25_chunks": [
+            1094,
+            2503,
+            1896,
+            501,
+            1504
+          ],
+          "fs_read_source_categories": [
+            "gmail"
+          ]
+        },
+        {
+          "id": "qst_0211",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 41,
+          "fs_tool_calls": 103,
+          "bm25_chunks": [
+            254,
+            439,
+            959,
+            447,
+            1899
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0241",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 100.0,
+          "fs_llm_calls": 24,
+          "fs_tool_calls": 89,
+          "bm25_chunks": [
+            240,
+            2066,
+            943,
+            3280,
+            533
+          ],
+          "fs_read_source_categories": [
+            "confluence",
+            "google_drive"
+          ]
+        },
+        {
+          "id": "qst_0244",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 47,
+          "fs_tool_calls": 108,
+          "bm25_chunks": [
+            416,
+            372,
+            1507,
+            1433,
+            1986
+          ],
+          "fs_read_source_categories": [
+            "linear",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0256",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 3,
+          "fs_tool_calls": 5,
+          "bm25_chunks": [
+            873,
+            1015,
+            1571,
+            1802,
+            1950
+          ],
+          "fs_read_source_categories": [
+            "linear",
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0286",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 3,
+          "fs_tool_calls": 6,
+          "bm25_chunks": [
+            906,
+            760,
+            196,
+            3279,
+            3235
+          ],
+          "fs_read_source_categories": [
+            "slack",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0291",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 20,
+          "fs_tool_calls": 54,
+          "bm25_chunks": [
+            422,
+            501,
+            3092,
+            3121,
+            316
+          ],
+          "fs_read_source_categories": [
+            "linear",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0352",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 50.0,
+          "fs_llm_calls": 31,
+          "fs_tool_calls": 58,
+          "bm25_chunks": [
+            1027,
+            1407,
+            1028,
+            2009,
+            1408
+          ],
+          "fs_read_source_categories": [
+            "github",
+            "jira",
+            "linear"
+          ]
+        },
+        {
+          "id": "qst_0381",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 100.0,
+          "fs_llm_calls": 36,
+          "fs_tool_calls": 52,
+          "bm25_chunks": [
+            1735,
+            1039,
+            1736,
+            1038,
+            1737
+          ],
+          "fs_read_source_categories": [
+            "slack",
+            "confluence",
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0471",
+          "bm25_doc_recall": null,
+          "fs_doc_recall": null,
+          "fs_llm_calls": 18,
+          "fs_tool_calls": 31,
+          "bm25_chunks": [
+            2359,
+            0,
+            2360,
+            3393,
+            2521
+          ],
+          "fs_read_source_categories": [
+            "gmail",
+            "confluence"
+          ]
+        }
+      ]
+    },
+    {
+      "scale": 6980,
+      "status": "ok",
+      "n_common": 150,
+      "combined": {
+        "bm25": 77.53,
+        "file_system_agent": 74.023,
+        "delta_bm25_minus_fs": 3.507
+      },
+      "correctness_pct": {
+        "bm25": 84.0,
+        "file_system_agent": 79.33
+      },
+      "paired_correctness_counts": {
+        "both_correct": 111,
+        "bm25_only_correct": 15,
+        "fs_only_correct": 8,
+        "neither_correct": 16
+      },
+      "retrieval_doc_hit_pct": {
+        "bm25": 85.33,
+        "file_system_agent": 79.33
+      },
+      "file_system_agent_telemetry": {
+        "mean_llm_calls": 11.367,
+        "mean_tool_calls": 24.393,
+        "mean_total_tokens": 202234.68,
+        "mean_read_files": 9.3,
+        "truncated_questions_pct": 22.67
+      },
+      "bm25_win_decomposition": {
+        "n": 15,
+        "bm25_gold_doc_hit_pct": 93.33,
+        "fs_gold_doc_hit_pct": 40.0,
+        "fs_search_miss_n": 9,
+        "fs_hit_but_wrong_n": 6,
+        "fs_empty_answer_n": 2,
+        "fs_error_n": 2,
+        "fs_truncated_n": 10,
+        "mean_fs_llm_calls": 29.267,
+        "mean_fs_tool_calls": 72.333,
+        "mean_fs_read_files": 22.6
+      },
+      "bm25_win_examples": [
+        {
+          "id": "qst_0209",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 23,
+          "fs_tool_calls": 56,
+          "bm25_chunks": [
+            613,
+            9018,
+            460,
+            1847,
+            2189
+          ],
+          "fs_read_source_categories": [
+            "confluence",
+            "fireflies"
+          ]
+        },
+        {
+          "id": "qst_0211",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 18,
+          "fs_tool_calls": 42,
+          "bm25_chunks": [
+            254,
+            439,
+            959,
+            447,
+            1899
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "fireflies"
+          ]
+        },
+        {
+          "id": "qst_0226",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 79,
+          "fs_tool_calls": 226,
+          "bm25_chunks": [
+            77,
+            5212,
+            261,
+            3287,
+            1289
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "linear",
+            "fireflies"
+          ]
+        },
+        {
+          "id": "qst_0231",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 228,
+          "bm25_chunks": [
+            8051,
+            733,
+            5027,
+            2955,
+            4725
+          ],
+          "fs_read_source_categories": [
+            "fireflies",
+            "confluence",
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0244",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 35,
+          "fs_tool_calls": 101,
+          "bm25_chunks": [
+            416,
+            372,
+            1507,
+            400,
+            1986
+          ],
+          "fs_read_source_categories": [
+            "linear",
+            "google_drive",
+            "slack"
+          ]
+        },
+        {
+          "id": "qst_0276",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 29,
+          "fs_tool_calls": 58,
+          "bm25_chunks": [
+            164,
+            2382,
+            1891,
+            5129,
+            9442
+          ],
+          "fs_read_source_categories": [
+            "gmail",
+            "google_drive"
+          ]
+        },
+        {
+          "id": "qst_0281",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 0,
+          "fs_tool_calls": 0,
+          "bm25_chunks": [
+            747,
+            748,
+            6527,
+            7021,
+            9493
+          ],
+          "fs_read_source_categories": []
+        },
+        {
+          "id": "qst_0291",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 0,
+          "fs_tool_calls": 0,
+          "bm25_chunks": [
+            422,
+            7632,
+            501,
+            6434,
+            3313
+          ],
+          "fs_read_source_categories": []
+        },
+        {
+          "id": "qst_0346",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 100.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 184,
+          "bm25_chunks": [
+            814,
+            710,
+            4180,
+            815,
+            103
+          ],
+          "fs_read_source_categories": [
+            "slack",
+            "confluence",
+            "fireflies"
+          ]
+        },
+        {
+          "id": "qst_0351",
+          "bm25_doc_recall": 75.0,
+          "fs_doc_recall": 75.0,
+          "fs_llm_calls": 13,
+          "fs_tool_calls": 30,
+          "bm25_chunks": [
+            1080,
+            160,
+            1079,
+            161,
+            1084
+          ],
+          "fs_read_source_categories": [
+            "slack",
+            "google_drive",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0381",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 100.0,
+          "fs_llm_calls": 41,
+          "fs_tool_calls": 60,
+          "bm25_chunks": [
+            1735,
+            1039,
+            1736,
+            1038,
+            9858
+          ],
+          "fs_read_source_categories": [
+            "fireflies",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0401",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 100.0,
+          "fs_llm_calls": 27,
+          "fs_tool_calls": 73,
+          "bm25_chunks": [
+            1956,
+            1190,
+            1957,
+            366,
+            6268
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "confluence"
+          ]
+        }
+      ]
+    },
+    {
+      "scale": 42587,
+      "status": "ok",
+      "n_common": 150,
+      "combined": {
+        "bm25": 66.601,
+        "file_system_agent": 66.748,
+        "delta_bm25_minus_fs": -0.147
+      },
+      "correctness_pct": {
+        "bm25": 74.0,
+        "file_system_agent": 71.33
+      },
+      "paired_correctness_counts": {
+        "both_correct": 91,
+        "bm25_only_correct": 20,
+        "fs_only_correct": 16,
+        "neither_correct": 23
+      },
+      "retrieval_doc_hit_pct": {
+        "bm25": 77.33,
+        "file_system_agent": 68.0
+      },
+      "file_system_agent_telemetry": {
+        "mean_llm_calls": 14.933,
+        "mean_tool_calls": 29.9,
+        "mean_total_tokens": 296937.46,
+        "mean_read_files": 12.393,
+        "truncated_questions_pct": 33.33
+      },
+      "bm25_win_decomposition": {
+        "n": 20,
+        "bm25_gold_doc_hit_pct": 95.0,
+        "fs_gold_doc_hit_pct": 20.0,
+        "fs_search_miss_n": 16,
+        "fs_hit_but_wrong_n": 4,
+        "fs_empty_answer_n": 3,
+        "fs_error_n": 3,
+        "fs_truncated_n": 12,
+        "mean_fs_llm_calls": 29.35,
+        "mean_fs_tool_calls": 58,
+        "mean_fs_read_files": 22.2
+      },
+      "bm25_win_examples": [
+        {
+          "id": "qst_0046",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 3,
+          "fs_tool_calls": 4,
+          "bm25_chunks": [
+            457,
+            456,
+            56368,
+            50722,
+            43994
+          ],
+          "fs_read_source_categories": [
+            "gmail"
+          ]
+        },
+        {
+          "id": "qst_0061",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 3,
+          "fs_tool_calls": 5,
+          "bm25_chunks": [
+            332,
+            54752,
+            19204,
+            55663,
+            15664
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "linear"
+          ]
+        },
+        {
+          "id": "qst_0091",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 39,
+          "fs_tool_calls": 38,
+          "bm25_chunks": [
+            1266,
+            48278,
+            28102,
+            37467,
+            6136
+          ],
+          "fs_read_source_categories": [
+            "gmail",
+            "google_drive"
+          ]
+        },
+        {
+          "id": "qst_0136",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 24,
+          "fs_tool_calls": 51,
+          "bm25_chunks": [
+            1171,
+            311,
+            32569,
+            1742,
+            59127
+          ],
+          "fs_read_source_categories": [
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0145",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 0,
+          "fs_tool_calls": 0,
+          "bm25_chunks": [
+            175,
+            49779,
+            52696,
+            48372,
+            53194
+          ],
+          "fs_read_source_categories": []
+        },
+        {
+          "id": "qst_0209",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 39,
+          "fs_tool_calls": 75,
+          "bm25_chunks": [
+            613,
+            53075,
+            60344,
+            52305,
+            49847
+          ],
+          "fs_read_source_categories": [
+            "fireflies",
+            "hubspot"
+          ]
+        },
+        {
+          "id": "qst_0211",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 8,
+          "fs_tool_calls": 20,
+          "bm25_chunks": [
+            254,
+            439,
+            30660,
+            959,
+            447
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0225",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 218,
+          "bm25_chunks": [
+            1706,
+            31509,
+            23011,
+            37612,
+            32091
+          ],
+          "fs_read_source_categories": [
+            "google_drive"
+          ]
+        },
+        {
+          "id": "qst_0226",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 35,
+          "fs_tool_calls": 75,
+          "bm25_chunks": [
+            13690,
+            41298,
+            77,
+            43902,
+            46306
+          ],
+          "fs_read_source_categories": [
+            "fireflies",
+            "confluence",
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0241",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 100.0,
+          "fs_llm_calls": 21,
+          "fs_tool_calls": 51,
+          "bm25_chunks": [
+            240,
+            32712,
+            20125,
+            12749,
+            52807
+          ],
+          "fs_read_source_categories": [
+            "fireflies"
+          ]
+        },
+        {
+          "id": "qst_0244",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 34,
+          "fs_tool_calls": 80,
+          "bm25_chunks": [
+            416,
+            24276,
+            372,
+            1507,
+            400
+          ],
+          "fs_read_source_categories": [
+            "slack",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0246",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 37,
+          "fs_tool_calls": 66,
+          "bm25_chunks": [
+            4891,
+            3439,
+            35941,
+            27272,
+            855
+          ],
+          "fs_read_source_categories": [
+            "linear",
+            "slack",
+            "confluence"
+          ]
+        }
+      ]
+    },
+    {
+      "scale": 131876,
+      "status": "ok",
+      "n_common": 150,
+      "combined": {
+        "bm25": 60.008,
+        "file_system_agent": 54.924,
+        "delta_bm25_minus_fs": 5.084
+      },
+      "correctness_pct": {
+        "bm25": 68.67,
+        "file_system_agent": 58.0
+      },
+      "paired_correctness_counts": {
+        "both_correct": 75,
+        "bm25_only_correct": 28,
+        "fs_only_correct": 12,
+        "neither_correct": 35
+      },
+      "retrieval_doc_hit_pct": {
+        "bm25": 73.33,
+        "file_system_agent": 57.33
+      },
+      "file_system_agent_telemetry": {
+        "mean_llm_calls": 25.493,
+        "mean_tool_calls": 53.64,
+        "mean_total_tokens": 593971.393,
+        "mean_read_files": 20.827,
+        "truncated_questions_pct": 51.33
+      },
+      "bm25_win_decomposition": {
+        "n": 28,
+        "bm25_gold_doc_hit_pct": 92.86,
+        "fs_gold_doc_hit_pct": 7.14,
+        "fs_search_miss_n": 26,
+        "fs_hit_but_wrong_n": 2,
+        "fs_empty_answer_n": 0,
+        "fs_error_n": 0,
+        "fs_truncated_n": 19,
+        "mean_fs_llm_calls": 44.107,
+        "mean_fs_tool_calls": 91.464,
+        "mean_fs_read_files": 27.357
+      },
+      "bm25_win_examples": [
+        {
+          "id": "qst_0001",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 70,
+          "fs_tool_calls": 153,
+          "bm25_chunks": [
+            1404,
+            37641,
+            5062,
+            114020,
+            75313
+          ],
+          "fs_read_source_categories": [
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0003",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 308,
+          "bm25_chunks": [
+            497,
+            104513,
+            79125,
+            105171,
+            118051
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "linear",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0041",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 91,
+          "bm25_chunks": [
+            29945,
+            43112,
+            1030,
+            73096,
+            1029
+          ],
+          "fs_read_source_categories": [
+            "fireflies",
+            "gmail",
+            "slack"
+          ]
+        },
+        {
+          "id": "qst_0080",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 15,
+          "fs_tool_calls": 30,
+          "bm25_chunks": [
+            1393,
+            159356,
+            15645,
+            141044,
+            89363
+          ],
+          "fs_read_source_categories": [
+            "google_drive"
+          ]
+        },
+        {
+          "id": "qst_0081",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 59,
+          "fs_tool_calls": 93,
+          "bm25_chunks": [
+            18701,
+            83413,
+            170261,
+            176239,
+            926
+          ],
+          "fs_read_source_categories": [
+            "confluence",
+            "linear"
+          ]
+        },
+        {
+          "id": "qst_0091",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 19,
+          "fs_tool_calls": 18,
+          "bm25_chunks": [
+            1266,
+            48278,
+            100899,
+            163765,
+            122092
+          ],
+          "fs_read_source_categories": [
+            "confluence",
+            "gmail",
+            "google_drive"
+          ]
+        },
+        {
+          "id": "qst_0127",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 26,
+          "fs_tool_calls": 64,
+          "bm25_chunks": [
+            1787,
+            1788,
+            78657,
+            124763,
+            165646
+          ],
+          "fs_read_source_categories": [
+            "linear"
+          ]
+        },
+        {
+          "id": "qst_0131",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 3,
+          "fs_tool_calls": 2,
+          "bm25_chunks": [
+            57128,
+            1869,
+            130880,
+            145882,
+            51667
+          ],
+          "fs_read_source_categories": [
+            "hubspot"
+          ]
+        },
+        {
+          "id": "qst_0136",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 10,
+          "fs_tool_calls": 16,
+          "bm25_chunks": [
+            1171,
+            96578,
+            136854,
+            311,
+            32569
+          ],
+          "fs_read_source_categories": [
+            "gmail"
+          ]
+        },
+        {
+          "id": "qst_0145",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 168,
+          "bm25_chunks": [
+            112331,
+            175,
+            186910,
+            85259,
+            131339
+          ],
+          "fs_read_source_categories": [
+            "gmail"
+          ]
+        },
+        {
+          "id": "qst_0181",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 26,
+          "fs_tool_calls": 60,
+          "bm25_chunks": [
+            52309,
+            86752,
+            37314,
+            1112,
+            125431
+          ],
+          "fs_read_source_categories": [
+            "fireflies",
+            "slack",
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0209",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 59,
+          "fs_tool_calls": 159,
+          "bm25_chunks": [
+            171273,
+            613,
+            146447,
+            125647,
+            89038
+          ],
+          "fs_read_source_categories": [
+            "gmail"
+          ]
+        }
+      ]
+    },
+    {
+      "scale": 511959,
+      "status": "ok",
+      "n_common": 150,
+      "combined": {
+        "bm25": 56.361,
+        "file_system_agent": 36.695,
+        "delta_bm25_minus_fs": 19.666
+      },
+      "correctness_pct": {
+        "bm25": 62.67,
+        "file_system_agent": 39.33
+      },
+      "paired_correctness_counts": {
+        "both_correct": 49,
+        "bm25_only_correct": 45,
+        "fs_only_correct": 10,
+        "neither_correct": 46
+      },
+      "retrieval_doc_hit_pct": {
+        "bm25": 67.33,
+        "file_system_agent": 36.67
+      },
+      "file_system_agent_telemetry": {
+        "mean_llm_calls": 36.12,
+        "mean_tool_calls": 80.6,
+        "mean_total_tokens": 895284.027,
+        "mean_read_files": 30.167,
+        "truncated_questions_pct": 71.33
+      },
+      "bm25_win_decomposition": {
+        "n": 45,
+        "bm25_gold_doc_hit_pct": 95.56,
+        "fs_gold_doc_hit_pct": 6.67,
+        "fs_search_miss_n": 42,
+        "fs_hit_but_wrong_n": 3,
+        "fs_empty_answer_n": 0,
+        "fs_error_n": 0,
+        "fs_truncated_n": 42,
+        "mean_fs_llm_calls": 48.644,
+        "mean_fs_tool_calls": 103.089,
+        "mean_fs_read_files": 39.022
+      },
+      "bm25_win_examples": [
+        {
+          "id": "qst_0001",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 26,
+          "fs_tool_calls": 51,
+          "bm25_chunks": [
+            1404,
+            202839,
+            285631,
+            37641,
+            421094
+          ],
+          "fs_read_source_categories": [
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0016",
+          "bm25_doc_recall": 0.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 6,
+          "fs_tool_calls": 11,
+          "bm25_chunks": [
+            117057,
+            695552,
+            146358,
+            399412,
+            636038
+          ],
+          "fs_read_source_categories": [
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0026",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 207,
+          "bm25_chunks": [
+            294414,
+            230485,
+            1607,
+            1608,
+            1258
+          ],
+          "fs_read_source_categories": [
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0046",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 80,
+          "bm25_chunks": [
+            457,
+            456,
+            440345,
+            98595,
+            555973
+          ],
+          "fs_read_source_categories": [
+            "gmail"
+          ]
+        },
+        {
+          "id": "qst_0061",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 3,
+          "fs_tool_calls": 5,
+          "bm25_chunks": [
+            591697,
+            189609,
+            332,
+            326746,
+            534938
+          ],
+          "fs_read_source_categories": [
+            "linear"
+          ]
+        },
+        {
+          "id": "qst_0091",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 29,
+          "fs_tool_calls": 58,
+          "bm25_chunks": [
+            315492,
+            1266,
+            347115,
+            432276,
+            315493
+          ],
+          "fs_read_source_categories": [
+            "gmail",
+            "confluence"
+          ]
+        },
+        {
+          "id": "qst_0127",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 23,
+          "fs_tool_calls": 46,
+          "bm25_chunks": [
+            1787,
+            1788,
+            78657,
+            485077,
+            229232
+          ],
+          "fs_read_source_categories": [
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0136",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 7,
+          "fs_tool_calls": 10,
+          "bm25_chunks": [
+            1171,
+            539750,
+            96578,
+            136854,
+            670509
+          ],
+          "fs_read_source_categories": [
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0146",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 25,
+          "fs_tool_calls": 67,
+          "bm25_chunks": [
+            909,
+            289624,
+            6389,
+            701544,
+            138320
+          ],
+          "fs_read_source_categories": [
+            "jira"
+          ]
+        },
+        {
+          "id": "qst_0151",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 22,
+          "fs_tool_calls": 57,
+          "bm25_chunks": [
+            268,
+            43602,
+            703455,
+            44184,
+            134361
+          ],
+          "fs_read_source_categories": [
+            "jira",
+            "gmail"
+          ]
+        },
+        {
+          "id": "qst_0161",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 30,
+          "fs_tool_calls": 98,
+          "bm25_chunks": [
+            341,
+            554367,
+            430840,
+            512686,
+            534528
+          ],
+          "fs_read_source_categories": [
+            "github"
+          ]
+        },
+        {
+          "id": "qst_0166",
+          "bm25_doc_recall": 100.0,
+          "fs_doc_recall": 0.0,
+          "fs_llm_calls": 80,
+          "fs_tool_calls": 80,
+          "bm25_chunks": [
+            137,
+            481415,
+            584983,
+            324245,
+            107744
+          ],
+          "fs_read_source_categories": [
+            "gmail",
+            "fireflies",
+            "confluence"
+          ]
+        }
+      ]
+    }
+  ],
+  "privacy_note": "Concrete corpus filenames are excluded; failure examples retain only source categories and opaque identifiers."
+}

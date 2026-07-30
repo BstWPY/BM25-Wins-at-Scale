@@ -1,0 +1,4682 @@
+{
+  "qst_0381": [
+    {
+      "dsid": "dsid_54544c14e1624adebb129bc0bc1dad73",
+      "score": 0.781381,
+      "chunk_id": 397655
+    },
+    {
+      "dsid": "dsid_e39af6a59aa94379ae5f290e7c1dc073",
+      "score": 0.7402294,
+      "chunk_id": 589647
+    },
+    {
+      "dsid": "dsid_730a6d02f1c34f8c80052b35dc739d63",
+      "score": 0.7370891,
+      "chunk_id": 62865
+    },
+    {
+      "dsid": "dsid_0647b8bcaf8946c2bc9372eb2d29d7e0",
+      "score": 0.735682,
+      "chunk_id": 643168
+    },
+    {
+      "dsid": "dsid_eb646fc0f26d478fbe1228c403ee866d",
+      "score": 0.7352738,
+      "chunk_id": 696026
+    },
+    {
+      "dsid": "dsid_dc578cb27bc548c7b71a7d5b2e6dfb5a",
+      "score": 0.7347102,
+      "chunk_id": 49517
+    },
+    {
+      "dsid": "dsid_43260ea157284af9b765399abede283c",
+      "score": 0.7322039,
+      "chunk_id": 213520
+    },
+    {
+      "dsid": "dsid_8cf02a701b5f443b829772b63e7d68e1",
+      "score": 0.7313271,
+      "chunk_id": 75786
+    },
+    {
+      "dsid": "dsid_501d5f0ba32a4728a72d743ea5144f70",
+      "score": 0.7290723,
+      "chunk_id": 270512
+    },
+    {
+      "dsid": "dsid_aa42762d07e341cabb91cbafb45687b9",
+      "score": 0.7265452,
+      "chunk_id": 649047
+    }
+  ],
+  "qst_0382": [
+    {
+      "dsid": "dsid_75ecfc7e203940e688f760fa8b5aeb48",
+      "score": 0.7484384,
+      "chunk_id": 142382
+    },
+    {
+      "dsid": "dsid_f912212ab52044e5b0b8ba2e56f3bdb1",
+      "score": 0.7374928,
+      "chunk_id": 300658
+    },
+    {
+      "dsid": "dsid_6a1bfb4040254e8e812bf6df704d9f35",
+      "score": 0.7212446,
+      "chunk_id": 475315
+    },
+    {
+      "dsid": "dsid_ab6d33cd21df4622a7f90c493c610425",
+      "score": 0.719797,
+      "chunk_id": 152929
+    },
+    {
+      "dsid": "dsid_6d822844661848909c94ce3da066a40e",
+      "score": 0.7194471,
+      "chunk_id": 626497
+    },
+    {
+      "dsid": "dsid_cfe5ad9f01054e1bb995dfa3362e5ec9",
+      "score": 0.7191437,
+      "chunk_id": 173726
+    },
+    {
+      "dsid": "dsid_41e3d6ac27b145a1ab2e70721f4d6f27",
+      "score": 0.7174678,
+      "chunk_id": 590811
+    },
+    {
+      "dsid": "dsid_16222daf62a148caa1d32dcdf97577b0",
+      "score": 0.715366,
+      "chunk_id": 446175
+    },
+    {
+      "dsid": "dsid_d04dea2d736445c3af6934b900a12ef9",
+      "score": 0.7150748,
+      "chunk_id": 1690
+    },
+    {
+      "dsid": "dsid_844ea515d3524f8889229107c878ea0b",
+      "score": 0.7139884,
+      "chunk_id": 533123
+    }
+  ],
+  "qst_0383": [
+    {
+      "dsid": "dsid_ffa85e93ab7e46b091a6ee16d9c511a4",
+      "score": 0.753508,
+      "chunk_id": 179083
+    },
+    {
+      "dsid": "dsid_b5b3d91ed8e248fb8de339e11e22f4b7",
+      "score": 0.7488518,
+      "chunk_id": 618244
+    },
+    {
+      "dsid": "dsid_fc9c1d5a24c14d1e8b349cdee029faf8",
+      "score": 0.7407762,
+      "chunk_id": 310624
+    },
+    {
+      "dsid": "dsid_f3d31d420a9844a4a1258366e04c456e",
+      "score": 0.7387102,
+      "chunk_id": 621066
+    },
+    {
+      "dsid": "dsid_2794aa5ada3b44d581e05f724ee0aff9",
+      "score": 0.7369473,
+      "chunk_id": 385968
+    },
+    {
+      "dsid": "dsid_a593ce2c9d364db783a4c04e81498221",
+      "score": 0.7345963,
+      "chunk_id": 118160
+    },
+    {
+      "dsid": "dsid_9c258bec2ab246d5a3a25f5b865906de",
+      "score": 0.7310203,
+      "chunk_id": 378551
+    },
+    {
+      "dsid": "dsid_28a4ed35818a4d788955f503dcffa25c",
+      "score": 0.7287878,
+      "chunk_id": 287
+    },
+    {
+      "dsid": "dsid_2cdea7bf450d43a8ade66aee36582469",
+      "score": 0.7267401,
+      "chunk_id": 718886
+    },
+    {
+      "dsid": "dsid_2233a628c51743a5a08bf7e14e998994",
+      "score": 0.7251443,
+      "chunk_id": 734488
+    }
+  ],
+  "qst_0384": [
+    {
+      "dsid": "dsid_b677b14a24054c409adb72b0566e680b",
+      "score": 0.8154719,
+      "chunk_id": 264834
+    },
+    {
+      "dsid": "dsid_43bd6f11c8c54493858a871fb01d59b8",
+      "score": 0.7913818,
+      "chunk_id": 604910
+    },
+    {
+      "dsid": "dsid_80fb2bf6d0ff461e8416d908a8065b3c",
+      "score": 0.7845021,
+      "chunk_id": 331069
+    },
+    {
+      "dsid": "dsid_aa019f1096684a479a9e997dc604ad2f",
+      "score": 0.7839105,
+      "chunk_id": 392765
+    },
+    {
+      "dsid": "dsid_822c571cf8a445b08ad8bd30a57fb60d",
+      "score": 0.782814,
+      "chunk_id": 539422
+    },
+    {
+      "dsid": "dsid_b97e2e0ecbf0407bb84efc88832a2452",
+      "score": 0.7803919,
+      "chunk_id": 444385
+    },
+    {
+      "dsid": "dsid_deb565215b9748739d9cc279ad9f3aff",
+      "score": 0.7722283,
+      "chunk_id": 306176
+    },
+    {
+      "dsid": "dsid_ca76ce6a69a641449819769ea44f8d0c",
+      "score": 0.7712451,
+      "chunk_id": 158839
+    },
+    {
+      "dsid": "dsid_1c0ec10b728a49388a18966ffb321106",
+      "score": 0.7680772,
+      "chunk_id": 323157
+    },
+    {
+      "dsid": "dsid_d0f3da72ec084bb1b0548944fd792cfb",
+      "score": 0.7665752,
+      "chunk_id": 673890
+    }
+  ],
+  "qst_0385": [
+    {
+      "dsid": "dsid_09a8acf12e8d4c909d0f684ad1832522",
+      "score": 0.7167867,
+      "chunk_id": 561302
+    },
+    {
+      "dsid": "dsid_3e36b6c43a564e91bb4d97dce419a5cd",
+      "score": 0.7022368,
+      "chunk_id": 402172
+    },
+    {
+      "dsid": "dsid_0506c23634014682a8e9b6d800eb74c6",
+      "score": 0.7000126,
+      "chunk_id": 596605
+    },
+    {
+      "dsid": "dsid_e7db6396423c40029cd15fdb6ba2bb6d",
+      "score": 0.6967521,
+      "chunk_id": 651231
+    },
+    {
+      "dsid": "dsid_da7c57f65cd046348935efb6c3c97e33",
+      "score": 0.6937225,
+      "chunk_id": 349060
+    },
+    {
+      "dsid": "dsid_00b7708db0894240814eb03192a161aa",
+      "score": 0.6898649,
+      "chunk_id": 589335
+    },
+    {
+      "dsid": "dsid_38b4f6a127e849bb8e4f2e517182d9f3",
+      "score": 0.6892253,
+      "chunk_id": 345907
+    },
+    {
+      "dsid": "dsid_a765e25a37054b0292a48ef647202ff6",
+      "score": 0.6884188,
+      "chunk_id": 197037
+    },
+    {
+      "dsid": "dsid_0b4d2d0c544b4274b6e4f39b3144e685",
+      "score": 0.6868161,
+      "chunk_id": 97135
+    },
+    {
+      "dsid": "dsid_f936db90b63e4aa5b2edc5169a874587",
+      "score": 0.6867909,
+      "chunk_id": 105906
+    }
+  ],
+  "qst_0386": [
+    {
+      "dsid": "dsid_3ced2ade8e7443379939f9c8643a7a6e",
+      "score": 0.7839198,
+      "chunk_id": 225483
+    },
+    {
+      "dsid": "dsid_529d073251704573a7673de7529b64e5",
+      "score": 0.7622797,
+      "chunk_id": 672484
+    },
+    {
+      "dsid": "dsid_d703c063ca0e4169b8a40d76a3ac2fb2",
+      "score": 0.7604282,
+      "chunk_id": 578593
+    },
+    {
+      "dsid": "dsid_53a5eb42ceea412cb1f69cb0c73dac97",
+      "score": 0.7600276,
+      "chunk_id": 93987
+    },
+    {
+      "dsid": "dsid_5e40b3434bf6461ca7bc2ee17f64df41",
+      "score": 0.7561815,
+      "chunk_id": 498862
+    },
+    {
+      "dsid": "dsid_ea547a431fd34484ae581ba01d0829f9",
+      "score": 0.7522285,
+      "chunk_id": 345656
+    },
+    {
+      "dsid": "dsid_01ca616941854bcc925a8637b1734126",
+      "score": 0.751225,
+      "chunk_id": 677535
+    },
+    {
+      "dsid": "dsid_d84a9755c5f243d0b37c01cf4a095c63",
+      "score": 0.7477663,
+      "chunk_id": 575051
+    },
+    {
+      "dsid": "dsid_3923559202e943dc991842b6bf259264",
+      "score": 0.7475772,
+      "chunk_id": 102873
+    },
+    {
+      "dsid": "dsid_2779262caaae4790b48f421eefe2bcf2",
+      "score": 0.7467042,
+      "chunk_id": 32445
+    }
+  ],
+  "qst_0387": [
+    {
+      "dsid": "dsid_2274c39857084ef4b3e2a35d9d4a4d9b",
+      "score": 0.7914036,
+      "chunk_id": 624398
+    },
+    {
+      "dsid": "dsid_a89c1cc4f5984a8abd919ae82b30291e",
+      "score": 0.7658591,
+      "chunk_id": 1343
+    },
+    {
+      "dsid": "dsid_32a2cfbd2a044aac8535037f68492598",
+      "score": 0.7650013,
+      "chunk_id": 737365
+    },
+    {
+      "dsid": "dsid_d41dc7d257a74f9fa973b17d408ae91b",
+      "score": 0.7568449,
+      "chunk_id": 1713
+    },
+    {
+      "dsid": "dsid_ffa85e93ab7e46b091a6ee16d9c511a4",
+      "score": 0.7567165,
+      "chunk_id": 179083
+    },
+    {
+      "dsid": "dsid_faec107114224eafa1fc22d49e664ff8",
+      "score": 0.7497588,
+      "chunk_id": 326463
+    },
+    {
+      "dsid": "dsid_ab5e8c09fbc34e87bc6d68d847e9d2b8",
+      "score": 0.7458937,
+      "chunk_id": 443118
+    },
+    {
+      "dsid": "dsid_b33189c281c04061adbf65bb15b6ff48",
+      "score": 0.7435592,
+      "chunk_id": 1433
+    },
+    {
+      "dsid": "dsid_9c258bec2ab246d5a3a25f5b865906de",
+      "score": 0.7423182,
+      "chunk_id": 378551
+    },
+    {
+      "dsid": "dsid_b5b3d91ed8e248fb8de339e11e22f4b7",
+      "score": 0.7409036,
+      "chunk_id": 618244
+    }
+  ],
+  "qst_0388": [
+    {
+      "dsid": "dsid_84114bb3ee58479183f2dc21aa2c115d",
+      "score": 0.8187372,
+      "chunk_id": 1001
+    },
+    {
+      "dsid": "dsid_321f18280bec4e63a05203290726e89c",
+      "score": 0.8000754,
+      "chunk_id": 422937
+    },
+    {
+      "dsid": "dsid_88eb95e72ee44c6694b6040598a85255",
+      "score": 0.772869,
+      "chunk_id": 406565
+    },
+    {
+      "dsid": "dsid_33e1c7b45a094646aed5095d46e00743",
+      "score": 0.7699568,
+      "chunk_id": 352037
+    },
+    {
+      "dsid": "dsid_b11d65828e2c4f379452c7698c8c28d5",
+      "score": 0.7658037,
+      "chunk_id": 1428
+    },
+    {
+      "dsid": "dsid_1d705464d58b4bdb9bd285fef80792bb",
+      "score": 0.7647206,
+      "chunk_id": 190855
+    },
+    {
+      "dsid": "dsid_a1b1a060fe7b4dfe912ffc191cbe0ca7",
+      "score": 0.7605305,
+      "chunk_id": 4377
+    },
+    {
+      "dsid": "dsid_2a7ac4d187a44a00977ac94bab84d9d0",
+      "score": 0.7594937,
+      "chunk_id": 464512
+    },
+    {
+      "dsid": "dsid_0e643f05b6c840d7b9443e144a7c860f",
+      "score": 0.7589395,
+      "chunk_id": 111
+    },
+    {
+      "dsid": "dsid_6f8eebea7aad40bcba7fcfeb4fe18f68",
+      "score": 0.7571988,
+      "chunk_id": 306470
+    }
+  ],
+  "qst_0389": [
+    {
+      "dsid": "dsid_f8579cb3ce1944e497de2deb884945c4",
+      "score": 0.742916,
+      "chunk_id": 641890
+    },
+    {
+      "dsid": "dsid_8e3f76bd522a4117ad1c4474266f92fb",
+      "score": 0.7230256,
+      "chunk_id": 666526
+    },
+    {
+      "dsid": "dsid_8ca4719765f24f7a8b192af8c2dc4e79",
+      "score": 0.7222794,
+      "chunk_id": 669074
+    },
+    {
+      "dsid": "dsid_d8e7a82b20954ac484eb5c53f1302ecf",
+      "score": 0.7202897,
+      "chunk_id": 367667
+    },
+    {
+      "dsid": "dsid_7034dd3bdd16410ea151bb22acb497c5",
+      "score": 0.7190361,
+      "chunk_id": 722192
+    },
+    {
+      "dsid": "dsid_444332865b744f9e919eab5fff5a132b",
+      "score": 0.7182255,
+      "chunk_id": 488017
+    },
+    {
+      "dsid": "dsid_57281fd6ad9746dc9898eaea3bd4dae1",
+      "score": 0.7168972,
+      "chunk_id": 624640
+    },
+    {
+      "dsid": "dsid_6182ab39042647269d5ed633a77cfe4e",
+      "score": 0.7164205,
+      "chunk_id": 397080
+    },
+    {
+      "dsid": "dsid_f844bac7961043ff90dbe772f25c6863",
+      "score": 0.7137434,
+      "chunk_id": 439527
+    },
+    {
+      "dsid": "dsid_1e15fda0e2044ce29d387b455431ade1",
+      "score": 0.7132251,
+      "chunk_id": 627331
+    }
+  ],
+  "qst_0390": [
+    {
+      "dsid": "dsid_faa4f9d69da14434b936e176a78f4a9a",
+      "score": 0.7385026,
+      "chunk_id": 34819
+    },
+    {
+      "dsid": "dsid_1ff00016d8f6422b80d38d7679a4435b",
+      "score": 0.7379248,
+      "chunk_id": 391600
+    },
+    {
+      "dsid": "dsid_b591e20b81484e7589e4f58523dd2bd8",
+      "score": 0.730725,
+      "chunk_id": 568503
+    },
+    {
+      "dsid": "dsid_5fe464eb651d4428b053e0c32ba664ed",
+      "score": 0.7297089,
+      "chunk_id": 117257
+    },
+    {
+      "dsid": "dsid_e03e669c908f4bbe94f8909d2280378e",
+      "score": 0.7237517,
+      "chunk_id": 674652
+    },
+    {
+      "dsid": "dsid_00230eea80a74869b7c7d224b02891b5",
+      "score": 0.722936,
+      "chunk_id": 587190
+    },
+    {
+      "dsid": "dsid_a4c8b7647b59429981866898728f1b1f",
+      "score": 0.7228965,
+      "chunk_id": 681074
+    },
+    {
+      "dsid": "dsid_0d81a07e32d44b969e19199d48c07c1b",
+      "score": 0.7219086,
+      "chunk_id": 467532
+    },
+    {
+      "dsid": "dsid_7de7100f25f6443fb5e25cf307de6d34",
+      "score": 0.7196109,
+      "chunk_id": 597204
+    },
+    {
+      "dsid": "dsid_ef708430fc714061acc3411b50df985c",
+      "score": 0.7187688,
+      "chunk_id": 414794
+    }
+  ],
+  "qst_0391": [
+    {
+      "dsid": "dsid_0355181b7fbd471f8d570bd63ca52b43",
+      "score": 0.8098229,
+      "chunk_id": 25
+    },
+    {
+      "dsid": "dsid_e39af6a59aa94379ae5f290e7c1dc073",
+      "score": 0.806744,
+      "chunk_id": 589647
+    },
+    {
+      "dsid": "dsid_5089f98ad4424445af4f843239d0de2a",
+      "score": 0.7971094,
+      "chunk_id": 352671
+    },
+    {
+      "dsid": "dsid_6784c67dc09f449fa8eaf96c60efbeb7",
+      "score": 0.7958621,
+      "chunk_id": 795
+    },
+    {
+      "dsid": "dsid_6b68cc690aed407bb180d40e8640a453",
+      "score": 0.7950361,
+      "chunk_id": 686051
+    },
+    {
+      "dsid": "dsid_0ab7bb56fdd24fd8bc824d1d0c9b54e9",
+      "score": 0.7947472,
+      "chunk_id": 178209
+    },
+    {
+      "dsid": "dsid_b84ff8bbf3294fe4aa7db7a2391d799e",
+      "score": 0.7919753,
+      "chunk_id": 582553
+    },
+    {
+      "dsid": "dsid_df108dc813d9407481ab28933b54f7ab",
+      "score": 0.7837151,
+      "chunk_id": 1800
+    },
+    {
+      "dsid": "dsid_f478208f054c4da8a0d09e9287504fa2",
+      "score": 0.7824854,
+      "chunk_id": 377877
+    },
+    {
+      "dsid": "dsid_761a894202c54617bf79fbbe3b88eb55",
+      "score": 0.7797878,
+      "chunk_id": 903
+    }
+  ],
+  "qst_0392": [
+    {
+      "dsid": "dsid_ebdc776e4fcb481fbae68e9d7d5c767b",
+      "score": 0.7731706,
+      "chunk_id": 1878
+    },
+    {
+      "dsid": "dsid_ecaa3e5279554008bc219ec37820b115",
+      "score": 0.7697404,
+      "chunk_id": 588973
+    },
+    {
+      "dsid": "dsid_c297cf0ecc594b1a870da5c8a4d471c1",
+      "score": 0.7681774,
+      "chunk_id": 392094
+    },
+    {
+      "dsid": "dsid_a734f47b45294b98bf495b69d251ad8e",
+      "score": 0.7647176,
+      "chunk_id": 1338
+    },
+    {
+      "dsid": "dsid_88e33ab83c404c9eb55af496df2ef8a8",
+      "score": 0.7622216,
+      "chunk_id": 197660
+    },
+    {
+      "dsid": "dsid_65bc45fa1991455a9dde2c1aeff083f6",
+      "score": 0.7590867,
+      "chunk_id": 784
+    },
+    {
+      "dsid": "dsid_8388c89dd5f74c21ba10badf38ac8551",
+      "score": 0.7569661,
+      "chunk_id": 996
+    },
+    {
+      "dsid": "dsid_71972bc7fc814d6eb840b9c35ef06b41",
+      "score": 0.7499834,
+      "chunk_id": 873
+    },
+    {
+      "dsid": "dsid_9f9b91c24fe04063ba908422157e44c5",
+      "score": 0.7422448,
+      "chunk_id": 1275
+    },
+    {
+      "dsid": "dsid_5c50e602b0334be4a1fb1bcc8af11d58",
+      "score": 0.7412546,
+      "chunk_id": 232272
+    }
+  ],
+  "qst_0393": [
+    {
+      "dsid": "dsid_3bedf26bc4cf42eb93a8b141e8d1dd71",
+      "score": 0.8233932,
+      "chunk_id": 458
+    },
+    {
+      "dsid": "dsid_0e00fcd89cb94e269fab26d7bf157c3f",
+      "score": 0.8232735,
+      "chunk_id": 108
+    },
+    {
+      "dsid": "dsid_7fc02b1c6fe446abb194bd51e7858b98",
+      "score": 0.8209821,
+      "chunk_id": 974
+    },
+    {
+      "dsid": "dsid_65a635c0efc047759bdc16abfc8dce73",
+      "score": 0.8202125,
+      "chunk_id": 782
+    },
+    {
+      "dsid": "dsid_b5cebad7e12b4bd8b511df4d801258ea",
+      "score": 0.8152096,
+      "chunk_id": 465336
+    },
+    {
+      "dsid": "dsid_03ade157e5b9464ab16740d676f86147",
+      "score": 0.8132378,
+      "chunk_id": 528797
+    },
+    {
+      "dsid": "dsid_f046dbb3a24f42bfa5b4b3c7e7e649c9",
+      "score": 0.8110032,
+      "chunk_id": 22895
+    },
+    {
+      "dsid": "dsid_8ed59c1a053c4dee843e606851d7f286",
+      "score": 0.8109351,
+      "chunk_id": 664052
+    },
+    {
+      "dsid": "dsid_e664488f72374064bf762d16e3540fd0",
+      "score": 0.8095636,
+      "chunk_id": 344448
+    },
+    {
+      "dsid": "dsid_fbdb90b68a2c47369bb5011328e67ec2",
+      "score": 0.8090475,
+      "chunk_id": 637756
+    }
+  ],
+  "qst_0394": [
+    {
+      "dsid": "dsid_2274af64635d447bb5100a7c957a7dc0",
+      "score": 0.8286381,
+      "chunk_id": 23116
+    },
+    {
+      "dsid": "dsid_33b67bd8835e4c58ba4aed0f962fa1b0",
+      "score": 0.8028785,
+      "chunk_id": 384
+    },
+    {
+      "dsid": "dsid_1999613b144444b1a7d27be68e5e29af",
+      "score": 0.7889259,
+      "chunk_id": 197
+    },
+    {
+      "dsid": "dsid_4d7c87986e2f414a94d93cf9f2608ce7",
+      "score": 0.7766826,
+      "chunk_id": 592
+    },
+    {
+      "dsid": "dsid_a0b46a8477334be99ff871483c2b2497",
+      "score": 0.7698787,
+      "chunk_id": 1279
+    },
+    {
+      "dsid": "dsid_08d65689bbf44546a7f1de14e5a2ca15",
+      "score": 0.7688121,
+      "chunk_id": 346033
+    },
+    {
+      "dsid": "dsid_9c8813bdc3204371b077a95ae61f524c",
+      "score": 0.7652598,
+      "chunk_id": 667471
+    },
+    {
+      "dsid": "dsid_0bbb26eab0a243e5b55d5a8600470e06",
+      "score": 0.7647652,
+      "chunk_id": 95
+    },
+    {
+      "dsid": "dsid_24b8b52d5eab4c7ab83e654097b4ffbf",
+      "score": 0.7627935,
+      "chunk_id": 546624
+    },
+    {
+      "dsid": "dsid_bc30c68557834b10861fb7fe141297d0",
+      "score": 0.756082,
+      "chunk_id": 664857
+    }
+  ],
+  "qst_0395": [
+    {
+      "dsid": "dsid_e5410370a3ac462cb54a992b85632e47",
+      "score": 0.7004575,
+      "chunk_id": 253266
+    },
+    {
+      "dsid": "dsid_3c69a679bd084784bdf3e1808062e819",
+      "score": 0.6997007,
+      "chunk_id": 185580
+    },
+    {
+      "dsid": "dsid_329fbc30eff441bda4e37d1e693b7aba",
+      "score": 0.6966801,
+      "chunk_id": 113201
+    },
+    {
+      "dsid": "dsid_f26c80f92a8a408ab4f3a2f69f605369",
+      "score": 0.6950759,
+      "chunk_id": 284936
+    },
+    {
+      "dsid": "dsid_a9bd4fff152d46c385d151a45a421116",
+      "score": 0.6945618,
+      "chunk_id": 377802
+    },
+    {
+      "dsid": "dsid_6eb8f790c6c94467bbdcdd58ebc8c3b3",
+      "score": 0.6938531,
+      "chunk_id": 422172
+    },
+    {
+      "dsid": "dsid_b7bb0c73155e4d81b398328758856b13",
+      "score": 0.6928078,
+      "chunk_id": 103743
+    },
+    {
+      "dsid": "dsid_db02912585aa47deb96b48182affc2f1",
+      "score": 0.6914867,
+      "chunk_id": 501426
+    },
+    {
+      "dsid": "dsid_6ff890051695435a93e1b430625fd7d3",
+      "score": 0.6911048,
+      "chunk_id": 250551
+    },
+    {
+      "dsid": "dsid_3beea16a5e454f20975c0a2aeff0df0d",
+      "score": 0.686982,
+      "chunk_id": 365217
+    }
+  ],
+  "qst_0396": [
+    {
+      "dsid": "dsid_26db0d269ce04474afdae8bf7265e1ca",
+      "score": 0.7937207,
+      "chunk_id": 388990
+    },
+    {
+      "dsid": "dsid_2f6f2eb442c9423993d657259b4fcee3",
+      "score": 0.7595717,
+      "chunk_id": 79112
+    },
+    {
+      "dsid": "dsid_81bcffc43feb4a72a3d5802c830339aa",
+      "score": 0.7553087,
+      "chunk_id": 609204
+    },
+    {
+      "dsid": "dsid_3841516b6bd44f70b3276035013632b8",
+      "score": 0.7288414,
+      "chunk_id": 166511
+    },
+    {
+      "dsid": "dsid_2bac21ff6ad74bdaa62bccaa02c55c4a",
+      "score": 0.7261992,
+      "chunk_id": 40654
+    },
+    {
+      "dsid": "dsid_002565ddeeaf474e8083a98cf79d02a9",
+      "score": 0.7256165,
+      "chunk_id": 285642
+    },
+    {
+      "dsid": "dsid_6b997adf6fea45babfd83ed10024e93e",
+      "score": 0.7255928,
+      "chunk_id": 97836
+    },
+    {
+      "dsid": "dsid_f68d0600df2c41f3b259d34a4a3edb90",
+      "score": 0.7253612,
+      "chunk_id": 305874
+    },
+    {
+      "dsid": "dsid_7d6a84adf3a54fb9a0235679e1c7b9bd",
+      "score": 0.7234904,
+      "chunk_id": 435698
+    },
+    {
+      "dsid": "dsid_9675c40230394acf9b98e1ac17050a61",
+      "score": 0.7208627,
+      "chunk_id": 451609
+    }
+  ],
+  "qst_0397": [
+    {
+      "dsid": "dsid_9de289cace1140c0addc67dca7083179",
+      "score": 0.8420945,
+      "chunk_id": 666885
+    },
+    {
+      "dsid": "dsid_28d8cb72d0a04feea3ffd8ab31072115",
+      "score": 0.8342299,
+      "chunk_id": 257479
+    },
+    {
+      "dsid": "dsid_4ce75c6a02b24b5dbc80d1dce3c7b8a8",
+      "score": 0.823957,
+      "chunk_id": 308007
+    },
+    {
+      "dsid": "dsid_28a72f7ccba04b46b2f3d4edfe81b6f0",
+      "score": 0.8235853,
+      "chunk_id": 447189
+    },
+    {
+      "dsid": "dsid_67dd48ba3e6f4d288012b83ffd502678",
+      "score": 0.8212221,
+      "chunk_id": 446948
+    },
+    {
+      "dsid": "dsid_73754ffcbac64475b82713dad9de96ce",
+      "score": 0.8210745,
+      "chunk_id": 270219
+    },
+    {
+      "dsid": "dsid_4bffdac581a54c8aad3457c3b9c9a9a2",
+      "score": 0.8169434,
+      "chunk_id": 71085
+    },
+    {
+      "dsid": "dsid_44c5b989f9cc442589b8505821fcc706",
+      "score": 0.8134409,
+      "chunk_id": 555963
+    },
+    {
+      "dsid": "dsid_30bc00f6918548688cb1ed4d1d402b55",
+      "score": 0.8129603,
+      "chunk_id": 549587
+    },
+    {
+      "dsid": "dsid_4b7aaff311024df7afc9b56596ac5bf5",
+      "score": 0.8104936,
+      "chunk_id": 462147
+    }
+  ],
+  "qst_0398": [
+    {
+      "dsid": "dsid_bd7caad8adb2405eaa7ad78c4ffb59d7",
+      "score": 0.74942,
+      "chunk_id": 1527
+    },
+    {
+      "dsid": "dsid_75a05bb4a3ed4c3cb5d7088a80d254b2",
+      "score": 0.7485659,
+      "chunk_id": 285215
+    },
+    {
+      "dsid": "dsid_fa67fd285abe4ce3a7315211bc8709c6",
+      "score": 0.7382719,
+      "chunk_id": 479616
+    },
+    {
+      "dsid": "dsid_9c4fead83f1d45bb8300c647928bd438",
+      "score": 0.7334394,
+      "chunk_id": 154915
+    },
+    {
+      "dsid": "dsid_ae3c816f5b0e4563866cf129a19a69c7",
+      "score": 0.7286284,
+      "chunk_id": 83847
+    },
+    {
+      "dsid": "dsid_8ecabd8fe1a7465e9f9e693409c74f56",
+      "score": 0.7270381,
+      "chunk_id": 587039
+    },
+    {
+      "dsid": "dsid_738dbf69d3f94cecb24169c15f709c51",
+      "score": 0.724892,
+      "chunk_id": 152646
+    },
+    {
+      "dsid": "dsid_0611866c51d74264bdc20badd05184a8",
+      "score": 0.7246162,
+      "chunk_id": 732976
+    },
+    {
+      "dsid": "dsid_8694dfb6459d4544bf18cb9d86fb7ffe",
+      "score": 0.7233548,
+      "chunk_id": 414676
+    },
+    {
+      "dsid": "dsid_004614abd91c4e1d82d66f4eb5c1a4c6",
+      "score": 0.721033,
+      "chunk_id": 517049
+    }
+  ],
+  "qst_0399": [
+    {
+      "dsid": "dsid_dc9cd763ad924f2aabc2138361bd21b7",
+      "score": 0.7914702,
+      "chunk_id": 329718
+    },
+    {
+      "dsid": "dsid_6ff77f7090614006bf3d24f112d47134",
+      "score": 0.7881348,
+      "chunk_id": 413747
+    },
+    {
+      "dsid": "dsid_af91bace3dc94c02b2704b58320c7d2f",
+      "score": 0.7858196,
+      "chunk_id": 291717
+    },
+    {
+      "dsid": "dsid_5347cf1526ba497d84b2ddcdb564aa7e",
+      "score": 0.7851337,
+      "chunk_id": 552337
+    },
+    {
+      "dsid": "dsid_872f7f1cfca242e3a9afbef589f999da",
+      "score": 0.7849428,
+      "chunk_id": 515018
+    },
+    {
+      "dsid": "dsid_4c47dbe77e7647b692a8b120f442855c",
+      "score": 0.7844629,
+      "chunk_id": 224505
+    },
+    {
+      "dsid": "dsid_d3b4d1e71ab64592ab0f5e53aae27bd6",
+      "score": 0.7840742,
+      "chunk_id": 544344
+    },
+    {
+      "dsid": "dsid_db95c3b1630440d59a4b43515f950aea",
+      "score": 0.7840192,
+      "chunk_id": 1775
+    },
+    {
+      "dsid": "dsid_111be6ae9c1f41f9907cbc7e4864fe44",
+      "score": 0.7839725,
+      "chunk_id": 510279
+    },
+    {
+      "dsid": "dsid_a05abc1c3be940c2b0db9381c8bfc34a",
+      "score": 0.7837594,
+      "chunk_id": 133133
+    }
+  ],
+  "qst_0400": [
+    {
+      "dsid": "dsid_e357bf00b5434a15a851b095ddff623b",
+      "score": 0.7492145,
+      "chunk_id": 640477
+    },
+    {
+      "dsid": "dsid_341df871f39b4c2cb226692e9f850570",
+      "score": 0.7465962,
+      "chunk_id": 110547
+    },
+    {
+      "dsid": "dsid_0f7de237f25e42c98c53c0924606161d",
+      "score": 0.7462913,
+      "chunk_id": 229027
+    },
+    {
+      "dsid": "dsid_f1cc6daafac04b2a8a4e8045bd03db9e",
+      "score": 0.7459322,
+      "chunk_id": 465478
+    },
+    {
+      "dsid": "dsid_cd4b89bdd82c4269aad4f0798b83ac48",
+      "score": 0.7449426,
+      "chunk_id": 708512
+    },
+    {
+      "dsid": "dsid_615eed371a53485199a086ae30cde8da",
+      "score": 0.7441477,
+      "chunk_id": 227603
+    },
+    {
+      "dsid": "dsid_03455f15778546419433f9bdd4d477ec",
+      "score": 0.7399039,
+      "chunk_id": 143811
+    },
+    {
+      "dsid": "dsid_5cf28151bea84f5b9736145cc853cf83",
+      "score": 0.7355366,
+      "chunk_id": 686587
+    },
+    {
+      "dsid": "dsid_93b40a68357041229b7c4e5b8a94fbe4",
+      "score": 0.7292557,
+      "chunk_id": 394247
+    },
+    {
+      "dsid": "dsid_167eec35ef05443297bcacd94df7ccdb",
+      "score": 0.7239521,
+      "chunk_id": 456403
+    }
+  ],
+  "qst_0401": [
+    {
+      "dsid": "dsid_96e93c3206494b8caa21cf12687ae74c",
+      "score": 0.7742485,
+      "chunk_id": 493555
+    },
+    {
+      "dsid": "dsid_9df00726f01b4ebea5e3f279940a413c",
+      "score": 0.7351667,
+      "chunk_id": 351232
+    },
+    {
+      "dsid": "dsid_c0bafd19a1c1432baf041621379c3a02",
+      "score": 0.7264752,
+      "chunk_id": 339440
+    },
+    {
+      "dsid": "dsid_16f097422bba4024aea97b68e4445b50",
+      "score": 0.7208093,
+      "chunk_id": 461290
+    },
+    {
+      "dsid": "dsid_c07dfc6a9f054cb4994381906348103d",
+      "score": 0.7206981,
+      "chunk_id": 338511
+    },
+    {
+      "dsid": "dsid_dd29354dc6374e6680e57517775b2566",
+      "score": 0.7175786,
+      "chunk_id": 114517
+    },
+    {
+      "dsid": "dsid_6960b5b58be8460dbeb0716c0738a821",
+      "score": 0.7157304,
+      "chunk_id": 54416
+    },
+    {
+      "dsid": "dsid_75ffdbbb6d354ee6bd1eee1241b8bad5",
+      "score": 0.7126763,
+      "chunk_id": 636201
+    },
+    {
+      "dsid": "dsid_8e3c8712c0fe426cb209cf9efc0219b7",
+      "score": 0.7117129,
+      "chunk_id": 187731
+    },
+    {
+      "dsid": "dsid_e87adb4183404655b917bffbd97ccd48",
+      "score": 0.7101564,
+      "chunk_id": 576360
+    }
+  ],
+  "qst_0402": [
+    {
+      "dsid": "dsid_e92d6a81397544ab9143a5efaa76ddcd",
+      "score": 0.8253423,
+      "chunk_id": 505640
+    },
+    {
+      "dsid": "dsid_f36cf1f211fe42a389ac0e37ac372673",
+      "score": 0.823354,
+      "chunk_id": 540766
+    },
+    {
+      "dsid": "dsid_8d9c4d26c4614b59a5440667af437d1f",
+      "score": 0.805555,
+      "chunk_id": 301882
+    },
+    {
+      "dsid": "dsid_89018dc2e72d415ebd56e45c657575ab",
+      "score": 0.803183,
+      "chunk_id": 146617
+    },
+    {
+      "dsid": "dsid_955a0ae7a64b490c8d26ef72d25e356d",
+      "score": 0.8015866,
+      "chunk_id": 53751
+    },
+    {
+      "dsid": "dsid_4815718e526a411582b8d01cd4dcc809",
+      "score": 0.7952276,
+      "chunk_id": 200784
+    },
+    {
+      "dsid": "dsid_03033a4ea17b479bba88a8a398c66c44",
+      "score": 0.7935461,
+      "chunk_id": 375870
+    },
+    {
+      "dsid": "dsid_9b723f1ecd984e969540dc96680299f0",
+      "score": 0.7914649,
+      "chunk_id": 289246
+    },
+    {
+      "dsid": "dsid_356b5e5a227b44929e5c42a15cb6a31c",
+      "score": 0.7904205,
+      "chunk_id": 114737
+    },
+    {
+      "dsid": "dsid_9be51ed019604b889d81f7cae20b03a1",
+      "score": 0.7902538,
+      "chunk_id": 328320
+    }
+  ],
+  "qst_0403": [
+    {
+      "dsid": "dsid_713ff02ba0284b59b2db81e840a32290",
+      "score": 0.8184196,
+      "chunk_id": 426147
+    },
+    {
+      "dsid": "dsid_bd1356208fea4202ba6c3610b8446401",
+      "score": 0.8061746,
+      "chunk_id": 576985
+    },
+    {
+      "dsid": "dsid_95b0b7d27bb3430c9d76f4966d60f4ab",
+      "score": 0.8028089,
+      "chunk_id": 169481
+    },
+    {
+      "dsid": "dsid_242661c8aa1341148e493604f4733d4c",
+      "score": 0.7858705,
+      "chunk_id": 261
+    },
+    {
+      "dsid": "dsid_0e643f05b6c840d7b9443e144a7c860f",
+      "score": 0.7826651,
+      "chunk_id": 111
+    },
+    {
+      "dsid": "dsid_7b008f48bee24bada205627ad0640e79",
+      "score": 0.7810202,
+      "chunk_id": 930
+    },
+    {
+      "dsid": "dsid_6f8eebea7aad40bcba7fcfeb4fe18f68",
+      "score": 0.778193,
+      "chunk_id": 306470
+    },
+    {
+      "dsid": "dsid_f3886cba44f74d6895a088b45a668f46",
+      "score": 0.7781242,
+      "chunk_id": 1928
+    },
+    {
+      "dsid": "dsid_3d3af1a42d654b559f92132e0e44871e",
+      "score": 0.7775666,
+      "chunk_id": 36869
+    },
+    {
+      "dsid": "dsid_9479faf893494f40be6f4593b656dd73",
+      "score": 0.7756632,
+      "chunk_id": 1150
+    }
+  ],
+  "qst_0404": [
+    {
+      "dsid": "dsid_5ce55123f9ab4628bb883659869b1566",
+      "score": 0.8239946,
+      "chunk_id": 727085
+    },
+    {
+      "dsid": "dsid_49271c958e17488da38eb3e959894cd4",
+      "score": 0.8208998,
+      "chunk_id": 224895
+    },
+    {
+      "dsid": "dsid_2dc4ab3ed95d4a0b9f23f365edc7d6aa",
+      "score": 0.815843,
+      "chunk_id": 673023
+    },
+    {
+      "dsid": "dsid_28b7cb10471b4c96b4e708d4a0f66504",
+      "score": 0.8109688,
+      "chunk_id": 192067
+    },
+    {
+      "dsid": "dsid_616e3011a23b431da1dd3445e3002675",
+      "score": 0.8041855,
+      "chunk_id": 756
+    },
+    {
+      "dsid": "dsid_257a386db3fb43c292ee8b46655d2c9a",
+      "score": 0.7990994,
+      "chunk_id": 631984
+    },
+    {
+      "dsid": "dsid_8ac1a8af647744ad9e877db435d9dcb7",
+      "score": 0.7951256,
+      "chunk_id": 330565
+    },
+    {
+      "dsid": "dsid_a723d0ada153473db72a75dd71cb7d41",
+      "score": 0.7925656,
+      "chunk_id": 197147
+    },
+    {
+      "dsid": "dsid_5afd82689a5b486f861ba443e2e20f94",
+      "score": 0.7909324,
+      "chunk_id": 601567
+    },
+    {
+      "dsid": "dsid_a2dc51ffb04e4dbc8eb48bae268801a1",
+      "score": 0.7892516,
+      "chunk_id": 435991
+    }
+  ],
+  "qst_0405": [
+    {
+      "dsid": "dsid_453f03be509a4c789af8b1df43508a80",
+      "score": 0.7903935,
+      "chunk_id": 26510
+    },
+    {
+      "dsid": "dsid_302d67c25eff41cfb30ab43d8ffe7e67",
+      "score": 0.7856358,
+      "chunk_id": 635534
+    },
+    {
+      "dsid": "dsid_d8c165c37546401a861150587692f02b",
+      "score": 0.7660564,
+      "chunk_id": 216572
+    },
+    {
+      "dsid": "dsid_09989148582545c4a5853ddd1bac0584",
+      "score": 0.7622791,
+      "chunk_id": 126525
+    },
+    {
+      "dsid": "dsid_7ecb97809ca7480b8bf4916a32ab8fcd",
+      "score": 0.7607274,
+      "chunk_id": 523091
+    },
+    {
+      "dsid": "dsid_bd5082d2932947ef830fce35dc17e236",
+      "score": 0.7591261,
+      "chunk_id": 736215
+    },
+    {
+      "dsid": "dsid_189fa2af926a4c89aabbaeb99ef50f75",
+      "score": 0.7542694,
+      "chunk_id": 604509
+    },
+    {
+      "dsid": "dsid_f71ee27dec7641729fbabc7c8372d0e6",
+      "score": 0.7499366,
+      "chunk_id": 609678
+    },
+    {
+      "dsid": "dsid_36cc238e32514fc09cfad6e7d1ce7364",
+      "score": 0.7497262,
+      "chunk_id": 235419
+    },
+    {
+      "dsid": "dsid_782ca1560ada4f2aac98d307cafb209f",
+      "score": 0.7491689,
+      "chunk_id": 677923
+    }
+  ],
+  "qst_0406": [
+    {
+      "dsid": "dsid_9f027db9f49d405b92234036be317dea",
+      "score": 0.7423901,
+      "chunk_id": 166132
+    },
+    {
+      "dsid": "dsid_efff740470c84d4a9ea42e7a466e3375",
+      "score": 0.7420259,
+      "chunk_id": 27568
+    },
+    {
+      "dsid": "dsid_3b7139962b28486aaa3a498cb375b2a9",
+      "score": 0.7360515,
+      "chunk_id": 49417
+    },
+    {
+      "dsid": "dsid_94b588e582e34c148e9c186968572e4a",
+      "score": 0.7360376,
+      "chunk_id": 283035
+    },
+    {
+      "dsid": "dsid_fa649903f0424995b52174e65a3b4fb5",
+      "score": 0.7352437,
+      "chunk_id": 658295
+    },
+    {
+      "dsid": "dsid_f4ac906fb0394a188443be671f2a29db",
+      "score": 0.7309818,
+      "chunk_id": 267420
+    },
+    {
+      "dsid": "dsid_703d366ea82049898118e28924140131",
+      "score": 0.7297618,
+      "chunk_id": 694621
+    },
+    {
+      "dsid": "dsid_61eb5429b53946d5ab4e2252292155b5",
+      "score": 0.729456,
+      "chunk_id": 641759
+    },
+    {
+      "dsid": "dsid_f0c10ed58b8b40b2b23e3d631b3eda05",
+      "score": 0.7280391,
+      "chunk_id": 552044
+    },
+    {
+      "dsid": "dsid_6a5975869e8e4c7fb072188eb6735047",
+      "score": 0.7271225,
+      "chunk_id": 84823
+    }
+  ],
+  "qst_0407": [
+    {
+      "dsid": "dsid_e5410370a3ac462cb54a992b85632e47",
+      "score": 0.8113642,
+      "chunk_id": 253266
+    },
+    {
+      "dsid": "dsid_1f1d868222404a62a252c79b28078ebd",
+      "score": 0.7832941,
+      "chunk_id": 471429
+    },
+    {
+      "dsid": "dsid_2a47ac8b36934ab5a8e17289ddbdedb6",
+      "score": 0.7828269,
+      "chunk_id": 276870
+    },
+    {
+      "dsid": "dsid_6c3d3ebee17e4f76a59579bf290dd4e8",
+      "score": 0.7797756,
+      "chunk_id": 69478
+    },
+    {
+      "dsid": "dsid_2b30dbb1128b4427b6c6fbf1f06d429b",
+      "score": 0.7782469,
+      "chunk_id": 139017
+    },
+    {
+      "dsid": "dsid_ea39a0e64f9248cc9228592f8932f83d",
+      "score": 0.7730436,
+      "chunk_id": 593041
+    },
+    {
+      "dsid": "dsid_75a5de7f48ae4b65a0ef4384f7ae97d4",
+      "score": 0.7718931,
+      "chunk_id": 294547
+    },
+    {
+      "dsid": "dsid_9b9531959e4940358520a78fdb8b12e6",
+      "score": 0.7676659,
+      "chunk_id": 109932
+    },
+    {
+      "dsid": "dsid_5aa8c8b423f0437d83f681dbe10ef4e8",
+      "score": 0.7652512,
+      "chunk_id": 178647
+    },
+    {
+      "dsid": "dsid_97992c0043184c7b9c10ed2106482ae1",
+      "score": 0.7640396,
+      "chunk_id": 1189
+    }
+  ],
+  "qst_0408": [
+    {
+      "dsid": "dsid_be78910681ea4b0987e5e01b6d16d0ef",
+      "score": 0.756695,
+      "chunk_id": 160857
+    },
+    {
+      "dsid": "dsid_2c9f5abe46844c28950fce6733d8ffd4",
+      "score": 0.7545161,
+      "chunk_id": 204786
+    },
+    {
+      "dsid": "dsid_892f088dac9c46c48d9abf6d7b9e2548",
+      "score": 0.7482721,
+      "chunk_id": 41611
+    },
+    {
+      "dsid": "dsid_64be02c1c7e14a0dae879cc3f29f588e",
+      "score": 0.741631,
+      "chunk_id": 647423
+    },
+    {
+      "dsid": "dsid_6ce463048d6a4789acd3ee712289831a",
+      "score": 0.7412108,
+      "chunk_id": 114177
+    },
+    {
+      "dsid": "dsid_1732e93e187f4b5eb6352e1ae9eff5fe",
+      "score": 0.7407421,
+      "chunk_id": 598741
+    },
+    {
+      "dsid": "dsid_80baee2d12ee4c65b8aa5cc889bf6686",
+      "score": 0.7387343,
+      "chunk_id": 348342
+    },
+    {
+      "dsid": "dsid_81cb30b608434b2cbe53cea786c75412",
+      "score": 0.7380127,
+      "chunk_id": 313069
+    },
+    {
+      "dsid": "dsid_8f0a271c22e4488090c59affa567a38a",
+      "score": 0.7376552,
+      "chunk_id": 324261
+    },
+    {
+      "dsid": "dsid_896f2ae877eb4306b67a94a42eb5e3c6",
+      "score": 0.7371125,
+      "chunk_id": 275213
+    }
+  ],
+  "qst_0409": [
+    {
+      "dsid": "dsid_c67fc6e49dc14e01bb02de3ff4a56858",
+      "score": 0.8368696,
+      "chunk_id": 1604
+    },
+    {
+      "dsid": "dsid_4242f22238004068894d96597201c2be",
+      "score": 0.8057471,
+      "chunk_id": 323635
+    },
+    {
+      "dsid": "dsid_04f6348a8e8941459fd1f7b4ac1a9f3c",
+      "score": 0.80573,
+      "chunk_id": 204154
+    },
+    {
+      "dsid": "dsid_80ad532e928947ef90f3ca1e07b7f66a",
+      "score": 0.8013219,
+      "chunk_id": 733301
+    },
+    {
+      "dsid": "dsid_efa7e86f05c943729ddaeed5ec8fe804",
+      "score": 0.8004959,
+      "chunk_id": 1898
+    },
+    {
+      "dsid": "dsid_67b2e94a2da9478a897afa9c0d82129c",
+      "score": 0.7920024,
+      "chunk_id": 67021
+    },
+    {
+      "dsid": "dsid_3d0400b2f9b8478c90b041603082b016",
+      "score": 0.7917025,
+      "chunk_id": 498436
+    },
+    {
+      "dsid": "dsid_9f2b5e918bd14a17bcdc92cab68d79e5",
+      "score": 0.7891635,
+      "chunk_id": 51896
+    },
+    {
+      "dsid": "dsid_f5dd73d6593a49f3bc63ce9edb893186",
+      "score": 0.7810311,
+      "chunk_id": 1942
+    },
+    {
+      "dsid": "dsid_fe5d41ddf60f46268a38a60a627492d7",
+      "score": 0.7806414,
+      "chunk_id": 92069
+    }
+  ],
+  "qst_0410": [
+    {
+      "dsid": "dsid_096ff26bbca245cc929b702ee7ee2b44",
+      "score": 0.763316,
+      "chunk_id": 593867
+    },
+    {
+      "dsid": "dsid_e39af6a59aa94379ae5f290e7c1dc073",
+      "score": 0.7606167,
+      "chunk_id": 589647
+    },
+    {
+      "dsid": "dsid_a20cfd9d244545a68df2e582c7493fd4",
+      "score": 0.7519227,
+      "chunk_id": 224577
+    },
+    {
+      "dsid": "dsid_bef4cbef59444bda9bed29d1ceca74d6",
+      "score": 0.7443438,
+      "chunk_id": 120758
+    },
+    {
+      "dsid": "dsid_75d0ee0fe09549a5b29badaff973acb9",
+      "score": 0.7426339,
+      "chunk_id": 901
+    },
+    {
+      "dsid": "dsid_dd763ae3c7974231be6feade042fc292",
+      "score": 0.7354867,
+      "chunk_id": 37393
+    },
+    {
+      "dsid": "dsid_fe4cb76756e14a4ba07e3a91d7a0cf01",
+      "score": 0.7353,
+      "chunk_id": 108367
+    },
+    {
+      "dsid": "dsid_91f221b52509493081dcfacca4e2aab0",
+      "score": 0.7311147,
+      "chunk_id": 514982
+    },
+    {
+      "dsid": "dsid_6e8b8832b6b04252b416d9902bf22dc2",
+      "score": 0.7307962,
+      "chunk_id": 181704
+    },
+    {
+      "dsid": "dsid_01094849cb58443fa4a868c41f55d1b5",
+      "score": 0.7274781,
+      "chunk_id": 716341
+    }
+  ],
+  "qst_0411": [
+    {
+      "dsid": "dsid_59e046c0fbd745c399865ffbc9900fd7",
+      "score": 0.753118,
+      "chunk_id": 419867
+    },
+    {
+      "dsid": "dsid_c3cc080daae5468190734c20d89fc434",
+      "score": 0.749397,
+      "chunk_id": 102050
+    },
+    {
+      "dsid": "dsid_41c412534e9b4bcb8c1530d3f92b7f34",
+      "score": 0.7441046,
+      "chunk_id": 91898
+    },
+    {
+      "dsid": "dsid_63afd22c933a496ba219d5d9f151a6ed",
+      "score": 0.7433222,
+      "chunk_id": 332455
+    },
+    {
+      "dsid": "dsid_dc5db5fde93d4c57a986f27ab510a05c",
+      "score": 0.7402106,
+      "chunk_id": 582151
+    },
+    {
+      "dsid": "dsid_9203fcbeddcc443eb2090c840171529d",
+      "score": 0.7401953,
+      "chunk_id": 202333
+    },
+    {
+      "dsid": "dsid_b9776b272db24f26b3ac383546a588ab",
+      "score": 0.7401882,
+      "chunk_id": 64700
+    },
+    {
+      "dsid": "dsid_f1dc830745744a2d8bfd70ba51616fb8",
+      "score": 0.7389269,
+      "chunk_id": 414834
+    },
+    {
+      "dsid": "dsid_52228e625bfa4c6bb7ff60b4d476b6fa",
+      "score": 0.7367114,
+      "chunk_id": 195763
+    },
+    {
+      "dsid": "dsid_bec4a4f212f9410490087b27fa86e0fb",
+      "score": 0.7350596,
+      "chunk_id": 115292
+    }
+  ],
+  "qst_0412": [
+    {
+      "dsid": "dsid_752b24b85a0d42aaba050cca8384bb1a",
+      "score": 0.7144457,
+      "chunk_id": 23940
+    },
+    {
+      "dsid": "dsid_6731ba28e37946019ee6169576744689",
+      "score": 0.6893945,
+      "chunk_id": 696425
+    },
+    {
+      "dsid": "dsid_73e6142463644a929f8dc12071371c70",
+      "score": 0.6848611,
+      "chunk_id": 213635
+    },
+    {
+      "dsid": "dsid_f33441fadbf6433799147f66f0549bec",
+      "score": 0.6843171,
+      "chunk_id": 170939
+    },
+    {
+      "dsid": "dsid_5c2d0f53f25240e1891d09bca66b24f7",
+      "score": 0.6816909,
+      "chunk_id": 651690
+    },
+    {
+      "dsid": "dsid_20072a89bba54b4392b81aecdc9d2c94",
+      "score": 0.6795487,
+      "chunk_id": 531998
+    },
+    {
+      "dsid": "dsid_81247311727f4f9583073a2464233c1c",
+      "score": 0.6783753,
+      "chunk_id": 194995
+    },
+    {
+      "dsid": "dsid_d4c484ec66734ed5876f992560f6dcb4",
+      "score": 0.6751842,
+      "chunk_id": 510264
+    },
+    {
+      "dsid": "dsid_52bce48296e04b9fba1f608793aa46da",
+      "score": 0.6739304,
+      "chunk_id": 213173
+    },
+    {
+      "dsid": "dsid_5c58b2f858ff4631958a2ce0ec4924cc",
+      "score": 0.6718499,
+      "chunk_id": 314752
+    }
+  ],
+  "qst_0413": [
+    {
+      "dsid": "dsid_7a6be2f42a25436fb4dd62fdcd186361",
+      "score": 0.7137203,
+      "chunk_id": 218263
+    },
+    {
+      "dsid": "dsid_17f99c8e400d4eaf87cdb95e7c289bda",
+      "score": 0.6784822,
+      "chunk_id": 6559
+    },
+    {
+      "dsid": "dsid_83a5765b70a34fed8e8c1adec644e4f1",
+      "score": 0.6763627,
+      "chunk_id": 284164
+    },
+    {
+      "dsid": "dsid_708328d8d8d9401aa41e36b109153952",
+      "score": 0.6730279,
+      "chunk_id": 618854
+    },
+    {
+      "dsid": "dsid_6a3aa07e35d443a687be51f0e970b3cd",
+      "score": 0.6682051,
+      "chunk_id": 506227
+    },
+    {
+      "dsid": "dsid_f1be712308df46629cf959e7df511e73",
+      "score": 0.6639162,
+      "chunk_id": 537774
+    },
+    {
+      "dsid": "dsid_8b80ff2bfcd14c59a2afc2440645e467",
+      "score": 0.6635846,
+      "chunk_id": 179952
+    },
+    {
+      "dsid": "dsid_16c654d0da794d2f99c655f47bf9d912",
+      "score": 0.6631516,
+      "chunk_id": 420070
+    },
+    {
+      "dsid": "dsid_3613d1c0851f48b9817a78bc99313d06",
+      "score": 0.6630662,
+      "chunk_id": 225658
+    },
+    {
+      "dsid": "dsid_435b45df43c74930b89b53b3fe100dd8",
+      "score": 0.6607754,
+      "chunk_id": 722423
+    }
+  ],
+  "qst_0414": [
+    {
+      "dsid": "dsid_d140ce41b16e471bbf9a879d2e136b38",
+      "score": 0.7661926,
+      "chunk_id": 163568
+    },
+    {
+      "dsid": "dsid_4bdb71c4d8464c9685fa378a6ba47550",
+      "score": 0.7521141,
+      "chunk_id": 334686
+    },
+    {
+      "dsid": "dsid_66e8806b04a44b12b6e31ae9c4784e9f",
+      "score": 0.7495307,
+      "chunk_id": 478394
+    },
+    {
+      "dsid": "dsid_b744d252e90f46b598c9ec6022b793af",
+      "score": 0.746857,
+      "chunk_id": 330572
+    },
+    {
+      "dsid": "dsid_e6d32d2a286d4861ba214f7791c05ed2",
+      "score": 0.744304,
+      "chunk_id": 243795
+    },
+    {
+      "dsid": "dsid_a64130171a3d4ef2a1b99249349fdaed",
+      "score": 0.742903,
+      "chunk_id": 32929
+    },
+    {
+      "dsid": "dsid_6df577930a4047f0b87091cbfa68efca",
+      "score": 0.7428914,
+      "chunk_id": 659700
+    },
+    {
+      "dsid": "dsid_70b8a510ad8740ffad2451cf8413b25b",
+      "score": 0.7393633,
+      "chunk_id": 867
+    },
+    {
+      "dsid": "dsid_2c049d56c3214af0aa1a6f3c0be70f93",
+      "score": 0.7363033,
+      "chunk_id": 543888
+    },
+    {
+      "dsid": "dsid_2a0c67bb7baa4e359d84cd04cd7959a9",
+      "score": 0.7351733,
+      "chunk_id": 28188
+    }
+  ],
+  "qst_0415": [
+    {
+      "dsid": "dsid_3b416e0057134ac8b334c92cbe4523e6",
+      "score": 0.6703076,
+      "chunk_id": 242419
+    },
+    {
+      "dsid": "dsid_2f5ea9aaedae4b1d9a2e1b670c2d763a",
+      "score": 0.6648574,
+      "chunk_id": 178180
+    },
+    {
+      "dsid": "dsid_987a08a0599b48afb8d153ef7960b447",
+      "score": 0.6647611,
+      "chunk_id": 543353
+    },
+    {
+      "dsid": "dsid_ad779a5cafa54efb97fc419e77b4e38a",
+      "score": 0.6641262,
+      "chunk_id": 208409
+    },
+    {
+      "dsid": "dsid_5c39ff3a88954f0199033142d6c93374",
+      "score": 0.6597626,
+      "chunk_id": 523232
+    },
+    {
+      "dsid": "dsid_9029cae8821545be8c58b41f7dbde5e8",
+      "score": 0.6587416,
+      "chunk_id": 690658
+    },
+    {
+      "dsid": "dsid_a6690ff723014420ab20e679c39c3606",
+      "score": 0.6561384,
+      "chunk_id": 297190
+    },
+    {
+      "dsid": "dsid_22ae91477a8d476a89c48f4c4425f7b8",
+      "score": 0.6544967,
+      "chunk_id": 715302
+    },
+    {
+      "dsid": "dsid_8cd22e92d45d4e26850b656dfd666b2e",
+      "score": 0.6526424,
+      "chunk_id": 603075
+    },
+    {
+      "dsid": "dsid_14e74f1a97ba4bf3a11b5bc4d6a98696",
+      "score": 0.650984,
+      "chunk_id": 657270
+    }
+  ],
+  "qst_0416": [
+    {
+      "dsid": "dsid_9b7ece0c1a544cbd91357f676aee67ab",
+      "score": 0.7164313,
+      "chunk_id": 1232
+    },
+    {
+      "dsid": "dsid_bd7f38337325402d9a82edfdf1fbc257",
+      "score": 0.7038729,
+      "chunk_id": 711457
+    },
+    {
+      "dsid": "dsid_9431233e0e1849b6b620eac4aea6701d",
+      "score": 0.6995643,
+      "chunk_id": 344258
+    },
+    {
+      "dsid": "dsid_5625e753ed574f308d80031650526f0f",
+      "score": 0.6976937,
+      "chunk_id": 709956
+    },
+    {
+      "dsid": "dsid_736c18b43ebe416a9554e2a1d054f16a",
+      "score": 0.6928061,
+      "chunk_id": 412599
+    },
+    {
+      "dsid": "dsid_9a17107f89df4a9aa0addb2707c016c8",
+      "score": 0.6926893,
+      "chunk_id": 620301
+    },
+    {
+      "dsid": "dsid_1ad2a304377049e18f22748b9e5dd045",
+      "score": 0.6919551,
+      "chunk_id": 632899
+    },
+    {
+      "dsid": "dsid_0d9f77e6327843b4a56b5fe394102b51",
+      "score": 0.6904011,
+      "chunk_id": 373032
+    },
+    {
+      "dsid": "dsid_4977201555ed4d2487b0faa95d3fb8bb",
+      "score": 0.6890409,
+      "chunk_id": 313768
+    },
+    {
+      "dsid": "dsid_1882bceebdea4a4dacc29ba1917b95ae",
+      "score": 0.6886013,
+      "chunk_id": 721611
+    }
+  ],
+  "qst_0417": [
+    {
+      "dsid": "dsid_2a40a7057f5441d48d45984f3ce28fbb",
+      "score": 0.8512404,
+      "chunk_id": 384970
+    },
+    {
+      "dsid": "dsid_36ffc3c8a15a4e5fa4ccebfdf00848d9",
+      "score": 0.822096,
+      "chunk_id": 697318
+    },
+    {
+      "dsid": "dsid_aa7cc06babbf4c15a04c0db934b8c8e8",
+      "score": 0.8082833,
+      "chunk_id": 194391
+    },
+    {
+      "dsid": "dsid_3528d6045ee14a33be2eeede3223e637",
+      "score": 0.8008646,
+      "chunk_id": 597444
+    },
+    {
+      "dsid": "dsid_bbfd212263244ef883d4481669786280",
+      "score": 0.7973962,
+      "chunk_id": 385650
+    },
+    {
+      "dsid": "dsid_eb62081cbab04a10941f27418346eaca",
+      "score": 0.7947329,
+      "chunk_id": 663148
+    },
+    {
+      "dsid": "dsid_b09919a005524bc0bf730bfd882591bc",
+      "score": 0.7905978,
+      "chunk_id": 5457
+    },
+    {
+      "dsid": "dsid_32fac8fabceb4a49863fc007d7c60575",
+      "score": 0.7898228,
+      "chunk_id": 510178
+    },
+    {
+      "dsid": "dsid_ea1f493be0574550a0d0ab0e9ea5e8a4",
+      "score": 0.7875836,
+      "chunk_id": 23278
+    },
+    {
+      "dsid": "dsid_4753342d044b454f85fd8f63fc2c0b13",
+      "score": 0.7874122,
+      "chunk_id": 648152
+    }
+  ],
+  "qst_0418": [
+    {
+      "dsid": "dsid_294d72f1c7f54fc1bd8f54b542d56c5d",
+      "score": 0.7398783,
+      "chunk_id": 693894
+    },
+    {
+      "dsid": "dsid_cab67eee6e944c7788c75cdc7e881098",
+      "score": 0.7334038,
+      "chunk_id": 184881
+    },
+    {
+      "dsid": "dsid_35425379debb4ed7907c3844379d2859",
+      "score": 0.7287561,
+      "chunk_id": 57659
+    },
+    {
+      "dsid": "dsid_fc9e97bef7b3476c91de1a71b19bfdca",
+      "score": 0.7263162,
+      "chunk_id": 630339
+    },
+    {
+      "dsid": "dsid_f36320a055f54d7c80c1be24c2346809",
+      "score": 0.7238551,
+      "chunk_id": 532936
+    },
+    {
+      "dsid": "dsid_4eda22c906ef40cc85cfe1a503d577d8",
+      "score": 0.7203099,
+      "chunk_id": 678356
+    },
+    {
+      "dsid": "dsid_0996fc066dd54c718540d29de4b4c32b",
+      "score": 0.7198391,
+      "chunk_id": 413294
+    },
+    {
+      "dsid": "dsid_9c94cf243b9e41edbf3e3f44fd36a46e",
+      "score": 0.7194972,
+      "chunk_id": 358837
+    },
+    {
+      "dsid": "dsid_60625a9f68d847778d3379c6e0bd102d",
+      "score": 0.7186986,
+      "chunk_id": 404203
+    },
+    {
+      "dsid": "dsid_fe5b2e04db744e708cdbf3e54ea78d8e",
+      "score": 0.7183893,
+      "chunk_id": 7094
+    }
+  ],
+  "qst_0419": [
+    {
+      "dsid": "dsid_aade0ee8657041ebb4a067909743d74c",
+      "score": 0.792468,
+      "chunk_id": 712235
+    },
+    {
+      "dsid": "dsid_4c7bba1029fe4c23b2fca9357e3cd4fa",
+      "score": 0.7767806,
+      "chunk_id": 396897
+    },
+    {
+      "dsid": "dsid_1aeab7ce91544bcfb7773cb9dc95df4f",
+      "score": 0.7678528,
+      "chunk_id": 456686
+    },
+    {
+      "dsid": "dsid_bf1490c9d5e74efeaffb036a56b22e84",
+      "score": 0.7672433,
+      "chunk_id": 436601
+    },
+    {
+      "dsid": "dsid_b6e9138fe5f8485fb34a705308482d56",
+      "score": 0.7653635,
+      "chunk_id": 66632
+    },
+    {
+      "dsid": "dsid_672f9a0a0e9c48418f58b52d11ddafeb",
+      "score": 0.7648541,
+      "chunk_id": 574420
+    },
+    {
+      "dsid": "dsid_7670d1017c4549ae987a90f8f9f89b2d",
+      "score": 0.7644373,
+      "chunk_id": 372597
+    },
+    {
+      "dsid": "dsid_53a88a72dc384d4bb89c0ff65de2be19",
+      "score": 0.7622402,
+      "chunk_id": 631762
+    },
+    {
+      "dsid": "dsid_f73eb4a88737445aa36fa60a3799e8e1",
+      "score": 0.7621768,
+      "chunk_id": 173547
+    },
+    {
+      "dsid": "dsid_bcf1dda54ad244239a28bfa34f40df67",
+      "score": 0.7539166,
+      "chunk_id": 224022
+    }
+  ],
+  "qst_0420": [
+    {
+      "dsid": "dsid_0dc0a50862eb48a6998ca7ba22021199",
+      "score": 0.7239815,
+      "chunk_id": 655970
+    },
+    {
+      "dsid": "dsid_189fa2af926a4c89aabbaeb99ef50f75",
+      "score": 0.7139288,
+      "chunk_id": 604509
+    },
+    {
+      "dsid": "dsid_474ec59b7e044ff392db7967ac5f8130",
+      "score": 0.7120185,
+      "chunk_id": 86317
+    },
+    {
+      "dsid": "dsid_caa70daaf7734a8f93d1db87c94c8f7c",
+      "score": 0.7101885,
+      "chunk_id": 14749
+    },
+    {
+      "dsid": "dsid_73f3048a4dad427385ac026f49f5a7f2",
+      "score": 0.7013028,
+      "chunk_id": 583771
+    },
+    {
+      "dsid": "dsid_e76caa1dae6c4071a3257336d34d0bfd",
+      "score": 0.7000895,
+      "chunk_id": 604122
+    },
+    {
+      "dsid": "dsid_10577e8b05c74306bcd71b280904df60",
+      "score": 0.7000568,
+      "chunk_id": 621708
+    },
+    {
+      "dsid": "dsid_59743e5800214366b4b962363bac4386",
+      "score": 0.6976495,
+      "chunk_id": 507185
+    },
+    {
+      "dsid": "dsid_f66a3389137b4989825167364e66a480",
+      "score": 0.6964161,
+      "chunk_id": 300605
+    },
+    {
+      "dsid": "dsid_e9987970f7c84e41845c773375499cdf",
+      "score": 0.693891,
+      "chunk_id": 81033
+    }
+  ],
+  "qst_0421": [
+    {
+      "dsid": "dsid_8f2f669ad8994ed1a4e28e0549d8e515",
+      "score": 0.706619,
+      "chunk_id": 131439
+    },
+    {
+      "dsid": "dsid_c99a1b3eca3443e090b227dc59f4a0ab",
+      "score": 0.7013628,
+      "chunk_id": 584238
+    },
+    {
+      "dsid": "dsid_f2c15c9bcfd24cc29874f7233550d520",
+      "score": 0.7008852,
+      "chunk_id": 727989
+    },
+    {
+      "dsid": "dsid_95536bd8dcac42d099c6ee3e9e9d3761",
+      "score": 0.7007918,
+      "chunk_id": 408641
+    },
+    {
+      "dsid": "dsid_f6b3a304fd9d406f81c0002db6900b4d",
+      "score": 0.7001386,
+      "chunk_id": 80388
+    },
+    {
+      "dsid": "dsid_2019e08fc06a425bb5c2a225836e8430",
+      "score": 0.7000225,
+      "chunk_id": 313646
+    },
+    {
+      "dsid": "dsid_e89de3fbd43a4e42a7bbdafdc27fa56c",
+      "score": 0.6993454,
+      "chunk_id": 620494
+    },
+    {
+      "dsid": "dsid_4c60725faeec4125bdbda44bdfb21db7",
+      "score": 0.6964341,
+      "chunk_id": 258370
+    },
+    {
+      "dsid": "dsid_e6797ac9111748cab52f981b7cd0df66",
+      "score": 0.6961743,
+      "chunk_id": 61661
+    },
+    {
+      "dsid": "dsid_561af1f6c50a462b8fa4ef43beab9732",
+      "score": 0.6952707,
+      "chunk_id": 51139
+    }
+  ],
+  "qst_0422": [
+    {
+      "dsid": "dsid_bd652ecfd751460fac9a049666af4751",
+      "score": 0.853827,
+      "chunk_id": 618655
+    },
+    {
+      "dsid": "dsid_a66a4a1ad9f14119966d40c7dc3ee278",
+      "score": 0.8384704,
+      "chunk_id": 259041
+    },
+    {
+      "dsid": "dsid_3a1b1636dd24420aa3c35a618fb4021b",
+      "score": 0.8374634,
+      "chunk_id": 101207
+    },
+    {
+      "dsid": "dsid_bbe9b491f89749e9a2c7b85c4b6157fc",
+      "score": 0.8307112,
+      "chunk_id": 700115
+    },
+    {
+      "dsid": "dsid_de66474810b744bab42dba3566886d1b",
+      "score": 0.829721,
+      "chunk_id": 105764
+    },
+    {
+      "dsid": "dsid_a1cdf0333b5548d7a50358dd529e2b77",
+      "score": 0.828254,
+      "chunk_id": 542857
+    },
+    {
+      "dsid": "dsid_413f1c43f692447fb39b4ad760b19541",
+      "score": 0.8224432,
+      "chunk_id": 221969
+    },
+    {
+      "dsid": "dsid_a92ef09e53cc44da8501e5f61d87587a",
+      "score": 0.8217924,
+      "chunk_id": 711468
+    },
+    {
+      "dsid": "dsid_adfacd06cf494af985d775effc6e7cdd",
+      "score": 0.8214836,
+      "chunk_id": 684763
+    },
+    {
+      "dsid": "dsid_2c5c6eb01a5f407aaa638322b26d6e03",
+      "score": 0.8209045,
+      "chunk_id": 676137
+    }
+  ],
+  "qst_0423": [
+    {
+      "dsid": "dsid_d5de758fe0c344b19c2eef4e4631ee7e",
+      "score": 0.7639323,
+      "chunk_id": 26207
+    },
+    {
+      "dsid": "dsid_b1c680cfc70d42c49d6499355138ad34",
+      "score": 0.7531566,
+      "chunk_id": 697380
+    },
+    {
+      "dsid": "dsid_e6c05fc3b9a1457a980e702cecde35dd",
+      "score": 0.7496831,
+      "chunk_id": 522504
+    },
+    {
+      "dsid": "dsid_bd652ecfd751460fac9a049666af4751",
+      "score": 0.7469418,
+      "chunk_id": 618655
+    },
+    {
+      "dsid": "dsid_4a0c24fa7ea1443f972bf3a59482a841",
+      "score": 0.7462981,
+      "chunk_id": 542240
+    },
+    {
+      "dsid": "dsid_a5af798449154b57aa7fd07b2193b573",
+      "score": 0.7460151,
+      "chunk_id": 56548
+    },
+    {
+      "dsid": "dsid_70bbd1111a8a4e9faca94141d44d12c8",
+      "score": 0.7428463,
+      "chunk_id": 159956
+    },
+    {
+      "dsid": "dsid_f4e73684a305499e8a4797f873c9cb4b",
+      "score": 0.7422777,
+      "chunk_id": 178619
+    },
+    {
+      "dsid": "dsid_2aac6f33915d4ad59067579a5ffb79d2",
+      "score": 0.7412127,
+      "chunk_id": 440164
+    },
+    {
+      "dsid": "dsid_a1cdf0333b5548d7a50358dd529e2b77",
+      "score": 0.740757,
+      "chunk_id": 542857
+    }
+  ],
+  "qst_0424": [
+    {
+      "dsid": "dsid_1544e7cd2408411f83148ded459574ad",
+      "score": 0.7709296,
+      "chunk_id": 266226
+    },
+    {
+      "dsid": "dsid_34e4b8d0f34f489b869da8702a66c012",
+      "score": 0.7690858,
+      "chunk_id": 178028
+    },
+    {
+      "dsid": "dsid_3b88a4c870974f898b64674dc2ec2cc7",
+      "score": 0.7681268,
+      "chunk_id": 131377
+    },
+    {
+      "dsid": "dsid_4dd5f247e98a42aa85d090bbe8ab609f",
+      "score": 0.7665913,
+      "chunk_id": 663837
+    },
+    {
+      "dsid": "dsid_14b470a686fc40f795feb0ba90f0979b",
+      "score": 0.7586765,
+      "chunk_id": 286394
+    },
+    {
+      "dsid": "dsid_0e80018681414676832c2b96b2bbfdf2",
+      "score": 0.7573982,
+      "chunk_id": 693844
+    },
+    {
+      "dsid": "dsid_3d3fa28eb80c4411a4f5b8f1eb70cfc4",
+      "score": 0.7569337,
+      "chunk_id": 105028
+    },
+    {
+      "dsid": "dsid_ff175354df6b401fa6fcaeae6a3a8aec",
+      "score": 0.7536264,
+      "chunk_id": 512736
+    },
+    {
+      "dsid": "dsid_a60d1abbed6d444d8cfc57ec67104f3a",
+      "score": 0.7510022,
+      "chunk_id": 387611
+    },
+    {
+      "dsid": "dsid_c54f4925c1364148bcaff0433b7a4db1",
+      "score": 0.7508087,
+      "chunk_id": 54852
+    }
+  ],
+  "qst_0425": [
+    {
+      "dsid": "dsid_459903ccf8854682baf3e0c468bba4e6",
+      "score": 0.7150785,
+      "chunk_id": 144574
+    },
+    {
+      "dsid": "dsid_ccd958bfd1fb4c279fa9f7c885408be9",
+      "score": 0.7083648,
+      "chunk_id": 679078
+    },
+    {
+      "dsid": "dsid_3ec0ed947cb94507be35a88ae8476541",
+      "score": 0.7003365,
+      "chunk_id": 380513
+    },
+    {
+      "dsid": "dsid_8eb85d8d772b4cd788eddf53f020f10c",
+      "score": 0.6946878,
+      "chunk_id": 151189
+    },
+    {
+      "dsid": "dsid_3f81d9ab1d1144d1a1787e9bff9ca75c",
+      "score": 0.6927024,
+      "chunk_id": 10370
+    },
+    {
+      "dsid": "dsid_f1216627b7d742d9b15f973749fbc544",
+      "score": 0.6852942,
+      "chunk_id": 548676
+    },
+    {
+      "dsid": "dsid_6edf73053a554961a6cb463f18600b16",
+      "score": 0.6852403,
+      "chunk_id": 572745
+    },
+    {
+      "dsid": "dsid_6a96a6e393a7452caaeac3c664fb2e7b",
+      "score": 0.6842806,
+      "chunk_id": 76644
+    },
+    {
+      "dsid": "dsid_5068f558b6f84fc1b6a4785b0885186b",
+      "score": 0.6838548,
+      "chunk_id": 626526
+    },
+    {
+      "dsid": "dsid_51843586e3df416a8d7df66177d6256d",
+      "score": 0.6791726,
+      "chunk_id": 223048
+    }
+  ],
+  "qst_0426": [
+    {
+      "dsid": "dsid_657659d729e94d8da1772c11c12f3a6f",
+      "score": 0.8208557,
+      "chunk_id": 167133
+    },
+    {
+      "dsid": "dsid_e04b32362f084d388f54be4fdd18e35b",
+      "score": 0.8123578,
+      "chunk_id": 256614
+    },
+    {
+      "dsid": "dsid_a32486e2d41d4bf3af3d9aed1b955585",
+      "score": 0.805403,
+      "chunk_id": 133295
+    },
+    {
+      "dsid": "dsid_81d0dafa990a4818aefe7702dac794a1",
+      "score": 0.8016198,
+      "chunk_id": 114044
+    },
+    {
+      "dsid": "dsid_228172b6b49843709980012f4d2c8fa9",
+      "score": 0.797791,
+      "chunk_id": 18366
+    },
+    {
+      "dsid": "dsid_df23e4ba6ab84442bca9d8f665420b85",
+      "score": 0.7975283,
+      "chunk_id": 208154
+    },
+    {
+      "dsid": "dsid_43473b93618e498da6155dad9e50701a",
+      "score": 0.7947647,
+      "chunk_id": 426173
+    },
+    {
+      "dsid": "dsid_330875e5c0a14211b124056d2fd06009",
+      "score": 0.7933127,
+      "chunk_id": 257721
+    },
+    {
+      "dsid": "dsid_a27715e7309c494d812c75cf03bcf916",
+      "score": 0.7919028,
+      "chunk_id": 1293
+    },
+    {
+      "dsid": "dsid_3199f6a2210448788a4af18c72b37c3d",
+      "score": 0.7892647,
+      "chunk_id": 288219
+    }
+  ],
+  "qst_0427": [
+    {
+      "dsid": "dsid_7ef6be1f3200417d9a71425bcbb14cb4",
+      "score": 0.7267512,
+      "chunk_id": 39470
+    },
+    {
+      "dsid": "dsid_61758341fbfa4ea2bd0b480d94278681",
+      "score": 0.7217792,
+      "chunk_id": 433668
+    },
+    {
+      "dsid": "dsid_d22e27cc969046b09e5f5150b5055280",
+      "score": 0.7215644,
+      "chunk_id": 3970
+    },
+    {
+      "dsid": "dsid_65ed0371bd224b7584b9c5fa91e30b27",
+      "score": 0.7107594,
+      "chunk_id": 542338
+    },
+    {
+      "dsid": "dsid_96be9e6fdd8245508457f10b2b714fca",
+      "score": 0.7088001,
+      "chunk_id": 352209
+    },
+    {
+      "dsid": "dsid_ae8c04b3672b47b89ec25c6e6f6cbe94",
+      "score": 0.7054678,
+      "chunk_id": 97517
+    },
+    {
+      "dsid": "dsid_95c66398147f4e4f94ee2183d57b2755",
+      "score": 0.7049733,
+      "chunk_id": 123335
+    },
+    {
+      "dsid": "dsid_442a4f8e78d34aa6a885ca1d13bd3c28",
+      "score": 0.6965747,
+      "chunk_id": 93699
+    },
+    {
+      "dsid": "dsid_8cafee36a27c4b2289ffc0bf15d5ccf6",
+      "score": 0.695959,
+      "chunk_id": 117907
+    },
+    {
+      "dsid": "dsid_ad143437caf7412a9602de74276e077f",
+      "score": 0.6958899,
+      "chunk_id": 74170
+    }
+  ],
+  "qst_0428": [
+    {
+      "dsid": "dsid_7417c55973d44ccc882e1b3b4597da0b",
+      "score": 0.8275677,
+      "chunk_id": 10678
+    },
+    {
+      "dsid": "dsid_0b8cb9d4c9c5426da6fcf861df3d37a3",
+      "score": 0.8242058,
+      "chunk_id": 732911
+    },
+    {
+      "dsid": "dsid_02cc9ecc95544210b08206081e41736a",
+      "score": 0.8215414,
+      "chunk_id": 432244
+    },
+    {
+      "dsid": "dsid_75567a6f705345da88d686e0709aef7e",
+      "score": 0.8164777,
+      "chunk_id": 431705
+    },
+    {
+      "dsid": "dsid_183c05c7006f4291a65fcdb4aed358d5",
+      "score": 0.8152599,
+      "chunk_id": 522284
+    },
+    {
+      "dsid": "dsid_22bb221b0d624c6a88e715c6b15304ad",
+      "score": 0.8143542,
+      "chunk_id": 722134
+    },
+    {
+      "dsid": "dsid_8f1f423fe0844742aa57ffdb8e465ab5",
+      "score": 0.8102961,
+      "chunk_id": 227848
+    },
+    {
+      "dsid": "dsid_40f7d1dd52d94bdf81b2f027562f2330",
+      "score": 0.8101649,
+      "chunk_id": 323836
+    },
+    {
+      "dsid": "dsid_402222c64a914b85826fff16f7869ef8",
+      "score": 0.809036,
+      "chunk_id": 71802
+    },
+    {
+      "dsid": "dsid_2f87cda074d7430cab707c842a80f295",
+      "score": 0.8089784,
+      "chunk_id": 282356
+    }
+  ],
+  "qst_0429": [
+    {
+      "dsid": "dsid_f3af4a0db68c4b15983439460cc73006",
+      "score": 0.8650495,
+      "chunk_id": 38005
+    },
+    {
+      "dsid": "dsid_7c01401464534cf1bd0d794983a9cd01",
+      "score": 0.8590623,
+      "chunk_id": 57699
+    },
+    {
+      "dsid": "dsid_ef190e0d662f40c08718906b61adc7d5",
+      "score": 0.8484572,
+      "chunk_id": 221801
+    },
+    {
+      "dsid": "dsid_c9c79446ea0447e1acb0e01259bbaabe",
+      "score": 0.8423387,
+      "chunk_id": 174550
+    },
+    {
+      "dsid": "dsid_4db91db34a4c4601be67d4b41fefcd89",
+      "score": 0.8416561,
+      "chunk_id": 574713
+    },
+    {
+      "dsid": "dsid_d953d0316cb24c76bb74b8461cc93c52",
+      "score": 0.8413374,
+      "chunk_id": 236940
+    },
+    {
+      "dsid": "dsid_0cf8e61c4a374175ad19f173e218d3d8",
+      "score": 0.8397068,
+      "chunk_id": 358602
+    },
+    {
+      "dsid": "dsid_70248942853848aa8ae3282cbd5c7777",
+      "score": 0.8390101,
+      "chunk_id": 381637
+    },
+    {
+      "dsid": "dsid_66d15a33111c48f1b72385a82e40675a",
+      "score": 0.83885,
+      "chunk_id": 185127
+    },
+    {
+      "dsid": "dsid_b55e4bffa082461b82c43243414e4565",
+      "score": 0.8377236,
+      "chunk_id": 385801
+    }
+  ],
+  "qst_0430": [
+    {
+      "dsid": "dsid_3bb0c86ce68d4c46bec7759060dab664",
+      "score": 0.821407,
+      "chunk_id": 254645
+    },
+    {
+      "dsid": "dsid_8438ef8572b6402b8efcbc6cdcaca8a2",
+      "score": 0.8135998,
+      "chunk_id": 98897
+    },
+    {
+      "dsid": "dsid_fa69765e050546baa293efccbdfdfdbd",
+      "score": 0.8070855,
+      "chunk_id": 294476
+    },
+    {
+      "dsid": "dsid_130a1c39564f4ea7b76b5c1171fec516",
+      "score": 0.8034682,
+      "chunk_id": 457363
+    },
+    {
+      "dsid": "dsid_a90941b9ed154024b87d16025a1145f6",
+      "score": 0.7818398,
+      "chunk_id": 1350
+    },
+    {
+      "dsid": "dsid_3f546d9ef7474dc09a35ff29a6745608",
+      "score": 0.7792866,
+      "chunk_id": 596300
+    },
+    {
+      "dsid": "dsid_2e1a2d524d9a420faa837d16350d0a84",
+      "score": 0.7763794,
+      "chunk_id": 27019
+    },
+    {
+      "dsid": "dsid_56264121503a4eac9991e244b9accd84",
+      "score": 0.7760648,
+      "chunk_id": 483783
+    },
+    {
+      "dsid": "dsid_39cd0a01db2f447d947151396e09ecab",
+      "score": 0.7719939,
+      "chunk_id": 320222
+    },
+    {
+      "dsid": "dsid_0d9afc2cf6a046dfa3c65e8e54f48fe9",
+      "score": 0.7674546,
+      "chunk_id": 203725
+    }
+  ],
+  "qst_0431": [
+    {
+      "dsid": "dsid_8f0a271c22e4488090c59affa567a38a",
+      "score": 0.7668638,
+      "chunk_id": 324261
+    },
+    {
+      "dsid": "dsid_ccb58a6cf43a444da07e2a4371d70dab",
+      "score": 0.7642214,
+      "chunk_id": 543632
+    },
+    {
+      "dsid": "dsid_c8b50396a038470b937a9bf69b00cab4",
+      "score": 0.7513357,
+      "chunk_id": 270199
+    },
+    {
+      "dsid": "dsid_c3fcb529cae946828e0208b467e8802b",
+      "score": 0.7487903,
+      "chunk_id": 318045
+    },
+    {
+      "dsid": "dsid_0fc01a21adc4424b966b6728e62bc212",
+      "score": 0.7460386,
+      "chunk_id": 157765
+    },
+    {
+      "dsid": "dsid_42aad55e1b9848b7944b7437e7b8339e",
+      "score": 0.7443035,
+      "chunk_id": 81236
+    },
+    {
+      "dsid": "dsid_05ddb5e264cc45628d0c5e96ccf369f3",
+      "score": 0.7432585,
+      "chunk_id": 660225
+    },
+    {
+      "dsid": "dsid_fe101800fb8a4bebaba1d6191fe94a46",
+      "score": 0.7355593,
+      "chunk_id": 539619
+    },
+    {
+      "dsid": "dsid_1e6342a96205492e804d4b1952e159ce",
+      "score": 0.7348663,
+      "chunk_id": 569427
+    },
+    {
+      "dsid": "dsid_9a498f514e03406588c1fa1dfcc1df08",
+      "score": 0.733014,
+      "chunk_id": 41257
+    }
+  ],
+  "qst_0432": [
+    {
+      "dsid": "dsid_134433554bc14a878ad1ba1e6c8e48c8",
+      "score": 0.7207118,
+      "chunk_id": 502812
+    },
+    {
+      "dsid": "dsid_a73c735b4ad84ab08100d17644cb7777",
+      "score": 0.7142459,
+      "chunk_id": 562967
+    },
+    {
+      "dsid": "dsid_47747401df8842d9ab86a9b4f12ad377",
+      "score": 0.7134548,
+      "chunk_id": 384269
+    },
+    {
+      "dsid": "dsid_f7703547e6c44a118c164562b742b684",
+      "score": 0.7117901,
+      "chunk_id": 227089
+    },
+    {
+      "dsid": "dsid_f24839379ee44a74847a247e7cdd36a2",
+      "score": 0.7080963,
+      "chunk_id": 694577
+    },
+    {
+      "dsid": "dsid_453f03be509a4c789af8b1df43508a80",
+      "score": 0.707644,
+      "chunk_id": 26510
+    },
+    {
+      "dsid": "dsid_adc53a79baa3464c82bfd8423220d773",
+      "score": 0.7073212,
+      "chunk_id": 659248
+    },
+    {
+      "dsid": "dsid_1a70a22b531049b09e466dacacf660cf",
+      "score": 0.7063129,
+      "chunk_id": 663454
+    },
+    {
+      "dsid": "dsid_0fbe59c76a9a4162a984e1f8d8bc6a22",
+      "score": 0.705573,
+      "chunk_id": 676286
+    },
+    {
+      "dsid": "dsid_c2c27372274b4f3784a745667847b748",
+      "score": 0.7052137,
+      "chunk_id": 706222
+    }
+  ],
+  "qst_0433": [
+    {
+      "dsid": "dsid_a9477ced1a884dc59cda575f4fde9671",
+      "score": 0.8003119,
+      "chunk_id": 701855
+    },
+    {
+      "dsid": "dsid_b9f4e93c36ee4523a0741d06f47651cd",
+      "score": 0.7856232,
+      "chunk_id": 249213
+    },
+    {
+      "dsid": "dsid_4753342d044b454f85fd8f63fc2c0b13",
+      "score": 0.7851647,
+      "chunk_id": 648152
+    },
+    {
+      "dsid": "dsid_bbfd212263244ef883d4481669786280",
+      "score": 0.7839125,
+      "chunk_id": 385650
+    },
+    {
+      "dsid": "dsid_f741e57a65424e20aafcf1fc0bad0bf5",
+      "score": 0.7802458,
+      "chunk_id": 127229
+    },
+    {
+      "dsid": "dsid_e7705ae626c44344bfe5f6a596f79bf8",
+      "score": 0.7801385,
+      "chunk_id": 157379
+    },
+    {
+      "dsid": "dsid_a9cd19e08f1149e1bd0a6c497044a648",
+      "score": 0.7796175,
+      "chunk_id": 619389
+    },
+    {
+      "dsid": "dsid_7c57c5ef0d1b46fc9ec2b7d19dc4e8b3",
+      "score": 0.7793043,
+      "chunk_id": 624335
+    },
+    {
+      "dsid": "dsid_812404a5d3e94e179e1b4fccc0bd1672",
+      "score": 0.7777706,
+      "chunk_id": 710870
+    },
+    {
+      "dsid": "dsid_5b1ccee63a71455aa0375e5a543ed529",
+      "score": 0.7719486,
+      "chunk_id": 58988
+    }
+  ],
+  "qst_0434": [
+    {
+      "dsid": "dsid_be45913ee6f2464c8683d46d229e7006",
+      "score": 0.8077841,
+      "chunk_id": 234064
+    },
+    {
+      "dsid": "dsid_bb247f7bd4204d5eb83fedec3c3d8e83",
+      "score": 0.6863824,
+      "chunk_id": 304789
+    },
+    {
+      "dsid": "dsid_e3d67211b4b845abb282ec343e9e51b4",
+      "score": 0.6856446,
+      "chunk_id": 296920
+    },
+    {
+      "dsid": "dsid_2ca372925e2846d3b294a3feda86c765",
+      "score": 0.6769105,
+      "chunk_id": 554676
+    },
+    {
+      "dsid": "dsid_369b751a36104956a469168b80144c68",
+      "score": 0.6725121,
+      "chunk_id": 19368
+    },
+    {
+      "dsid": "dsid_114b875e9c8f4acea594081db07501aa",
+      "score": 0.6724553,
+      "chunk_id": 492764
+    },
+    {
+      "dsid": "dsid_2d054aecf78a43688ae8596ac596134d",
+      "score": 0.6716298,
+      "chunk_id": 244435
+    },
+    {
+      "dsid": "dsid_1f79588ff9e943539a4f79bfb814baee",
+      "score": 0.6707836,
+      "chunk_id": 449728
+    },
+    {
+      "dsid": "dsid_3a07e082fcc64acd8f4020d4812b93c6",
+      "score": 0.6690982,
+      "chunk_id": 402982
+    },
+    {
+      "dsid": "dsid_b38089d9f09243488d716c28267ee93b",
+      "score": 0.6686156,
+      "chunk_id": 286026
+    }
+  ],
+  "qst_0435": [
+    {
+      "dsid": "dsid_45295c60e201443ab745b74f6a7d7f63",
+      "score": 0.6922222,
+      "chunk_id": 428161
+    },
+    {
+      "dsid": "dsid_e315eaf339664b89ac5be8e2a3b391c9",
+      "score": 0.6677214,
+      "chunk_id": 354155
+    },
+    {
+      "dsid": "dsid_6e27bd8af500477a905e7fc22085545c",
+      "score": 0.6541588,
+      "chunk_id": 660654
+    },
+    {
+      "dsid": "dsid_b69e2c0dd0d940a284e0f191e0e5a476",
+      "score": 0.6526636,
+      "chunk_id": 528631
+    },
+    {
+      "dsid": "dsid_a829c54f22aa429982c789ecc4d989c8",
+      "score": 0.6497768,
+      "chunk_id": 242277
+    },
+    {
+      "dsid": "dsid_5e291bd301ae4020a6cbfd469cffddca",
+      "score": 0.6461476,
+      "chunk_id": 521180
+    },
+    {
+      "dsid": "dsid_eccd3c0793124baca67638138202c48c",
+      "score": 0.6455883,
+      "chunk_id": 121073
+    },
+    {
+      "dsid": "dsid_14a3261be8194b97acded64f28b12190",
+      "score": 0.6444945,
+      "chunk_id": 553031
+    },
+    {
+      "dsid": "dsid_007ecd3225e0420b9f3bbea15514f0a5",
+      "score": 0.6437187,
+      "chunk_id": 445411
+    },
+    {
+      "dsid": "dsid_6428ceb21ab0469c8f7b0e0df15b48e5",
+      "score": 0.6436529,
+      "chunk_id": 160292
+    }
+  ],
+  "qst_0436": [
+    {
+      "dsid": "dsid_27b894a12f564f24b6507ee7631ce61a",
+      "score": 0.7873394,
+      "chunk_id": 460601
+    },
+    {
+      "dsid": "dsid_7cb24528f2bc44fbb600ea6edf38be8f",
+      "score": 0.7747351,
+      "chunk_id": 273637
+    },
+    {
+      "dsid": "dsid_5f74be2c910f40509b5e20dd46bb0459",
+      "score": 0.7746914,
+      "chunk_id": 649321
+    },
+    {
+      "dsid": "dsid_a1fe6c7018cc4e6096b99556dd4b2d6f",
+      "score": 0.7737385,
+      "chunk_id": 116764
+    },
+    {
+      "dsid": "dsid_0768fd4ccc7c4df784f62b2ffb8bd729",
+      "score": 0.7615364,
+      "chunk_id": 514337
+    },
+    {
+      "dsid": "dsid_064f40a1f03b4c68bdeb3111f252241d",
+      "score": 0.7553323,
+      "chunk_id": 494831
+    },
+    {
+      "dsid": "dsid_56b8bae3dc864a319a5d979716f8b81e",
+      "score": 0.7530662,
+      "chunk_id": 496078
+    },
+    {
+      "dsid": "dsid_0962fe61ae6042cb9ee29b45dd66c2bb",
+      "score": 0.7528519,
+      "chunk_id": 478071
+    },
+    {
+      "dsid": "dsid_d323388203d249508c49bce2c10d9a66",
+      "score": 0.7528258,
+      "chunk_id": 333003
+    },
+    {
+      "dsid": "dsid_eb910974a0d7496b902c6be32bfa7c59",
+      "score": 0.7523723,
+      "chunk_id": 732738
+    }
+  ],
+  "qst_0437": [
+    {
+      "dsid": "dsid_64928bf38d764e21aa3300e67ee461b7",
+      "score": 0.7622,
+      "chunk_id": 507010
+    },
+    {
+      "dsid": "dsid_0c214c4088774dcd89d84b78dc195be8",
+      "score": 0.7411307,
+      "chunk_id": 62436
+    },
+    {
+      "dsid": "dsid_ea323519f9e846dba2311080d6f8768a",
+      "score": 0.7114034,
+      "chunk_id": 725501
+    },
+    {
+      "dsid": "dsid_3b7139962b28486aaa3a498cb375b2a9",
+      "score": 0.7015267,
+      "chunk_id": 49417
+    },
+    {
+      "dsid": "dsid_c997fff90515468b8f3f0f5cb1d38b98",
+      "score": 0.7006806,
+      "chunk_id": 645716
+    },
+    {
+      "dsid": "dsid_2c9a5a42d02a4c8d828396747d6fc6b0",
+      "score": 0.6963245,
+      "chunk_id": 439408
+    },
+    {
+      "dsid": "dsid_d0d53365ffc14ed7ada095db5ad565df",
+      "score": 0.6957918,
+      "chunk_id": 390663
+    },
+    {
+      "dsid": "dsid_947fb5af0b4c42ff8cf2aeedbc7f826b",
+      "score": 0.6901667,
+      "chunk_id": 499605
+    },
+    {
+      "dsid": "dsid_dae77cc197754bc2b70dc6cef3e91f7c",
+      "score": 0.6895499,
+      "chunk_id": 627004
+    },
+    {
+      "dsid": "dsid_d029f88e2e064dc5ab561ac9d9499337",
+      "score": 0.6894171,
+      "chunk_id": 242024
+    }
+  ],
+  "qst_0438": [
+    {
+      "dsid": "dsid_3b8a6d554a994a739449fd95719f32ae",
+      "score": 0.7627805,
+      "chunk_id": 346120
+    },
+    {
+      "dsid": "dsid_49c8e40141de4281aa3f7852097c5e5e",
+      "score": 0.7623825,
+      "chunk_id": 468200
+    },
+    {
+      "dsid": "dsid_ca7dee5f843c4011aed8e515e08dbe47",
+      "score": 0.7602235,
+      "chunk_id": 28896
+    },
+    {
+      "dsid": "dsid_af155e42882f42dda50258eee7bc92fd",
+      "score": 0.755082,
+      "chunk_id": 532674
+    },
+    {
+      "dsid": "dsid_55c3f751879749c4988ee042fd734939",
+      "score": 0.7538797,
+      "chunk_id": 73818
+    },
+    {
+      "dsid": "dsid_f79d85e094694db5a28ab49841e2f5c2",
+      "score": 0.7536136,
+      "chunk_id": 404635
+    },
+    {
+      "dsid": "dsid_fbb1c0d8591f4f0abf27d698c9f43734",
+      "score": 0.7521705,
+      "chunk_id": 6946
+    },
+    {
+      "dsid": "dsid_9b9d757ba9ba451580f13947cbc0aecf",
+      "score": 0.7513704,
+      "chunk_id": 402564
+    },
+    {
+      "dsid": "dsid_a5bb699a5d8349a1b6181dc3709a4bad",
+      "score": 0.7509241,
+      "chunk_id": 521300
+    },
+    {
+      "dsid": "dsid_1ec8274d5b4545a580387a9994a4cda2",
+      "score": 0.7495487,
+      "chunk_id": 268622
+    }
+  ],
+  "qst_0439": [
+    {
+      "dsid": "dsid_eea56bf657db4ee59d2f2e7f234ae077",
+      "score": 0.821704,
+      "chunk_id": 666115
+    },
+    {
+      "dsid": "dsid_3b7139962b28486aaa3a498cb375b2a9",
+      "score": 0.8184457,
+      "chunk_id": 49417
+    },
+    {
+      "dsid": "dsid_a9cd19e08f1149e1bd0a6c497044a648",
+      "score": 0.80072,
+      "chunk_id": 619389
+    },
+    {
+      "dsid": "dsid_a5bb699a5d8349a1b6181dc3709a4bad",
+      "score": 0.7983654,
+      "chunk_id": 521300
+    },
+    {
+      "dsid": "dsid_39121e7c58d54378a5c9306e83683c69",
+      "score": 0.7960565,
+      "chunk_id": 602976
+    },
+    {
+      "dsid": "dsid_adaa713d08d5460a94b38e334c63edd2",
+      "score": 0.7943998,
+      "chunk_id": 277036
+    },
+    {
+      "dsid": "dsid_d74fff4e870c4cf79673e3083c1973b7",
+      "score": 0.7942402,
+      "chunk_id": 345674
+    },
+    {
+      "dsid": "dsid_a70e17b1138147e798346e18c6ec9183",
+      "score": 0.7940122,
+      "chunk_id": 172505
+    },
+    {
+      "dsid": "dsid_a9477ced1a884dc59cda575f4fde9671",
+      "score": 0.7937996,
+      "chunk_id": 701855
+    },
+    {
+      "dsid": "dsid_61259cb6a4bc413ab7cd2d07dfd5df0a",
+      "score": 0.7931255,
+      "chunk_id": 462397
+    }
+  ],
+  "qst_0440": [
+    {
+      "dsid": "dsid_56361f29ae0a4544afb46e787d28ef0c",
+      "score": 0.8142564,
+      "chunk_id": 502120
+    },
+    {
+      "dsid": "dsid_5a12e52af7fa49b58c320f59458aca0d",
+      "score": 0.8118225,
+      "chunk_id": 19510
+    },
+    {
+      "dsid": "dsid_f741e57a65424e20aafcf1fc0bad0bf5",
+      "score": 0.8092354,
+      "chunk_id": 127229
+    },
+    {
+      "dsid": "dsid_e6c05fc3b9a1457a980e702cecde35dd",
+      "score": 0.8090452,
+      "chunk_id": 522504
+    },
+    {
+      "dsid": "dsid_8103aeea8b404a1fbdc8d5a08b30b070",
+      "score": 0.8085834,
+      "chunk_id": 363323
+    },
+    {
+      "dsid": "dsid_367251c5d20143e0a7e9763dec33f46b",
+      "score": 0.8057946,
+      "chunk_id": 718654
+    },
+    {
+      "dsid": "dsid_344e79ce1b0140dbbb0af8ec90c36ce8",
+      "score": 0.8024033,
+      "chunk_id": 599099
+    },
+    {
+      "dsid": "dsid_722b3f4c1ddd4f6c830e8477c5143087",
+      "score": 0.8023319,
+      "chunk_id": 353612
+    },
+    {
+      "dsid": "dsid_21b025cf5a3c49a7b98764938d468eaf",
+      "score": 0.8012316,
+      "chunk_id": 80947
+    },
+    {
+      "dsid": "dsid_ca51ebbdbb1f4d6797d29afddb411d1e",
+      "score": 0.7987484,
+      "chunk_id": 287826
+    }
+  ],
+  "qst_0441": [
+    {
+      "dsid": "dsid_9be51ed019604b889d81f7cae20b03a1",
+      "score": 0.8283702,
+      "chunk_id": 328320
+    },
+    {
+      "dsid": "dsid_aa5f05fc2e1a4a1999f08b5f1d4526e9",
+      "score": 0.790445,
+      "chunk_id": 133638
+    },
+    {
+      "dsid": "dsid_4753342d044b454f85fd8f63fc2c0b13",
+      "score": 0.7858773,
+      "chunk_id": 648152
+    },
+    {
+      "dsid": "dsid_bbfd212263244ef883d4481669786280",
+      "score": 0.7856498,
+      "chunk_id": 385650
+    },
+    {
+      "dsid": "dsid_3528d6045ee14a33be2eeede3223e637",
+      "score": 0.7849436,
+      "chunk_id": 597444
+    },
+    {
+      "dsid": "dsid_1ec2fa8b9b814df8ae8d31c872ce471a",
+      "score": 0.778695,
+      "chunk_id": 307030
+    },
+    {
+      "dsid": "dsid_a999ce2954134685a1ef5d3c8fdd32ab",
+      "score": 0.7739774,
+      "chunk_id": 651811
+    },
+    {
+      "dsid": "dsid_ccb74cb480ee47f3b5e91d4fe16ebd26",
+      "score": 0.7720333,
+      "chunk_id": 246047
+    },
+    {
+      "dsid": "dsid_1ebd28a59d224b9584841dfc48055d09",
+      "score": 0.7688798,
+      "chunk_id": 645314
+    },
+    {
+      "dsid": "dsid_e7705ae626c44344bfe5f6a596f79bf8",
+      "score": 0.7657659,
+      "chunk_id": 157380
+    }
+  ],
+  "qst_0442": [
+    {
+      "dsid": "dsid_adaa713d08d5460a94b38e334c63edd2",
+      "score": 0.7940517,
+      "chunk_id": 277036
+    },
+    {
+      "dsid": "dsid_686ad0a249f94cf29027a4a7a31c35a8",
+      "score": 0.7885967,
+      "chunk_id": 551143
+    },
+    {
+      "dsid": "dsid_e9449b6bfff34ff483383a918ad1ba24",
+      "score": 0.7858368,
+      "chunk_id": 214702
+    },
+    {
+      "dsid": "dsid_1ea665305a1a41f5b522216fa4594ad1",
+      "score": 0.781926,
+      "chunk_id": 232547
+    },
+    {
+      "dsid": "dsid_c4b6ece8d04341899459b28d98321995",
+      "score": 0.7808371,
+      "chunk_id": 89690
+    },
+    {
+      "dsid": "dsid_f79d85e094694db5a28ab49841e2f5c2",
+      "score": 0.7799178,
+      "chunk_id": 404635
+    },
+    {
+      "dsid": "dsid_404fad09918f49d28cd8373c61b9d66f",
+      "score": 0.7796723,
+      "chunk_id": 27109
+    },
+    {
+      "dsid": "dsid_7c5291a229374d13bdddb8726247e71b",
+      "score": 0.7781657,
+      "chunk_id": 113962
+    },
+    {
+      "dsid": "dsid_5b1ccee63a71455aa0375e5a543ed529",
+      "score": 0.7779052,
+      "chunk_id": 58988
+    },
+    {
+      "dsid": "dsid_ca98038a9ee140759fefe509a5a8ad1a",
+      "score": 0.7760831,
+      "chunk_id": 394518
+    }
+  ],
+  "qst_0443": [
+    {
+      "dsid": "dsid_eec913ed379944b0be490547fd1cec96",
+      "score": 0.7809621,
+      "chunk_id": 584908
+    },
+    {
+      "dsid": "dsid_38bc077644014a3c88e9e5b74dfce1e7",
+      "score": 0.7606961,
+      "chunk_id": 114339
+    },
+    {
+      "dsid": "dsid_64928bf38d764e21aa3300e67ee461b7",
+      "score": 0.7417293,
+      "chunk_id": 507010
+    },
+    {
+      "dsid": "dsid_1da2bb85e1a94e908cb7894431bac8b0",
+      "score": 0.7306898,
+      "chunk_id": 52815
+    },
+    {
+      "dsid": "dsid_c5cec4cb5cad482ba77426ccb7ef9685",
+      "score": 0.7279355,
+      "chunk_id": 632673
+    },
+    {
+      "dsid": "dsid_9be51ed019604b889d81f7cae20b03a1",
+      "score": 0.7276039,
+      "chunk_id": 328320
+    },
+    {
+      "dsid": "dsid_b9ad74e8461c4523ab960c2b678c2f26",
+      "score": 0.7228726,
+      "chunk_id": 163233
+    },
+    {
+      "dsid": "dsid_a999ce2954134685a1ef5d3c8fdd32ab",
+      "score": 0.7206078,
+      "chunk_id": 651811
+    },
+    {
+      "dsid": "dsid_58afa81599d548c9aecfd6120822bb78",
+      "score": 0.7203807,
+      "chunk_id": 659310
+    },
+    {
+      "dsid": "dsid_a794f3dd00464ed18382ca2916a685e5",
+      "score": 0.7122581,
+      "chunk_id": 460831
+    }
+  ],
+  "qst_0444": [
+    {
+      "dsid": "dsid_f79d85e094694db5a28ab49841e2f5c2",
+      "score": 0.8538404,
+      "chunk_id": 404635
+    },
+    {
+      "dsid": "dsid_747b1524975a44788de71711ada74a22",
+      "score": 0.8450493,
+      "chunk_id": 642216
+    },
+    {
+      "dsid": "dsid_3ad48d27edd44b0cab2956b844ebab58",
+      "score": 0.8427646,
+      "chunk_id": 620925
+    },
+    {
+      "dsid": "dsid_40389fc442db4ba9b1b5eac2e8ba35bc",
+      "score": 0.8386577,
+      "chunk_id": 131792
+    },
+    {
+      "dsid": "dsid_686ad0a249f94cf29027a4a7a31c35a8",
+      "score": 0.836422,
+      "chunk_id": 551143
+    },
+    {
+      "dsid": "dsid_41c853e8ef094c61aaf1c7e6f54a0d0d",
+      "score": 0.8356872,
+      "chunk_id": 12344
+    },
+    {
+      "dsid": "dsid_ec9e8c182c464387b0c749821b2eaf75",
+      "score": 0.8349881,
+      "chunk_id": 714452
+    },
+    {
+      "dsid": "dsid_da27dd864873473fb660fd27c0183fc0",
+      "score": 0.832922,
+      "chunk_id": 724245
+    },
+    {
+      "dsid": "dsid_8174838c3f2646328a9fb2776da60e8c",
+      "score": 0.8316965,
+      "chunk_id": 388515
+    },
+    {
+      "dsid": "dsid_5bc8521c8dcb41eab6ef3bcd5b0567cc",
+      "score": 0.8305033,
+      "chunk_id": 90582
+    }
+  ],
+  "qst_0445": [
+    {
+      "dsid": "dsid_2946c201a63e4e4e965ec33573539f12",
+      "score": 0.8679794,
+      "chunk_id": 275583
+    },
+    {
+      "dsid": "dsid_f236e7c90dde495184d7de1c1fb56caa",
+      "score": 0.8679493,
+      "chunk_id": 473946
+    },
+    {
+      "dsid": "dsid_747b1524975a44788de71711ada74a22",
+      "score": 0.8602171,
+      "chunk_id": 642216
+    },
+    {
+      "dsid": "dsid_918e5837f87b4368af831ce5d6bd71f2",
+      "score": 0.8570042,
+      "chunk_id": 547229
+    },
+    {
+      "dsid": "dsid_084ad5b06631468aa87d8ae6e2a9e379",
+      "score": 0.8569999,
+      "chunk_id": 449017
+    },
+    {
+      "dsid": "dsid_58a4df1e8b5c4ca8a7dd53fdf6fc90a6",
+      "score": 0.856213,
+      "chunk_id": 123802
+    },
+    {
+      "dsid": "dsid_3fa872f3d82740839fa92796b3e55da8",
+      "score": 0.8536167,
+      "chunk_id": 221687
+    },
+    {
+      "dsid": "dsid_8287d4a564d446c3b736d0dfa9c1a68b",
+      "score": 0.8523352,
+      "chunk_id": 297283
+    },
+    {
+      "dsid": "dsid_becf2813fca5465eb2f51a8301397206",
+      "score": 0.8522784,
+      "chunk_id": 680187
+    },
+    {
+      "dsid": "dsid_c73cba9cbca24eb3a524eb5428f426ae",
+      "score": 0.8516447,
+      "chunk_id": 606561
+    }
+  ],
+  "qst_0446": [
+    {
+      "dsid": "dsid_3f9bc322ea1d4fd092dca0408016d8fe",
+      "score": 0.75914,
+      "chunk_id": 316344
+    },
+    {
+      "dsid": "dsid_a45f81e2fd704335afa9e107f66f9717",
+      "score": 0.7335982,
+      "chunk_id": 53346
+    },
+    {
+      "dsid": "dsid_4917baec5ac946ecac5c066953239d97",
+      "score": 0.7335768,
+      "chunk_id": 244905
+    },
+    {
+      "dsid": "dsid_f5f9f857731847e5a10d94c850177770",
+      "score": 0.7304111,
+      "chunk_id": 337413
+    },
+    {
+      "dsid": "dsid_7188badb9a574a37bbb800e19868e185",
+      "score": 0.7272991,
+      "chunk_id": 75725
+    },
+    {
+      "dsid": "dsid_fa2c2ca5352f4b95b60ef414437dc095",
+      "score": 0.7259134,
+      "chunk_id": 202666
+    },
+    {
+      "dsid": "dsid_fdbd36acfe4c408a8d9267ea7e016b1d",
+      "score": 0.72302,
+      "chunk_id": 654993
+    },
+    {
+      "dsid": "dsid_fd333262a4214012af9e60e70b403276",
+      "score": 0.7211858,
+      "chunk_id": 69120
+    },
+    {
+      "dsid": "dsid_09c6434ab6c94bb38055f1f9524bf845",
+      "score": 0.7200354,
+      "chunk_id": 604475
+    },
+    {
+      "dsid": "dsid_6c33169871f04e1d81c8a7b7b5695b73",
+      "score": 0.7170967,
+      "chunk_id": 101203
+    }
+  ],
+  "qst_0447": [
+    {
+      "dsid": "dsid_2e7aad14b965458693fa830b5049130c",
+      "score": 0.7801149,
+      "chunk_id": 547624
+    },
+    {
+      "dsid": "dsid_f79d85e094694db5a28ab49841e2f5c2",
+      "score": 0.7794741,
+      "chunk_id": 404635
+    },
+    {
+      "dsid": "dsid_70697a3558e64982b7841970e67d06a2",
+      "score": 0.7789764,
+      "chunk_id": 701205
+    },
+    {
+      "dsid": "dsid_a9cd19e08f1149e1bd0a6c497044a648",
+      "score": 0.7776943,
+      "chunk_id": 619389
+    },
+    {
+      "dsid": "dsid_18e3bf742f3b41b39a08878eb97a66a6",
+      "score": 0.7776937,
+      "chunk_id": 161537
+    },
+    {
+      "dsid": "dsid_7c5291a229374d13bdddb8726247e71b",
+      "score": 0.7773595,
+      "chunk_id": 113962
+    },
+    {
+      "dsid": "dsid_a9477ced1a884dc59cda575f4fde9671",
+      "score": 0.775615,
+      "chunk_id": 701855
+    },
+    {
+      "dsid": "dsid_571d6a722aa3462abf114ed2b0c685d8",
+      "score": 0.7751224,
+      "chunk_id": 605732
+    },
+    {
+      "dsid": "dsid_fff01bc314954344b1b42d0bbb78108b",
+      "score": 0.7745816,
+      "chunk_id": 566569
+    },
+    {
+      "dsid": "dsid_ccb74cb480ee47f3b5e91d4fe16ebd26",
+      "score": 0.7736053,
+      "chunk_id": 246047
+    }
+  ],
+  "qst_0448": [
+    {
+      "dsid": "dsid_e51021765c694a65bd60b3d38b12db6e",
+      "score": 0.8472989,
+      "chunk_id": 6468
+    },
+    {
+      "dsid": "dsid_e8621884a1dd4432b11b95e3668aadcd",
+      "score": 0.8364264,
+      "chunk_id": 249622
+    },
+    {
+      "dsid": "dsid_d77db3f09c954cf68c57625931f722c9",
+      "score": 0.8224716,
+      "chunk_id": 690287
+    },
+    {
+      "dsid": "dsid_8127d2dcbe39400fb7a058efc6c869b4",
+      "score": 0.8220774,
+      "chunk_id": 484183
+    },
+    {
+      "dsid": "dsid_f7d5fea86ebc4266abc8a92f79b93565",
+      "score": 0.8157669,
+      "chunk_id": 521378
+    },
+    {
+      "dsid": "dsid_837ce26e21874ab387f4234b0ec0f65b",
+      "score": 0.8148326,
+      "chunk_id": 536818
+    },
+    {
+      "dsid": "dsid_3dcadf466d344fa69bffbaebcc94b3f5",
+      "score": 0.8119252,
+      "chunk_id": 663079
+    },
+    {
+      "dsid": "dsid_8df6e54291504a28b5f5d4a116592674",
+      "score": 0.8101444,
+      "chunk_id": 323900
+    },
+    {
+      "dsid": "dsid_40deca0385744c9fbd3fd24e884cecda",
+      "score": 0.808143,
+      "chunk_id": 615828
+    },
+    {
+      "dsid": "dsid_7c116c873d5a47f484b62a6dc551ae9f",
+      "score": 0.804384,
+      "chunk_id": 330193
+    }
+  ],
+  "qst_0449": [
+    {
+      "dsid": "dsid_75834af339a34f1485032399de0f42e4",
+      "score": 0.8032112,
+      "chunk_id": 231795
+    },
+    {
+      "dsid": "dsid_d873f1adbe654259a48b9ba497e7e4ef",
+      "score": 0.7996457,
+      "chunk_id": 135748
+    },
+    {
+      "dsid": "dsid_5da9d06a05e64ed7ad1999e6e020a712",
+      "score": 0.7935489,
+      "chunk_id": 237504
+    },
+    {
+      "dsid": "dsid_3358272ccf4a46d1b994cdf0601e9b94",
+      "score": 0.7919598,
+      "chunk_id": 306984
+    },
+    {
+      "dsid": "dsid_7c0107f0dab94fd5ada5cfdf20e5361a",
+      "score": 0.7876503,
+      "chunk_id": 6081
+    },
+    {
+      "dsid": "dsid_2c5b30e4e2bb483b92d68e8a53cdb2ff",
+      "score": 0.7875297,
+      "chunk_id": 85257
+    },
+    {
+      "dsid": "dsid_47a19820c71f42889c8a68484496154a",
+      "score": 0.7843683,
+      "chunk_id": 247087
+    },
+    {
+      "dsid": "dsid_0cf51eedd87a4b3d9c5c0d937afa5649",
+      "score": 0.7839313,
+      "chunk_id": 693065
+    },
+    {
+      "dsid": "dsid_159b1e49ea994fdfb98d8db1bbeaa48a",
+      "score": 0.783539,
+      "chunk_id": 622473
+    },
+    {
+      "dsid": "dsid_cda14d281a4c4ac7b2cb5104f7915b3a",
+      "score": 0.7827598,
+      "chunk_id": 422999
+    }
+  ],
+  "qst_0450": [
+    {
+      "dsid": "dsid_3d2c98d96b4b4c869232f0a085eb606e",
+      "score": 0.7442982,
+      "chunk_id": 722725
+    },
+    {
+      "dsid": "dsid_d226186669ac45ec8108d46d35628a3e",
+      "score": 0.713504,
+      "chunk_id": 574869
+    },
+    {
+      "dsid": "dsid_ba2ea3d47ede4197a44f29f6b140fdba",
+      "score": 0.7089691,
+      "chunk_id": 5925
+    },
+    {
+      "dsid": "dsid_a344b55114dc471dbc36b59f6ca7feca",
+      "score": 0.7076711,
+      "chunk_id": 142900
+    },
+    {
+      "dsid": "dsid_a1f61eac526f4282bb118180537ac0cb",
+      "score": 0.7006951,
+      "chunk_id": 105706
+    },
+    {
+      "dsid": "dsid_fb5024838994425ab7f4795155ff5d18",
+      "score": 0.6970704,
+      "chunk_id": 360074
+    },
+    {
+      "dsid": "dsid_9bd9f3f0eb4d4c55b6ef21d7f20a0e38",
+      "score": 0.6962243,
+      "chunk_id": 688010
+    },
+    {
+      "dsid": "dsid_7e67b2343b1f4930b9e71a56b6bbfec7",
+      "score": 0.6912075,
+      "chunk_id": 499404
+    },
+    {
+      "dsid": "dsid_4e831380df5f4500a4f97183c7cb7104",
+      "score": 0.6899936,
+      "chunk_id": 248894
+    },
+    {
+      "dsid": "dsid_1172068bb21d43fb8213cc46c60bdd64",
+      "score": 0.6824805,
+      "chunk_id": 179819
+    }
+  ],
+  "qst_0481": [
+    {
+      "dsid": "dsid_031b7c761c1644d281ed3ad87eb1e4fa",
+      "score": 0.8051088,
+      "chunk_id": 23
+    },
+    {
+      "dsid": "dsid_f516510cd1884022b3c61ca11f45e06a",
+      "score": 0.8028401,
+      "chunk_id": 1939
+    },
+    {
+      "dsid": "dsid_c2011340cc9740c085e0d3dc91e5b915",
+      "score": 0.7947147,
+      "chunk_id": 1558
+    },
+    {
+      "dsid": "dsid_474ec59b7e044ff392db7967ac5f8130",
+      "score": 0.7872298,
+      "chunk_id": 86317
+    },
+    {
+      "dsid": "dsid_a4fd1d7d6a994e608af80aa93864328f",
+      "score": 0.7632044,
+      "chunk_id": 69916
+    },
+    {
+      "dsid": "dsid_303934e3def14461973580025cf094b5",
+      "score": 0.76162,
+      "chunk_id": 645129
+    },
+    {
+      "dsid": "dsid_d94b1bcdc28d4beda5f227c43c21755c",
+      "score": 0.7600349,
+      "chunk_id": 286435
+    },
+    {
+      "dsid": "dsid_a83fb5587d874fb2a2af1395ce35d8c5",
+      "score": 0.754963,
+      "chunk_id": 728178
+    },
+    {
+      "dsid": "dsid_9f62347532df43cda3fbf54274f12f0d",
+      "score": 0.7458369,
+      "chunk_id": 1272
+    },
+    {
+      "dsid": "dsid_c855d7bba74f4561a889cfc7b2f2ab07",
+      "score": 0.7446773,
+      "chunk_id": 260200
+    }
+  ],
+  "qst_0482": [
+    {
+      "dsid": "dsid_416bf3b420944c399f0dcf8472cff432",
+      "score": 0.7994226,
+      "chunk_id": 503214
+    },
+    {
+      "dsid": "dsid_e9545fc06ecf4eca9736062994d7610a",
+      "score": 0.7923716,
+      "chunk_id": 1866
+    },
+    {
+      "dsid": "dsid_bd3aa5b020024984af9478e0d584962a",
+      "score": 0.7901183,
+      "chunk_id": 60589
+    },
+    {
+      "dsid": "dsid_ac5376652b6144299d0232b927e215d8",
+      "score": 0.7866961,
+      "chunk_id": 1382
+    },
+    {
+      "dsid": "dsid_986286177cc9495c8dd59024e6e20eda",
+      "score": 0.785641,
+      "chunk_id": 1199
+    },
+    {
+      "dsid": "dsid_106b7367949048ad976f355e04c27efd",
+      "score": 0.7829427,
+      "chunk_id": 571236
+    },
+    {
+      "dsid": "dsid_9de31f2617f34413ae51a32e598c690e",
+      "score": 0.778986,
+      "chunk_id": 246654
+    },
+    {
+      "dsid": "dsid_ec5546a450db439da6223fb67e8f40c0",
+      "score": 0.7762707,
+      "chunk_id": 160310
+    },
+    {
+      "dsid": "dsid_652a12bc84584c978c5b97a93345f89e",
+      "score": 0.773184,
+      "chunk_id": 396448
+    },
+    {
+      "dsid": "dsid_47244ec5f0a7444ba70f4a6908cc0dc3",
+      "score": 0.7715754,
+      "chunk_id": 562
+    }
+  ],
+  "qst_0483": [
+    {
+      "dsid": "dsid_8f4dda6e2fcd430aabc329d04e5c88cf",
+      "score": 0.7178978,
+      "chunk_id": 1109
+    },
+    {
+      "dsid": "dsid_f62ba7b7c4ca4e9c8f058ac54c0511e7",
+      "score": 0.700765,
+      "chunk_id": 139101
+    },
+    {
+      "dsid": "dsid_5afaeacda3994e3f8c77cef33cf86d5a",
+      "score": 0.6963423,
+      "chunk_id": 211808
+    },
+    {
+      "dsid": "dsid_8b356eecb8a248aaad23f0d974f75eb0",
+      "score": 0.6884758,
+      "chunk_id": 46577
+    },
+    {
+      "dsid": "dsid_c58957b61e9a4c61825562b4e424aed7",
+      "score": 0.685573,
+      "chunk_id": 1593
+    },
+    {
+      "dsid": "dsid_0bf8a4fbc54440b5aecfa2f7d488b6f6",
+      "score": 0.6852518,
+      "chunk_id": 68147
+    },
+    {
+      "dsid": "dsid_3719e10a10ca427b90bbae941a5517e1",
+      "score": 0.6804454,
+      "chunk_id": 157697
+    },
+    {
+      "dsid": "dsid_85845067b4ad478d8a50c4cd9d99588f",
+      "score": 0.6745949,
+      "chunk_id": 274436
+    },
+    {
+      "dsid": "dsid_56fc8ad89ffb4763aeea3bb04fb5401d",
+      "score": 0.6662001,
+      "chunk_id": 309121
+    },
+    {
+      "dsid": "dsid_e7dcca2749fd440f8a7ddc3d9245a5b0",
+      "score": 0.6622818,
+      "chunk_id": 462730
+    }
+  ],
+  "qst_0484": [
+    {
+      "dsid": "dsid_3b5dbdc0763e45c1849a81c53bb8d084",
+      "score": 0.7457733,
+      "chunk_id": 125397
+    },
+    {
+      "dsid": "dsid_1d15eb250f5449c08287b23389a54a4b",
+      "score": 0.7192383,
+      "chunk_id": 107415
+    },
+    {
+      "dsid": "dsid_839946580497459cb5e87d699808c955",
+      "score": 0.7063926,
+      "chunk_id": 127728
+    },
+    {
+      "dsid": "dsid_85c5ea51943441f880dc4e8d42cc713d",
+      "score": 0.702539,
+      "chunk_id": 331315
+    },
+    {
+      "dsid": "dsid_68f70a04a9d64955815bc6a6498e8a05",
+      "score": 0.7011071,
+      "chunk_id": 561489
+    },
+    {
+      "dsid": "dsid_f04ef3a9ca434597babdab00a9114e9f",
+      "score": 0.7003915,
+      "chunk_id": 685667
+    },
+    {
+      "dsid": "dsid_23b264ebc5ee47979bfce01157b2b2f5",
+      "score": 0.7000505,
+      "chunk_id": 361070
+    },
+    {
+      "dsid": "dsid_4bc8cfcfaa724fe7a1bb1219d5c65d8b",
+      "score": 0.6935207,
+      "chunk_id": 247011
+    },
+    {
+      "dsid": "dsid_07a0b282fa19447b85ad8fc80a39790e",
+      "score": 0.6907402,
+      "chunk_id": 254662
+    },
+    {
+      "dsid": "dsid_d5ee184326334c6eb75ea9b246e5f5ed",
+      "score": 0.6897726,
+      "chunk_id": 413832
+    }
+  ],
+  "qst_0485": [
+    {
+      "dsid": "dsid_961a2b52625a4b89a3e7aad310209349",
+      "score": 0.7143136,
+      "chunk_id": 306376
+    },
+    {
+      "dsid": "dsid_7e50896c3680487d85a799a00b8ad5da",
+      "score": 0.7065088,
+      "chunk_id": 454335
+    },
+    {
+      "dsid": "dsid_336af10727af42d49f83ecc91e792d1e",
+      "score": 0.7025197,
+      "chunk_id": 242556
+    },
+    {
+      "dsid": "dsid_bbf191c5cee642cc9343325092b75811",
+      "score": 0.7002041,
+      "chunk_id": 545600
+    },
+    {
+      "dsid": "dsid_b9f89426d5e54fe6853d363fed2c95f8",
+      "score": 0.6968352,
+      "chunk_id": 258391
+    },
+    {
+      "dsid": "dsid_5fc3ff7705944324a9db0a8abd5d6cc4",
+      "score": 0.6931312,
+      "chunk_id": 291276
+    },
+    {
+      "dsid": "dsid_0ebfee8db3244462a2edac004107d376",
+      "score": 0.6924812,
+      "chunk_id": 229482
+    },
+    {
+      "dsid": "dsid_57456ebccfab4063b9bc850f658a362f",
+      "score": 0.6892123,
+      "chunk_id": 506292
+    },
+    {
+      "dsid": "dsid_37db906b37d5405c8577f7d9b8afe754",
+      "score": 0.6886871,
+      "chunk_id": 479430
+    },
+    {
+      "dsid": "dsid_946b61a88e00410587e336647b560a32",
+      "score": 0.6875373,
+      "chunk_id": 429533
+    }
+  ],
+  "qst_0486": [
+    {
+      "dsid": "dsid_8c6bf6dd1a954a39ad97fd20165aee72",
+      "score": 0.7677491,
+      "chunk_id": 695934
+    },
+    {
+      "dsid": "dsid_7c0107f0dab94fd5ada5cfdf20e5361a",
+      "score": 0.7662292,
+      "chunk_id": 6081
+    },
+    {
+      "dsid": "dsid_6c08495be6c34edabec060112b8de993",
+      "score": 0.7595985,
+      "chunk_id": 336953
+    },
+    {
+      "dsid": "dsid_b9feabcc616a441dadb2e6237166b316",
+      "score": 0.7593279,
+      "chunk_id": 173864
+    },
+    {
+      "dsid": "dsid_6d1056e675d442a1a0a2bcd19fe25964",
+      "score": 0.7590938,
+      "chunk_id": 382466
+    },
+    {
+      "dsid": "dsid_e842a82facbc4567b473f50e5b46190e",
+      "score": 0.7589546,
+      "chunk_id": 62000
+    },
+    {
+      "dsid": "dsid_442a4f8e78d34aa6a885ca1d13bd3c28",
+      "score": 0.7578484,
+      "chunk_id": 93699
+    },
+    {
+      "dsid": "dsid_0e5473a5d53f4294b9dd71f1006546dc",
+      "score": 0.7557111,
+      "chunk_id": 532020
+    },
+    {
+      "dsid": "dsid_f6c912138afc43c5858447555a65649b",
+      "score": 0.7557094,
+      "chunk_id": 351244
+    },
+    {
+      "dsid": "dsid_5da9d06a05e64ed7ad1999e6e020a712",
+      "score": 0.7549644,
+      "chunk_id": 237504
+    }
+  ],
+  "qst_0487": [
+    {
+      "dsid": "dsid_7b008f48bee24bada205627ad0640e79",
+      "score": 0.8306901,
+      "chunk_id": 930
+    },
+    {
+      "dsid": "dsid_b6e368ac2fc24306a7b005e30de95c3d",
+      "score": 0.8288267,
+      "chunk_id": 638404
+    },
+    {
+      "dsid": "dsid_2869e59bcef642dabd5724c5b1f30a70",
+      "score": 0.820094,
+      "chunk_id": 596278
+    },
+    {
+      "dsid": "dsid_992734b620bf4d52a76ae5dac17031f5",
+      "score": 0.8194166,
+      "chunk_id": 640445
+    },
+    {
+      "dsid": "dsid_0c296ff120dd4c32ad8924bdbb220d15",
+      "score": 0.7948297,
+      "chunk_id": 282661
+    },
+    {
+      "dsid": "dsid_c0bb737477624968a65e0ded1d6ee711",
+      "score": 0.7943162,
+      "chunk_id": 573455
+    },
+    {
+      "dsid": "dsid_39443ade96314b58a97539f944808b28",
+      "score": 0.7924052,
+      "chunk_id": 141593
+    },
+    {
+      "dsid": "dsid_9773f818448c40b7bec27e7378435387",
+      "score": 0.7912474,
+      "chunk_id": 32945
+    },
+    {
+      "dsid": "dsid_ee0291daf48643adbb276fecdb6960c0",
+      "score": 0.790022,
+      "chunk_id": 40777
+    },
+    {
+      "dsid": "dsid_9ff6c6cc44794727817fcc89120bdccb",
+      "score": 0.7890565,
+      "chunk_id": 398360
+    }
+  ],
+  "qst_0488": [
+    {
+      "dsid": "dsid_c8e1be6b6dc54bc2b0c8077a41824b5c",
+      "score": 0.7302855,
+      "chunk_id": 413936
+    },
+    {
+      "dsid": "dsid_559564f28aab401cbcd3ec1e589293be",
+      "score": 0.6921037,
+      "chunk_id": 206043
+    },
+    {
+      "dsid": "dsid_a8758440f97344aa899987533e37b32e",
+      "score": 0.6845924,
+      "chunk_id": 393213
+    },
+    {
+      "dsid": "dsid_de4040433ff546e99e5ab969fa6f2f45",
+      "score": 0.6826687,
+      "chunk_id": 502170
+    },
+    {
+      "dsid": "dsid_b744ae841a484912a7c89c96d0d5e897",
+      "score": 0.6787269,
+      "chunk_id": 1461
+    },
+    {
+      "dsid": "dsid_ca7defdc66614967ae18811fb8feec57",
+      "score": 0.678564,
+      "chunk_id": 1649
+    },
+    {
+      "dsid": "dsid_525837629ea249b9b6989e851716e33b",
+      "score": 0.6757379,
+      "chunk_id": 308940
+    },
+    {
+      "dsid": "dsid_bb87169c88884b1085ad7a03e80d5197",
+      "score": 0.6750039,
+      "chunk_id": 624412
+    },
+    {
+      "dsid": "dsid_ca7dee5f843c4011aed8e515e08dbe47",
+      "score": 0.6741742,
+      "chunk_id": 28896
+    },
+    {
+      "dsid": "dsid_fbb1c0d8591f4f0abf27d698c9f43734",
+      "score": 0.6722434,
+      "chunk_id": 6946
+    }
+  ],
+  "qst_0489": [
+    {
+      "dsid": "dsid_10d8c303a79f4945a695db543da51f11",
+      "score": 0.7666469,
+      "chunk_id": 151161
+    },
+    {
+      "dsid": "dsid_0072370b296249e48a7aac94fe26ea4c",
+      "score": 0.7549778,
+      "chunk_id": 563102
+    },
+    {
+      "dsid": "dsid_40813d5bf5cb464387230190c69a7486",
+      "score": 0.7541701,
+      "chunk_id": 486195
+    },
+    {
+      "dsid": "dsid_5cbe2df4db0a4e318130928654ca8da7",
+      "score": 0.7538768,
+      "chunk_id": 623811
+    },
+    {
+      "dsid": "dsid_b9ba3601638e4c06b3811a57a9c523ae",
+      "score": 0.7496744,
+      "chunk_id": 32834
+    },
+    {
+      "dsid": "dsid_52bbcf91a5c44f0db5bcbf246dd9f5b9",
+      "score": 0.7486585,
+      "chunk_id": 30690
+    },
+    {
+      "dsid": "dsid_6f91aaf0242e450cbab225bed49223c3",
+      "score": 0.7389964,
+      "chunk_id": 72986
+    },
+    {
+      "dsid": "dsid_78444f18789349219015e23da1f88f8a",
+      "score": 0.738052,
+      "chunk_id": 167843
+    },
+    {
+      "dsid": "dsid_0e703199752c487e88f85de416993865",
+      "score": 0.7366785,
+      "chunk_id": 387974
+    },
+    {
+      "dsid": "dsid_e39af6a59aa94379ae5f290e7c1dc073",
+      "score": 0.7360359,
+      "chunk_id": 589647
+    }
+  ],
+  "qst_0490": [
+    {
+      "dsid": "dsid_6c3457a9699044de9e8c671550b3e116",
+      "score": 0.6993436,
+      "chunk_id": 826
+    },
+    {
+      "dsid": "dsid_11ac826d934a47b889b630c00e737ad1",
+      "score": 0.6823588,
+      "chunk_id": 509923
+    },
+    {
+      "dsid": "dsid_96be9e6fdd8245508457f10b2b714fca",
+      "score": 0.6793329,
+      "chunk_id": 352209
+    },
+    {
+      "dsid": "dsid_d915bff903414998a70a43e83a9c2ddb",
+      "score": 0.6765423,
+      "chunk_id": 257011
+    },
+    {
+      "dsid": "dsid_62f55809ce254d2e9f1c1962f0aba20e",
+      "score": 0.6762218,
+      "chunk_id": 564029
+    },
+    {
+      "dsid": "dsid_f9682ed0de4e480580769cf2ff3c447a",
+      "score": 0.6750623,
+      "chunk_id": 367720
+    },
+    {
+      "dsid": "dsid_83cbefec384b455a83d2d07b8f952cfb",
+      "score": 0.674014,
+      "chunk_id": 318959
+    },
+    {
+      "dsid": "dsid_fe75ea740481482bad03f9610b64ecd9",
+      "score": 0.6736894,
+      "chunk_id": 87087
+    },
+    {
+      "dsid": "dsid_3963cb1172514c5eaffbf43efbdce0b1",
+      "score": 0.6736667,
+      "chunk_id": 523261
+    },
+    {
+      "dsid": "dsid_eba4be4de3a74b1e8704b52fe5a1f8f8",
+      "score": 0.668579,
+      "chunk_id": 118409
+    }
+  ],
+  "qst_0491": [
+    {
+      "dsid": "dsid_09d533e440474cd6989a1359baf767e0",
+      "score": 0.7495499,
+      "chunk_id": 78
+    },
+    {
+      "dsid": "dsid_59da09cec92c4817b4fc18562cfe666e",
+      "score": 0.7278014,
+      "chunk_id": 679
+    },
+    {
+      "dsid": "dsid_7c1840335a52463d8cfffa63e739e186",
+      "score": 0.7173005,
+      "chunk_id": 505601
+    },
+    {
+      "dsid": "dsid_43a2d4812a7a40b686a100bd3704cf0d",
+      "score": 0.7141373,
+      "chunk_id": 243215
+    },
+    {
+      "dsid": "dsid_2f7a68e86a124cc58be05391c7c5669c",
+      "score": 0.7120499,
+      "chunk_id": 161430
+    },
+    {
+      "dsid": "dsid_ad9bdcad9ca846ce93426e88f317edce",
+      "score": 0.7088349,
+      "chunk_id": 77255
+    },
+    {
+      "dsid": "dsid_19efd118be0f4628bd344b8f37ba377d",
+      "score": 0.7081695,
+      "chunk_id": 617912
+    },
+    {
+      "dsid": "dsid_9fa682a9009e4bff81e78a7087e41fc9",
+      "score": 0.7069838,
+      "chunk_id": 126333
+    },
+    {
+      "dsid": "dsid_4315d193d4884a39a42ac42758b2a73a",
+      "score": 0.7068556,
+      "chunk_id": 520858
+    },
+    {
+      "dsid": "dsid_447a2929b28443dbb88f8606cf2dc6bb",
+      "score": 0.7062175,
+      "chunk_id": 299025
+    }
+  ],
+  "qst_0492": [
+    {
+      "dsid": "dsid_d95695f1d75b4053af91276789bc5121",
+      "score": 0.7886902,
+      "chunk_id": 134608
+    },
+    {
+      "dsid": "dsid_85fd54e0745e48a797fbd5116f0e0f7c",
+      "score": 0.7852021,
+      "chunk_id": 320814
+    },
+    {
+      "dsid": "dsid_1609d30f948249feb923f4a87343faf2",
+      "score": 0.7802626,
+      "chunk_id": 259856
+    },
+    {
+      "dsid": "dsid_eb7018fe32c24e95b4031093cb2bdf97",
+      "score": 0.7699748,
+      "chunk_id": 41571
+    },
+    {
+      "dsid": "dsid_5072036ce418498f880e027ae2d8916c",
+      "score": 0.7694325,
+      "chunk_id": 113540
+    },
+    {
+      "dsid": "dsid_655c56eb222b4f55b82602c886709848",
+      "score": 0.7684251,
+      "chunk_id": 24107
+    },
+    {
+      "dsid": "dsid_449c82ee4b984d8db0d81df182f50a60",
+      "score": 0.7609277,
+      "chunk_id": 622273
+    },
+    {
+      "dsid": "dsid_6d0e033df12b4fc49b666718a5390871",
+      "score": 0.7594354,
+      "chunk_id": 191609
+    },
+    {
+      "dsid": "dsid_3901b1ddac484ec78309bc22583b9601",
+      "score": 0.7577594,
+      "chunk_id": 240620
+    },
+    {
+      "dsid": "dsid_961b3f6d33534f0ab7a3c441776c860d",
+      "score": 0.7552449,
+      "chunk_id": 272233
+    }
+  ],
+  "qst_0493": [
+    {
+      "dsid": "dsid_22bb221b0d624c6a88e715c6b15304ad",
+      "score": 0.8198963,
+      "chunk_id": 722134
+    },
+    {
+      "dsid": "dsid_6c08495be6c34edabec060112b8de993",
+      "score": 0.8170509,
+      "chunk_id": 336953
+    },
+    {
+      "dsid": "dsid_8107397d5e8e4a028e7f1498880f44f6",
+      "score": 0.8154758,
+      "chunk_id": 482844
+    },
+    {
+      "dsid": "dsid_85e7a7279b644db787a79d1be61a040d",
+      "score": 0.81359,
+      "chunk_id": 559034
+    },
+    {
+      "dsid": "dsid_91657256ce6d4af89dcb62d0f041eb7b",
+      "score": 0.8132936,
+      "chunk_id": 1123
+    },
+    {
+      "dsid": "dsid_f41d79b92ef545109f87ab3bebbb8d9c",
+      "score": 0.8131907,
+      "chunk_id": 283369
+    },
+    {
+      "dsid": "dsid_726ae890011347a18983c068daa1a94f",
+      "score": 0.8096009,
+      "chunk_id": 288418
+    },
+    {
+      "dsid": "dsid_05ef30e2f2c940bba2447f8e9e68490f",
+      "score": 0.8090242,
+      "chunk_id": 585781
+    },
+    {
+      "dsid": "dsid_6b7ff0ba89ed4a589afacc660abe28bd",
+      "score": 0.8083025,
+      "chunk_id": 38687
+    },
+    {
+      "dsid": "dsid_cc16b606b4ee410dbf86fbb920a35102",
+      "score": 0.8082892,
+      "chunk_id": 442710
+    }
+  ],
+  "qst_0494": [
+    {
+      "dsid": "dsid_e189779061e34ed59ffdb6135cda2122",
+      "score": 0.8167365,
+      "chunk_id": 581088
+    },
+    {
+      "dsid": "dsid_146785e8c925488aa97c07d173a8cd82",
+      "score": 0.8060021,
+      "chunk_id": 145317
+    },
+    {
+      "dsid": "dsid_72f9a72f30184cb8b1093389c0c6a8d4",
+      "score": 0.7824928,
+      "chunk_id": 614182
+    },
+    {
+      "dsid": "dsid_d7087aa1876a4f85ab09ec2c770c8762",
+      "score": 0.7791504,
+      "chunk_id": 243651
+    },
+    {
+      "dsid": "dsid_62a209b1c2014a04b5b68537c605743a",
+      "score": 0.7744278,
+      "chunk_id": 305714
+    },
+    {
+      "dsid": "dsid_0b59ef77098f40e382265015f5def970",
+      "score": 0.7689596,
+      "chunk_id": 406309
+    },
+    {
+      "dsid": "dsid_e9cf8b8615c34c06b77c7f5c405296d3",
+      "score": 0.768782,
+      "chunk_id": 630762
+    },
+    {
+      "dsid": "dsid_1055e8065dd446548ee52e847889a3c7",
+      "score": 0.7628009,
+      "chunk_id": 521112
+    },
+    {
+      "dsid": "dsid_d84dc3d3106a42a9a201ae50574b7f66",
+      "score": 0.76069,
+      "chunk_id": 521015
+    },
+    {
+      "dsid": "dsid_50638f3941e74c45bd67e357a99ff579",
+      "score": 0.7605103,
+      "chunk_id": 503783
+    }
+  ],
+  "qst_0495": [
+    {
+      "dsid": "dsid_b3bb79929639401798f43221b1671498",
+      "score": 0.6924124,
+      "chunk_id": 446588
+    },
+    {
+      "dsid": "dsid_10f11d9a73ef440fb297da8d99e22e9a",
+      "score": 0.6908814,
+      "chunk_id": 209354
+    },
+    {
+      "dsid": "dsid_151306c5277245b699cb8093ca1a8205",
+      "score": 0.6823229,
+      "chunk_id": 27079
+    },
+    {
+      "dsid": "dsid_e0d9f5919c494152a939620a0d2b0cff",
+      "score": 0.682197,
+      "chunk_id": 119718
+    },
+    {
+      "dsid": "dsid_cb9345f4cb2845a192084109f57ed72d",
+      "score": 0.6691682,
+      "chunk_id": 1662
+    },
+    {
+      "dsid": "dsid_65ed0371bd224b7584b9c5fa91e30b27",
+      "score": 0.663631,
+      "chunk_id": 542338
+    },
+    {
+      "dsid": "dsid_9e9a7f6cea88472bb9eb264bde372239",
+      "score": 0.6626501,
+      "chunk_id": 665043
+    },
+    {
+      "dsid": "dsid_736c18b43ebe416a9554e2a1d054f16a",
+      "score": 0.6609157,
+      "chunk_id": 412599
+    },
+    {
+      "dsid": "dsid_77aff47c78df4712a44ebde4e7952619",
+      "score": 0.6607313,
+      "chunk_id": 705144
+    },
+    {
+      "dsid": "dsid_41f7a51a3feb41a88a3f3c314f070773",
+      "score": 0.6595284,
+      "chunk_id": 363692
+    }
+  ],
+  "qst_0496": [
+    {
+      "dsid": "dsid_1999613b144444b1a7d27be68e5e29af",
+      "score": 0.8573427,
+      "chunk_id": 197
+    },
+    {
+      "dsid": "dsid_4d7c87986e2f414a94d93cf9f2608ce7",
+      "score": 0.8436607,
+      "chunk_id": 592
+    },
+    {
+      "dsid": "dsid_e3b94af3bc5d4c2cbc89e6e0a8dfc0dc",
+      "score": 0.8310113,
+      "chunk_id": 166786
+    },
+    {
+      "dsid": "dsid_a0b46a8477334be99ff871483c2b2497",
+      "score": 0.8224492,
+      "chunk_id": 1279
+    },
+    {
+      "dsid": "dsid_f3f62c2ca48b4f72bcc9e88df864706c",
+      "score": 0.8110073,
+      "chunk_id": 1934
+    },
+    {
+      "dsid": "dsid_24b8b52d5eab4c7ab83e654097b4ffbf",
+      "score": 0.8092382,
+      "chunk_id": 546624
+    },
+    {
+      "dsid": "dsid_0bbb26eab0a243e5b55d5a8600470e06",
+      "score": 0.8083148,
+      "chunk_id": 95
+    },
+    {
+      "dsid": "dsid_bc30c68557834b10861fb7fe141297d0",
+      "score": 0.807456,
+      "chunk_id": 664857
+    },
+    {
+      "dsid": "dsid_f9bbe3862313489db90bfed482e3ac61",
+      "score": 0.8051482,
+      "chunk_id": 343149
+    },
+    {
+      "dsid": "dsid_9c8813bdc3204371b077a95ae61f524c",
+      "score": 0.7939557,
+      "chunk_id": 667471
+    }
+  ],
+  "qst_0497": [
+    {
+      "dsid": "dsid_740d08eb30a24bf085d205d92c9694ca",
+      "score": 0.6537269,
+      "chunk_id": 893
+    },
+    {
+      "dsid": "dsid_8982b6a2b57b45e187ebab3094eb2fbb",
+      "score": 0.6509814,
+      "chunk_id": 51962
+    },
+    {
+      "dsid": "dsid_288d0634d95b4e0d80831054361e0094",
+      "score": 0.6459195,
+      "chunk_id": 228005
+    },
+    {
+      "dsid": "dsid_194585965f434b32b1f192155c225152",
+      "score": 0.6365688,
+      "chunk_id": 324334
+    },
+    {
+      "dsid": "dsid_0b473ff345314776af73976bed0a6ce5",
+      "score": 0.62374,
+      "chunk_id": 87728
+    },
+    {
+      "dsid": "dsid_d41c159a20e34d0a837635d4fa0f05dd",
+      "score": 0.6234368,
+      "chunk_id": 500693
+    },
+    {
+      "dsid": "dsid_000dce03310548ffa90f5d2f706a92df",
+      "score": 0.6183879,
+      "chunk_id": 373012
+    },
+    {
+      "dsid": "dsid_6d76ba186df548d5b22b8d29b537ca80",
+      "score": 0.6169394,
+      "chunk_id": 605712
+    },
+    {
+      "dsid": "dsid_66c6d1683543429c8604f6cceedc25d1",
+      "score": 0.6140375,
+      "chunk_id": 418405
+    },
+    {
+      "dsid": "dsid_00fe979c6e6c451781ac7fbcbf4f0b52",
+      "score": 0.6133415,
+      "chunk_id": 97250
+    }
+  ],
+  "qst_0498": [
+    {
+      "dsid": "dsid_2019e08fc06a425bb5c2a225836e8430",
+      "score": 0.8046253,
+      "chunk_id": 313646
+    },
+    {
+      "dsid": "dsid_443a93d0482a417ba0636d0a52914337",
+      "score": 0.7941322,
+      "chunk_id": 140454
+    },
+    {
+      "dsid": "dsid_06f9c6b2f0da48a3b97d149d3db870fb",
+      "score": 0.7936956,
+      "chunk_id": 58
+    },
+    {
+      "dsid": "dsid_e2730c73d284429f8bd9c5bbbcb14875",
+      "score": 0.7926198,
+      "chunk_id": 680169
+    },
+    {
+      "dsid": "dsid_1402c2df8f644b2fae65ae012c620f29",
+      "score": 0.7819392,
+      "chunk_id": 364024
+    },
+    {
+      "dsid": "dsid_421933d9554244bd9d511f431a979920",
+      "score": 0.7810324,
+      "chunk_id": 485776
+    },
+    {
+      "dsid": "dsid_8e630173f8cc4e1a8d1f5b7a5e373254",
+      "score": 0.7802665,
+      "chunk_id": 25119
+    },
+    {
+      "dsid": "dsid_db97ec8f3b4047c69ac8cb1872b45846",
+      "score": 0.7800555,
+      "chunk_id": 13539
+    },
+    {
+      "dsid": "dsid_a6bf7167ede04d3ba222dbf41fe3de80",
+      "score": 0.7783024,
+      "chunk_id": 407440
+    },
+    {
+      "dsid": "dsid_231c98d5e27247169553df5c15e11f77",
+      "score": 0.7742054,
+      "chunk_id": 434385
+    }
+  ],
+  "qst_0499": [
+    {
+      "dsid": "dsid_eccfc3feba144e278dba1109865d6153",
+      "score": 0.7327584,
+      "chunk_id": 233127
+    },
+    {
+      "dsid": "dsid_a4d35061021544278d1b2704a76ff4bd",
+      "score": 0.7286234,
+      "chunk_id": 320394
+    },
+    {
+      "dsid": "dsid_4396054b320d464ca033b75259eb88a1",
+      "score": 0.7159786,
+      "chunk_id": 203260
+    },
+    {
+      "dsid": "dsid_9d484fefe34b49afb3009c8d390d4f18",
+      "score": 0.7151285,
+      "chunk_id": 544641
+    },
+    {
+      "dsid": "dsid_1ca60cd6723843a3b7e1f0810c571a65",
+      "score": 0.7146747,
+      "chunk_id": 450609
+    },
+    {
+      "dsid": "dsid_62a209b1c2014a04b5b68537c605743a",
+      "score": 0.7133148,
+      "chunk_id": 305714
+    },
+    {
+      "dsid": "dsid_27ab30734db64337acb5bd8455adc3e1",
+      "score": 0.704031,
+      "chunk_id": 281
+    },
+    {
+      "dsid": "dsid_188d635d69a0476e86464bc9eef7df67",
+      "score": 0.7033466,
+      "chunk_id": 147345
+    },
+    {
+      "dsid": "dsid_05234bcf01fa4af0a8f5235e0c9b7448",
+      "score": 0.7002963,
+      "chunk_id": 257309
+    },
+    {
+      "dsid": "dsid_8942139e87f04b0192145fd0ef0e148b",
+      "score": 0.6964332,
+      "chunk_id": 202079
+    }
+  ],
+  "qst_0500": [
+    {
+      "dsid": "dsid_944280d3e953446ead301635c5cf5823",
+      "score": 0.6852583,
+      "chunk_id": 352843
+    },
+    {
+      "dsid": "dsid_3f8b4eed72cd4540a7d1ac1eb0924519",
+      "score": 0.6546977,
+      "chunk_id": 434957
+    },
+    {
+      "dsid": "dsid_3dc07700ce134ca69292efcd3a968251",
+      "score": 0.6521541,
+      "chunk_id": 437879
+    },
+    {
+      "dsid": "dsid_4e7f3755fffd4c28a438363d59b7cff1",
+      "score": 0.641872,
+      "chunk_id": 199542
+    },
+    {
+      "dsid": "dsid_ea116962ad844597bd4797d4de030459",
+      "score": 0.6330998,
+      "chunk_id": 544084
+    },
+    {
+      "dsid": "dsid_319db001cae246bbbb16f441b64d9b82",
+      "score": 0.6304957,
+      "chunk_id": 361
+    },
+    {
+      "dsid": "dsid_4e9d51226d9649598b63c2f0040ec04a",
+      "score": 0.6290496,
+      "chunk_id": 457088
+    },
+    {
+      "dsid": "dsid_8d4b578164a8489890267b2ebe9b731b",
+      "score": 0.6250247,
+      "chunk_id": 43275
+    },
+    {
+      "dsid": "dsid_44195697912b4bb9bb7e091d2a7b9d21",
+      "score": 0.6232064,
+      "chunk_id": 669877
+    },
+    {
+      "dsid": "dsid_350b3547e04a44ce9b7e0652f83631de",
+      "score": 0.6231591,
+      "chunk_id": 524626
+    }
+  ]
+}

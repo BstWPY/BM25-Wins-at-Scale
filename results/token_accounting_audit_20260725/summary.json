@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "token_dir": "${URAG_ROOT}/results/token_usage",
+  "n_files": 111,
+  "flag_counts": {
+    "qa_mode_build_zero_expected": 11,
+    "rename_or_caveat_linear_build_token": 20,
+    "qa_token_hook_zero_check_needed": 4
+  },
+  "linear_rag_caveat": "LinearRAG build LLM-token=0 is defensible only as API LLM-token accounting; the paper should state that local extractor/embedding compute is tracked outside LLM-token cost."
+}

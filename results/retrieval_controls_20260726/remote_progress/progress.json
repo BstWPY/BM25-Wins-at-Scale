@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "model": "bge-m3",
+  "endpoints": [
+    "EMBED_ENDPOINT_REPLICA_0",
+    "EMBED_ENDPOINT_REPLICA_1",
+    "EMBED_ENDPOINT_REPLICA_2",
+    "EMBED_ENDPOINT_REPLICA_3",
+    "EMBED_ENDPOINT_REPLICA_4",
+    "EMBED_ENDPOINT_REPLICA_5",
+    "EMBED_ENDPOINT_REPLICA_6",
+    "EMBED_ENDPOINT_REPLICA_7"
+  ],
+  "rows": 737878,
+  "dimension": 1024,
+  "batch_size": 16,
+  "workers": 8,
+  "pause_sec": 0.15,
+  "completed_rows": 737878,
+  "embedding_prompt_tokens": 740545867,
+  "embedding_total_tokens": 740545867,
+  "embedding_calls": 46119,
+  "updated_at": "2026-07-26T09:23:21"
+}

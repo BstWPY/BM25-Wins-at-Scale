@@ -1,0 +1,62 @@
+[
+ {
+  "baseline": "agent_bm25",
+  "scale": 1144,
+  "n": 150,
+  "correctness": 94.67,
+  "completeness": 91.47,
+  "combined": 90.08,
+  "doc_recall": 94.15,
+  "fail": 0
+ },
+ {
+  "baseline": "agent_bm25",
+  "scale": 511959,
+  "n": 150,
+  "correctness": 74.0,
+  "completeness": 73.63,
+  "combined": 69.38,
+  "doc_recall": 72.42,
+  "fail": 0
+ },
+ {
+  "baseline": "bm25",
+  "scale": 1144,
+  "n": 150,
+  "correctness": 90.0,
+  "completeness": 85.39,
+  "combined": 81.32,
+  "doc_recall": 92.85,
+  "fail": 0
+ },
+ {
+  "baseline": "bm25",
+  "scale": 511959,
+  "n": 150,
+  "correctness": 62.67,
+  "completeness": 61.48,
+  "combined": 54.82,
+  "doc_recall": 65.56,
+  "fail": 0
+ },
+ {
+  "baseline": "sandbox",
+  "scale": 1144,
+  "n": 150,
+  "correctness": 90.67,
+  "completeness": 90.23,
+  "combined": 87.05,
+  "doc_recall": 91.31,
+  "fail": 0
+ },
+ {
+  "baseline": "sandbox",
+  "scale": 511959,
+  "n": 150,
+  "correctness": 39.33,
+  "completeness": 44.5,
+  "combined": 36.86,
+  "doc_recall": 36.82,
+  "fail": 0
+ }
+]

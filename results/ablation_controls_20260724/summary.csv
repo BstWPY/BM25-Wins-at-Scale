@@ -1,0 +1,8 @@
+family,condition,n,official_combined
+bm25,baseline,150,82.0989
+naiverag,baseline,150,60.1724
+bm25,paraphrase,150,63.8823
+naiverag,paraphrase,150,51.8352
+sandbox,paraphrase,150,73.315
+bm25,topk10,150,82.9517
+naiverag,topk10,150,69.9747

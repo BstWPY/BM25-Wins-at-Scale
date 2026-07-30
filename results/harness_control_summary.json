@@ -1,0 +1,28 @@
+{
+  "scale": 1144,
+  "sample_n": 150,
+  "metric": "official_combined",
+  "controls": [
+    {
+      "retrieval_or_harness": "Ours",
+      "score": 86.335420,
+      "judgment_sha256": "20754731adaa3f44a1c0a4647318d2034bc45fab2aa4a061e8acb6905720ec87"
+    },
+    {
+      "retrieval_or_harness": "Pi-Agent",
+      "score": 82.330714,
+      "judgment_sha256": "6844ec255ae71acd87224c885f1d49229230e225ce964ee3771edee028d36f67"
+    },
+    {
+      "retrieval_or_harness": "Codex",
+      "score": 43.933297,
+      "judgment_sha256": "44ac4831b002a2dd3adaef7583b33c1612dcff2e5bc94bd86893a2d6e202a39d"
+    },
+    {
+      "retrieval_or_harness": "BM25",
+      "score": 82.098923,
+      "judgment_sha256": "33150542e3104014df575ea36e5bf0f1411215367bfc2c0b52c766c0a1a65e75"
+    }
+  ],
+  "sample_question_ids_sha256": "cb1ee06ebc453fb8dcb65a665545ec4106c9ee3e858b6ed1be68e2c468fb6567"
+}

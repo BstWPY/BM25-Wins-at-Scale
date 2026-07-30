@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "model_path": "${PROJECT_ROOT}/models/Qwen3-Embedding-0.6B",
+  "tokenizer_class": "Qwen2Tokenizer",
+  "add_special_tokens": false,
+  "full_chunks_path": "${URAG_ROOT}/data/enterprise_N511959/chunks.json",
+  "full_chunks_sha256": "2c3f523a1c43860b73c695306e87889fb31f180956fd0ee7de4e113baadb268c",
+  "token_lengths_path": "${URAG_ROOT}/results/dense_embedding_token_backfill_20260724/enterprise_N511959_token_lengths.int32.npy",
+  "token_lengths_sha256": "4ee97467baac7c88017dd0c4a359eeb9c8e162a734ca0452e3debbd122124b57",
+  "csv_path": "${URAG_ROOT}/results/dense_embedding_token_backfill_20260724/dense_embedding_tokens.csv",
+  "csv_sha256": "67101c372c92fd90c085efe6e4b5bacf17454587f44990ffedd25190f2980f95",
+  "tiers": {
+    "1144": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N1144/chunks.json",
+      "chunks_sha256": "ac4f90ed0f79f779599fcfcb1ae9add4d4eaae40185db6817891ab270e945a03",
+      "n_chunks": 2018,
+      "is_exact_prefix_of_full": true
+    },
+    "1434": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N1434/chunks.json",
+      "chunks_sha256": "ceb38a088347b7a5b7e17c6695df1d2312a7b0add4be55d506597ee8cd5892d2",
+      "n_chunks": 2435,
+      "is_exact_prefix_of_full": true
+    },
+    "1798": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N1798/chunks.json",
+      "chunks_sha256": "7141a525efa196467de30d76a8ac4efaef3cc96290739c6dc8b71ba0fa6068b4",
+      "n_chunks": 2955,
+      "is_exact_prefix_of_full": true
+    },
+    "2254": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N2254/chunks.json",
+      "chunks_sha256": "2f5c23dad080ca4c771addd7ef805446cb4e0fa1d69d6d363534f66bed0f4f19",
+      "n_chunks": 3606,
+      "is_exact_prefix_of_full": true
+    },
+    "2826": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N2826/chunks.json",
+      "chunks_sha256": "a091d2b29e2e67a71656cb86b3e7313bb64b1865c231b06db3cee58f81c7170b",
+      "n_chunks": 4425,
+      "is_exact_prefix_of_full": true
+    },
+    "3543": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N3543/chunks.json",
+      "chunks_sha256": "1efa3d3b7a67ae0ee1de141b6233cb47403cff9eb97cd0e39aff4cc54306cac1",
+      "n_chunks": 5454,
+      "is_exact_prefix_of_full": true
+    },
+    "4441": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N4441/chunks.json",
+      "chunks_sha256": "33c3498e92131b88221e642ef2fbce7279fca65e940d5784e20d6d0a76df563f",
+      "n_chunks": 6737,
+      "is_exact_prefix_of_full": true
+    },
+    "5568": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N5568/chunks.json",
+      "chunks_sha256": "71d565002647a0ed0b79886915f632cbe0dbeeef7936213d812b46a9b5a26d80",
+      "n_chunks": 8374,
+      "is_exact_prefix_of_full": true
+    },
+    "6980": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N6980/chunks.json",
+      "chunks_sha256": "286ea6643a4f8d306434397cc4c2549bf5f1c85df77b3e0318fbdf5454a0917c",
+      "n_chunks": 10419,
+      "is_exact_prefix_of_full": true
+    },
+    "8750": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N8750/chunks.json",
+      "chunks_sha256": "04567713575acd40f28a4feb1e776c523ed445b9ee98408032d2ef5e47a436ba",
+      "n_chunks": 12974,
+      "is_exact_prefix_of_full": true
+    },
+    "10970": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N10970/chunks.json",
+      "chunks_sha256": "bfccb350794c7af968a2e8d9594a687c807c31be22e0f96fac7ff8a1811c4bc7",
+      "n_chunks": 16169,
+      "is_exact_prefix_of_full": true
+    },
+    "13753": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N13753/chunks.json",
+      "chunks_sha256": "6880cef906907b2f559db8f09bfc471fddc7bcacee2ef2bb45e39cff0d2f6ad5",
+      "n_chunks": 20185,
+      "is_exact_prefix_of_full": true
+    },
+    "17241": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N17241/chunks.json",
+      "chunks_sha256": "42e4f3638ad9ce1124708abf7f605207a7a71a830b5d9644eccb004abaecf3d1",
+      "n_chunks": 25203,
+      "is_exact_prefix_of_full": true
+    },
+    "21614": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N21614/chunks.json",
+      "chunks_sha256": "7cdfdd9db5f0190ebcfe7dd377b705e654180b94a863746e0d75e7a58c1d5cc3",
+      "n_chunks": 31475,
+      "is_exact_prefix_of_full": true
+    },
+    "27097": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N27097/chunks.json",
+      "chunks_sha256": "95fba2404f4f2c678072962616aafd9fbe559984507973041093f7465f4eb398",
+      "n_chunks": 39374,
+      "is_exact_prefix_of_full": true
+    },
+    "33970": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N33970/chunks.json",
+      "chunks_sha256": "4ef07092f5d13905963daf0c0fb2ba8ec6b5a2aab73dc725d6205f10e25fc17f",
+      "n_chunks": 49252,
+      "is_exact_prefix_of_full": true
+    },
+    "42587": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N42587/chunks.json",
+      "chunks_sha256": "5613466000f47f8d7f573060284e03bc8e8b66d6f8db77415bf2a18b48f7c89a",
+      "n_chunks": 61615,
+      "is_exact_prefix_of_full": true
+    },
+    "53389": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N53389/chunks.json",
+      "chunks_sha256": "22b9b7a7497ccadfd56563e65a0280e8054dc547216a429279c2b187a3beac3b",
+      "n_chunks": 77142,
+      "is_exact_prefix_of_full": true
+    },
+    "66932": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N66932/chunks.json",
+      "chunks_sha256": "d16c218cfa87a75b55018b4b54e3c8fdd3eb85d22865796f58b097c5164bdcb6",
+      "n_chunks": 96635,
+      "is_exact_prefix_of_full": true
+    },
+    "83909": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N83909/chunks.json",
+      "chunks_sha256": "40775ce36193c2df9a51ef17d05700e29b733b4f7b1b591c3978d00a733be616",
+      "n_chunks": 121123,
+      "is_exact_prefix_of_full": true
+    },
+    "105193": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N105193/chunks.json",
+      "chunks_sha256": "bfd9358fa2719a60c5898f3338fdb3c40f0824d8f7e77459f5094f44cb7922ed",
+      "n_chunks": 151751,
+      "is_exact_prefix_of_full": true
+    },
+    "131876": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N131876/chunks.json",
+      "chunks_sha256": "710e0535721ae7bf1e76d758a0c0d055d6987bb3552e938dd5dafb9ce3d94b74",
+      "n_chunks": 190096,
+      "is_exact_prefix_of_full": true
+    },
+    "165327": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N165327/chunks.json",
+      "chunks_sha256": "8c5be87f34b3dfdde915f2c1f00d418fb3da8d8ffad8c98b386b44f21278c5a7",
+      "n_chunks": 238321,
+      "is_exact_prefix_of_full": true
+    },
+    "207263": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N207263/chunks.json",
+      "chunks_sha256": "8d73c38766afd807d364e81aab8febe60f71b4291d460bda75d50ee86de7eeaa",
+      "n_chunks": 298783,
+      "is_exact_prefix_of_full": true
+    },
+    "259837": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N259837/chunks.json",
+      "chunks_sha256": "93bc938291d9168235506a0e97480df6a72f2c6998fcfb0350e2923a7a9a7251",
+      "n_chunks": 374576,
+      "is_exact_prefix_of_full": true
+    },
+    "325746": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N325746/chunks.json",
+      "chunks_sha256": "f3ad0ac407ce10a6a7caacd13e93303ed45d8b0c11af29ae6ac1cd7274ef96da",
+      "n_chunks": 469677,
+      "is_exact_prefix_of_full": true
+    },
+    "408373": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N408373/chunks.json",
+      "chunks_sha256": "91ef90e7fb4602288b140040f96bfd1fbf7b8fce14117133a5876219e3f8473f",
+      "n_chunks": 588566,
+      "is_exact_prefix_of_full": true
+    },
+    "511959": {
+      "chunks_path": "${URAG_ROOT}/data/enterprise_N511959/chunks.json",
+      "chunks_sha256": "2c3f523a1c43860b73c695306e87889fb31f180956fd0ee7de4e113baadb268c",
+      "n_chunks": 737878,
+      "is_exact_prefix_of_full": true
+    }
+  }
+}

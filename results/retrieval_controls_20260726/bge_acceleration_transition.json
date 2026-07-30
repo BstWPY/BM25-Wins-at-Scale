@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "reason": "Use otherwise-idle RTX GPUs while preserving ordered, resumable BGE-M3 cache writes.",
+  "pre_restart": {
+    "captured_at": "2026-07-26T17:06:59+08:00",
+    "checkpoint_rows": 313457,
+    "rows": 737878,
+    "dimension": 1024,
+    "dtype": "float32",
+    "batch_size": 16,
+    "workers": 1,
+    "pause_sec": 0.15,
+    "endpoints": [
+      "EMBED_ENDPOINT_REPLICA_0"
+    ],
+    "prefix_sha256": "8cd4310263fcb93cb735a22d37e0c55e5afe12740155bc10db31c7337fd2021d"
+  },
+  "replica_validation": {
+    "model": "BAAI/bge-m3",
+    "served_model_name": "bge-m3",
+    "per_replica_gpu_memory_increase_mib_approx": 1700,
+    "observed_max_absolute_repeat_difference": 0.0004654526710510254,
+    "observed_min_cross_replica_cosine": 0.9999935596449787,
+    "interpretation": "The same small floating-point variation was observed on repeated calls to one endpoint; cross-replica variation was not larger in order."
+  },
+  "post_restart": {
+    "batch_size": 16,
+    "workers": 8,
+    "pause_sec": 0.15,
+    "write_order": "executor.map input order; completed_rows remains a contiguous checkpoint",
+    "endpoints": [
+      "EMBED_ENDPOINT_REPLICA_0",
+      "EMBED_ENDPOINT_REPLICA_1",
+      "EMBED_ENDPOINT_REPLICA_2",
+      "EMBED_ENDPOINT_REPLICA_3",
+      "EMBED_ENDPOINT_REPLICA_4",
+      "EMBED_ENDPOINT_REPLICA_5",
+      "EMBED_ENDPOINT_REPLICA_6",
+      "EMBED_ENDPOINT_REPLICA_7"
+    ]
+  }
+}

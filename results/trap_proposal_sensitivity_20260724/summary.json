@@ -1,0 +1,372 @@
+{
+  "by_question_type": {
+    "constrained": {
+      "questions": 30,
+      "overlap_sum": 50,
+      "full_dense_traps": 103,
+      "full_dense_lures": 0,
+      "full_dense_contamination": 0,
+      "old_confirmed_items": 284,
+      "old_confirmed_recovered_by_full_dense": 27,
+      "mean_top10_overlap": 1.6666666666666667,
+      "old_confirmed_recovery_rate": 0.09507042253521127
+    },
+    "conflicting_info": {
+      "questions": 20,
+      "overlap_sum": 13,
+      "full_dense_traps": 11,
+      "full_dense_lures": 0,
+      "full_dense_contamination": 0,
+      "old_confirmed_items": 39,
+      "old_confirmed_recovered_by_full_dense": 3,
+      "mean_top10_overlap": 0.65,
+      "old_confirmed_recovery_rate": 0.07692307692307693
+    },
+    "completeness": {
+      "questions": 20,
+      "overlap_sum": 13,
+      "full_dense_traps": 1,
+      "full_dense_lures": 0,
+      "full_dense_contamination": 0,
+      "old_confirmed_items": 8,
+      "old_confirmed_recovered_by_full_dense": 0,
+      "mean_top10_overlap": 0.65,
+      "old_confirmed_recovery_rate": 0.0
+    },
+    "info_not_found": {
+      "questions": 20,
+      "overlap_sum": 35,
+      "full_dense_traps": 0,
+      "full_dense_lures": 100,
+      "full_dense_contamination": 0,
+      "old_confirmed_items": 100,
+      "old_confirmed_recovered_by_full_dense": 27,
+      "mean_top10_overlap": 1.75,
+      "old_confirmed_recovery_rate": 0.27
+    }
+  },
+  "independent_full_dense_trap_set": {
+    "traps": {
+      "qst_0382": [
+        "dsid_41e3d6ac27b145a1ab2e70721f4d6f27",
+        "dsid_16222daf62a148caa1d32dcdf97577b0",
+        "dsid_d04dea2d736445c3af6934b900a12ef9"
+      ],
+      "qst_0383": [
+        "dsid_28a4ed35818a4d788955f503dcffa25c",
+        "dsid_2233a628c51743a5a08bf7e14e998994"
+      ],
+      "qst_0384": [
+        "dsid_aa019f1096684a479a9e997dc604ad2f"
+      ],
+      "qst_0385": [
+        "dsid_3e36b6c43a564e91bb4d97dce419a5cd",
+        "dsid_e7db6396423c40029cd15fdb6ba2bb6d",
+        "dsid_da7c57f65cd046348935efb6c3c97e33",
+        "dsid_00b7708db0894240814eb03192a161aa",
+        "dsid_a765e25a37054b0292a48ef647202ff6",
+        "dsid_f936db90b63e4aa5b2edc5169a874587"
+      ],
+      "qst_0386": [
+        "dsid_3ced2ade8e7443379939f9c8643a7a6e",
+        "dsid_529d073251704573a7673de7529b64e5",
+        "dsid_01ca616941854bcc925a8637b1734126",
+        "dsid_2779262caaae4790b48f421eefe2bcf2"
+      ],
+      "qst_0387": [
+        "dsid_d41dc7d257a74f9fa973b17d408ae91b",
+        "dsid_b33189c281c04061adbf65bb15b6ff48"
+      ],
+      "qst_0388": [
+        "dsid_84114bb3ee58479183f2dc21aa2c115d",
+        "dsid_88eb95e72ee44c6694b6040598a85255",
+        "dsid_b11d65828e2c4f379452c7698c8c28d5",
+        "dsid_1d705464d58b4bdb9bd285fef80792bb",
+        "dsid_2a7ac4d187a44a00977ac94bab84d9d0"
+      ],
+      "qst_0390": [
+        "dsid_00230eea80a74869b7c7d224b02891b5",
+        "dsid_7de7100f25f6443fb5e25cf307de6d34"
+      ],
+      "qst_0391": [
+        "dsid_0355181b7fbd471f8d570bd63ca52b43",
+        "dsid_5089f98ad4424445af4f843239d0de2a",
+        "dsid_6784c67dc09f449fa8eaf96c60efbeb7",
+        "dsid_6b68cc690aed407bb180d40e8640a453",
+        "dsid_0ab7bb56fdd24fd8bc824d1d0c9b54e9",
+        "dsid_b84ff8bbf3294fe4aa7db7a2391d799e",
+        "dsid_df108dc813d9407481ab28933b54f7ab",
+        "dsid_f478208f054c4da8a0d09e9287504fa2",
+        "dsid_761a894202c54617bf79fbbe3b88eb55"
+      ],
+      "qst_0392": [
+        "dsid_ebdc776e4fcb481fbae68e9d7d5c767b",
+        "dsid_ecaa3e5279554008bc219ec37820b115",
+        "dsid_c297cf0ecc594b1a870da5c8a4d471c1",
+        "dsid_a734f47b45294b98bf495b69d251ad8e",
+        "dsid_88e33ab83c404c9eb55af496df2ef8a8",
+        "dsid_65bc45fa1991455a9dde2c1aeff083f6",
+        "dsid_8388c89dd5f74c21ba10badf38ac8551",
+        "dsid_71972bc7fc814d6eb840b9c35ef06b41",
+        "dsid_9f9b91c24fe04063ba908422157e44c5",
+        "dsid_5c50e602b0334be4a1fb1bcc8af11d58"
+      ],
+      "qst_0393": [
+        "dsid_3bedf26bc4cf42eb93a8b141e8d1dd71",
+        "dsid_0e00fcd89cb94e269fab26d7bf157c3f",
+        "dsid_7fc02b1c6fe446abb194bd51e7858b98",
+        "dsid_65a635c0efc047759bdc16abfc8dce73",
+        "dsid_03ade157e5b9464ab16740d676f86147",
+        "dsid_f046dbb3a24f42bfa5b4b3c7e7e649c9",
+        "dsid_e664488f72374064bf762d16e3540fd0",
+        "dsid_fbdb90b68a2c47369bb5011328e67ec2"
+      ],
+      "qst_0394": [
+        "dsid_33b67bd8835e4c58ba4aed0f962fa1b0"
+      ],
+      "qst_0395": [
+        "dsid_e5410370a3ac462cb54a992b85632e47",
+        "dsid_329fbc30eff441bda4e37d1e693b7aba",
+        "dsid_f26c80f92a8a408ab4f3a2f69f605369",
+        "dsid_a9bd4fff152d46c385d151a45a421116",
+        "dsid_db02912585aa47deb96b48182affc2f1",
+        "dsid_6ff890051695435a93e1b430625fd7d3"
+      ],
+      "qst_0396": [
+        "dsid_3841516b6bd44f70b3276035013632b8",
+        "dsid_002565ddeeaf474e8083a98cf79d02a9"
+      ],
+      "qst_0397": [
+        "dsid_4bffdac581a54c8aad3457c3b9c9a9a2"
+      ],
+      "qst_0398": [
+        "dsid_bd7caad8adb2405eaa7ad78c4ffb59d7"
+      ],
+      "qst_0399": [
+        "dsid_dc9cd763ad924f2aabc2138361bd21b7",
+        "dsid_af91bace3dc94c02b2704b58320c7d2f",
+        "dsid_db95c3b1630440d59a4b43515f950aea"
+      ],
+      "qst_0400": [
+        "dsid_0f7de237f25e42c98c53c0924606161d",
+        "dsid_615eed371a53485199a086ae30cde8da",
+        "dsid_03455f15778546419433f9bdd4d477ec"
+      ],
+      "qst_0401": [
+        "dsid_96e93c3206494b8caa21cf12687ae74c",
+        "dsid_9df00726f01b4ebea5e3f279940a413c",
+        "dsid_16f097422bba4024aea97b68e4445b50",
+        "dsid_c07dfc6a9f054cb4994381906348103d",
+        "dsid_6960b5b58be8460dbeb0716c0738a821",
+        "dsid_75ffdbbb6d354ee6bd1eee1241b8bad5",
+        "dsid_8e3c8712c0fe426cb209cf9efc0219b7",
+        "dsid_e87adb4183404655b917bffbd97ccd48"
+      ],
+      "qst_0403": [
+        "dsid_713ff02ba0284b59b2db81e840a32290",
+        "dsid_bd1356208fea4202ba6c3610b8446401",
+        "dsid_95b0b7d27bb3430c9d76f4966d60f4ab",
+        "dsid_242661c8aa1341148e493604f4733d4c",
+        "dsid_0e643f05b6c840d7b9443e144a7c860f",
+        "dsid_6f8eebea7aad40bcba7fcfeb4fe18f68",
+        "dsid_f3886cba44f74d6895a088b45a668f46",
+        "dsid_3d3af1a42d654b559f92132e0e44871e",
+        "dsid_9479faf893494f40be6f4593b656dd73"
+      ],
+      "qst_0405": [
+        "dsid_302d67c25eff41cfb30ab43d8ffe7e67"
+      ],
+      "qst_0406": [
+        "dsid_efff740470c84d4a9ea42e7a466e3375",
+        "dsid_94b588e582e34c148e9c186968572e4a",
+        "dsid_703d366ea82049898118e28924140131"
+      ],
+      "qst_0409": [
+        "dsid_c67fc6e49dc14e01bb02de3ff4a56858",
+        "dsid_04f6348a8e8941459fd1f7b4ac1a9f3c",
+        "dsid_80ad532e928947ef90f3ca1e07b7f66a",
+        "dsid_efa7e86f05c943729ddaeed5ec8fe804",
+        "dsid_67b2e94a2da9478a897afa9c0d82129c",
+        "dsid_f5dd73d6593a49f3bc63ce9edb893186"
+      ],
+      "qst_0410": [
+        "dsid_a20cfd9d244545a68df2e582c7493fd4",
+        "dsid_bef4cbef59444bda9bed29d1ceca74d6",
+        "dsid_75d0ee0fe09549a5b29badaff973acb9",
+        "dsid_dd763ae3c7974231be6feade042fc292",
+        "dsid_fe4cb76756e14a4ba07e3a91d7a0cf01",
+        "dsid_6e8b8832b6b04252b416d9902bf22dc2",
+        "dsid_01094849cb58443fa4a868c41f55d1b5"
+      ],
+      "qst_0414": [
+        "dsid_d140ce41b16e471bbf9a879d2e136b38",
+        "dsid_66e8806b04a44b12b6e31ae9c4784e9f",
+        "dsid_b744d252e90f46b598c9ec6022b793af",
+        "dsid_a64130171a3d4ef2a1b99249349fdaed",
+        "dsid_70b8a510ad8740ffad2451cf8413b25b",
+        "dsid_2a0c67bb7baa4e359d84cd04cd7959a9"
+      ],
+      "qst_0416": [
+        "dsid_9b7ece0c1a544cbd91357f676aee67ab"
+      ],
+      "qst_0422": [
+        "dsid_bd652ecfd751460fac9a049666af4751"
+      ],
+      "qst_0423": [
+        "dsid_4a0c24fa7ea1443f972bf3a59482a841"
+      ],
+      "qst_0425": [
+        "dsid_8eb85d8d772b4cd788eddf53f020f10c"
+      ],
+      "qst_0430": [
+        "dsid_a90941b9ed154024b87d16025a1145f6"
+      ],
+      "qst_0446": [
+        "dsid_7188badb9a574a37bbb800e19868e185"
+      ]
+    },
+    "lures": {
+      "qst_0481": [
+        "dsid_031b7c761c1644d281ed3ad87eb1e4fa",
+        "dsid_f516510cd1884022b3c61ca11f45e06a",
+        "dsid_c2011340cc9740c085e0d3dc91e5b915",
+        "dsid_474ec59b7e044ff392db7967ac5f8130",
+        "dsid_a4fd1d7d6a994e608af80aa93864328f"
+      ],
+      "qst_0482": [
+        "dsid_416bf3b420944c399f0dcf8472cff432",
+        "dsid_e9545fc06ecf4eca9736062994d7610a",
+        "dsid_bd3aa5b020024984af9478e0d584962a",
+        "dsid_ac5376652b6144299d0232b927e215d8",
+        "dsid_986286177cc9495c8dd59024e6e20eda"
+      ],
+      "qst_0483": [
+        "dsid_8f4dda6e2fcd430aabc329d04e5c88cf",
+        "dsid_f62ba7b7c4ca4e9c8f058ac54c0511e7",
+        "dsid_5afaeacda3994e3f8c77cef33cf86d5a",
+        "dsid_8b356eecb8a248aaad23f0d974f75eb0",
+        "dsid_c58957b61e9a4c61825562b4e424aed7"
+      ],
+      "qst_0484": [
+        "dsid_3b5dbdc0763e45c1849a81c53bb8d084",
+        "dsid_1d15eb250f5449c08287b23389a54a4b",
+        "dsid_839946580497459cb5e87d699808c955",
+        "dsid_85c5ea51943441f880dc4e8d42cc713d",
+        "dsid_68f70a04a9d64955815bc6a6498e8a05"
+      ],
+      "qst_0485": [
+        "dsid_961a2b52625a4b89a3e7aad310209349",
+        "dsid_7e50896c3680487d85a799a00b8ad5da",
+        "dsid_336af10727af42d49f83ecc91e792d1e",
+        "dsid_bbf191c5cee642cc9343325092b75811",
+        "dsid_b9f89426d5e54fe6853d363fed2c95f8"
+      ],
+      "qst_0486": [
+        "dsid_8c6bf6dd1a954a39ad97fd20165aee72",
+        "dsid_7c0107f0dab94fd5ada5cfdf20e5361a",
+        "dsid_6c08495be6c34edabec060112b8de993",
+        "dsid_b9feabcc616a441dadb2e6237166b316",
+        "dsid_6d1056e675d442a1a0a2bcd19fe25964"
+      ],
+      "qst_0487": [
+        "dsid_7b008f48bee24bada205627ad0640e79",
+        "dsid_b6e368ac2fc24306a7b005e30de95c3d",
+        "dsid_2869e59bcef642dabd5724c5b1f30a70",
+        "dsid_992734b620bf4d52a76ae5dac17031f5",
+        "dsid_0c296ff120dd4c32ad8924bdbb220d15"
+      ],
+      "qst_0488": [
+        "dsid_c8e1be6b6dc54bc2b0c8077a41824b5c",
+        "dsid_559564f28aab401cbcd3ec1e589293be",
+        "dsid_a8758440f97344aa899987533e37b32e",
+        "dsid_de4040433ff546e99e5ab969fa6f2f45",
+        "dsid_b744ae841a484912a7c89c96d0d5e897"
+      ],
+      "qst_0489": [
+        "dsid_10d8c303a79f4945a695db543da51f11",
+        "dsid_0072370b296249e48a7aac94fe26ea4c",
+        "dsid_40813d5bf5cb464387230190c69a7486",
+        "dsid_5cbe2df4db0a4e318130928654ca8da7",
+        "dsid_b9ba3601638e4c06b3811a57a9c523ae"
+      ],
+      "qst_0490": [
+        "dsid_6c3457a9699044de9e8c671550b3e116",
+        "dsid_11ac826d934a47b889b630c00e737ad1",
+        "dsid_96be9e6fdd8245508457f10b2b714fca",
+        "dsid_d915bff903414998a70a43e83a9c2ddb",
+        "dsid_62f55809ce254d2e9f1c1962f0aba20e"
+      ],
+      "qst_0491": [
+        "dsid_09d533e440474cd6989a1359baf767e0",
+        "dsid_59da09cec92c4817b4fc18562cfe666e",
+        "dsid_7c1840335a52463d8cfffa63e739e186",
+        "dsid_43a2d4812a7a40b686a100bd3704cf0d",
+        "dsid_2f7a68e86a124cc58be05391c7c5669c"
+      ],
+      "qst_0492": [
+        "dsid_d95695f1d75b4053af91276789bc5121",
+        "dsid_85fd54e0745e48a797fbd5116f0e0f7c",
+        "dsid_1609d30f948249feb923f4a87343faf2",
+        "dsid_eb7018fe32c24e95b4031093cb2bdf97",
+        "dsid_5072036ce418498f880e027ae2d8916c"
+      ],
+      "qst_0493": [
+        "dsid_22bb221b0d624c6a88e715c6b15304ad",
+        "dsid_6c08495be6c34edabec060112b8de993",
+        "dsid_8107397d5e8e4a028e7f1498880f44f6",
+        "dsid_85e7a7279b644db787a79d1be61a040d",
+        "dsid_91657256ce6d4af89dcb62d0f041eb7b"
+      ],
+      "qst_0494": [
+        "dsid_e189779061e34ed59ffdb6135cda2122",
+        "dsid_146785e8c925488aa97c07d173a8cd82",
+        "dsid_72f9a72f30184cb8b1093389c0c6a8d4",
+        "dsid_d7087aa1876a4f85ab09ec2c770c8762",
+        "dsid_62a209b1c2014a04b5b68537c605743a"
+      ],
+      "qst_0495": [
+        "dsid_b3bb79929639401798f43221b1671498",
+        "dsid_10f11d9a73ef440fb297da8d99e22e9a",
+        "dsid_151306c5277245b699cb8093ca1a8205",
+        "dsid_e0d9f5919c494152a939620a0d2b0cff",
+        "dsid_cb9345f4cb2845a192084109f57ed72d"
+      ],
+      "qst_0496": [
+        "dsid_1999613b144444b1a7d27be68e5e29af",
+        "dsid_4d7c87986e2f414a94d93cf9f2608ce7",
+        "dsid_e3b94af3bc5d4c2cbc89e6e0a8dfc0dc",
+        "dsid_a0b46a8477334be99ff871483c2b2497",
+        "dsid_f3f62c2ca48b4f72bcc9e88df864706c"
+      ],
+      "qst_0497": [
+        "dsid_740d08eb30a24bf085d205d92c9694ca",
+        "dsid_8982b6a2b57b45e187ebab3094eb2fbb",
+        "dsid_288d0634d95b4e0d80831054361e0094",
+        "dsid_194585965f434b32b1f192155c225152",
+        "dsid_0b473ff345314776af73976bed0a6ce5"
+      ],
+      "qst_0498": [
+        "dsid_2019e08fc06a425bb5c2a225836e8430",
+        "dsid_443a93d0482a417ba0636d0a52914337",
+        "dsid_06f9c6b2f0da48a3b97d149d3db870fb",
+        "dsid_e2730c73d284429f8bd9c5bbbcb14875",
+        "dsid_1402c2df8f644b2fae65ae012c620f29"
+      ],
+      "qst_0499": [
+        "dsid_eccfc3feba144e278dba1109865d6153",
+        "dsid_a4d35061021544278d1b2704a76ff4bd",
+        "dsid_4396054b320d464ca033b75259eb88a1",
+        "dsid_9d484fefe34b49afb3009c8d390d4f18",
+        "dsid_1ca60cd6723843a3b7e1f0810c571a65"
+      ],
+      "qst_0500": [
+        "dsid_944280d3e953446ead301635c5cf5823",
+        "dsid_3f8b4eed72cd4540a7d1ac1eb0924519",
+        "dsid_3dc07700ce134ca69292efcd3a968251",
+        "dsid_4e7f3755fffd4c28a438363d59b7cff1",
+        "dsid_ea116962ad844597bd4797d4de030459"
+      ]
+    },
+    "contamination": []
+  }
+}

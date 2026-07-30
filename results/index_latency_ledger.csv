@@ -1,0 +1,16 @@
+paradigm,scale,build_sec
+SandboxAgent,1144,12.4
+BM25,1144,0.28
+NaiveRAG,1144,20.0
+SandboxAgent,6980,12.9
+BM25,6980,1.54
+NaiveRAG,6980,100.0
+SandboxAgent,21614,14.7
+BM25,21614,4.48
+NaiveRAG,21614,304.0
+SandboxAgent,42587,17.5
+BM25,42587,9.35
+NaiveRAG,42587,595.0
+SandboxAgent,66932,20.4
+BM25,66932,14.62
+NaiveRAG,66932,935.0

@@ -1,0 +1,638 @@
+{
+  "schema_version": 1,
+  "input_manifest_path": "${URAG_ROOT}/results/canonical_main_20260724/manifest.json",
+  "input_manifest_sha256": "fda02995c6c6c7ee44628873eaae342d6381e3e1e133a3d41811dc30a0eae93d",
+  "judge_model": "deepseek-v4-flash",
+  "judge_script_path": "${URAG_ROOT}/judge_official.py",
+  "judge_script_sha256": "f4d5df1ca17449d3806e96abf78e667459774e33e26070109ec25df6134cdbb1",
+  "finalizer_path": "${URAG_ROOT}/finalize_canonical_judge.py",
+  "finalizer_sha256": "3f4861288a6aad3f43fc0edf4065d35c0322c62c289a49d5e2e536223e595fff",
+  "aggregation": {
+    "combined": "mean(completeness_pct if aligned else 0) over exactly 500",
+    "doc_recall": "mean over answerable questions; null excluded",
+    "bootstrap": {
+      "method": "question-level nonparametric percentile",
+      "reps": 10000,
+      "base_seed": 20260724
+    }
+  },
+  "git_commit": "83be4858daef3cc72832edeb3afceaabf6844800",
+  "matrix_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/canonical_matrix.csv",
+  "matrix_sha256": "fb371d18eee4ef20dcea5db08fd75badf5e9bd0eebaba1b16b000d6a663193ce",
+  "ci_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/canonical_ci.csv",
+  "ci_sha256": "efbda0dfc1887f1a035f9a82ba70cc9cfe8731f46d002b4e27b61d86099a8662",
+  "cells": [
+    {
+      "family": "bm25",
+      "scale": 1144,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N1144/predictions.jsonl",
+      "prediction_sha256": "440b895692aa0f7cc9e43a2e30ca1ce39f7df8c0f6bd9c1591c979619148ff2c",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N1144.jsonl",
+      "judgment_sha256": "1331473d1e5974f7448eff5e0ddb01a9fb1f7681a147c01f5b1aed45495a2b40",
+      "n": 500
+    },
+    {
+      "family": "bm25",
+      "scale": 2254,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N2254/predictions.jsonl",
+      "prediction_sha256": "edd03b955cffef779c884cb1ce714d915c9d2899889d3abdde23c30fd868fda4",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N2254.jsonl",
+      "judgment_sha256": "719722a0b9dc482b45b4ec5dac8edff878d8162a42bdff716594796fce0ad645",
+      "n": 500
+    },
+    {
+      "family": "bm25",
+      "scale": 6980,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N6980/predictions.jsonl",
+      "prediction_sha256": "52b4140f94cce114730940899fa703c492a3a4e91e23203fb8f5e28b662726e6",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N6980.jsonl",
+      "judgment_sha256": "cf7104dbfe28b076ba34dc1e32b333e4bb4839a4ed194268abda906d2e1fa0f0",
+      "n": 500
+    },
+    {
+      "family": "bm25",
+      "scale": 21614,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N21614/predictions.jsonl",
+      "prediction_sha256": "a3d4170f2525877490cd2c245d1c3350100b831d047537cc1726fd962d7489d9",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N21614.jsonl",
+      "judgment_sha256": "42ed7db8d31326e416050ce29c6620071cc6fb6d6c349b96677709f255a4397c",
+      "n": 500
+    },
+    {
+      "family": "bm25",
+      "scale": 42587,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N42587/predictions.jsonl",
+      "prediction_sha256": "2ebfde65a18333936135536fa8ff97af3570e110c07a6147085001f5065df91b",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N42587.jsonl",
+      "judgment_sha256": "c9b52d988d9bd2bedb963b96e5198dbe5d0cd529092eb3a78afc5d36ccf65125",
+      "n": 500
+    },
+    {
+      "family": "bm25",
+      "scale": 66932,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N66932/predictions.jsonl",
+      "prediction_sha256": "5c2bd6f3c5c6fafb29771b0a8a4e83d6da1c0ac7a3cce2998a38f7ed44b0931b",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N66932.jsonl",
+      "judgment_sha256": "11dce361e1f829e5e8465d1bc204cb3d3e414d46b2b9d0f23478f9847d517672",
+      "n": 500
+    },
+    {
+      "family": "bm25",
+      "scale": 131876,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N131876/predictions.jsonl",
+      "prediction_sha256": "8cdb4ee211766f59ac42def1ef6dc76c2440f29f17092b8d28b2efdecaa2ac2e",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N131876.jsonl",
+      "judgment_sha256": "c50c6f0d9745c17547f242be522c4370d5769c18c441fc5c98ebb7706012ffd3",
+      "n": 500
+    },
+    {
+      "family": "bm25",
+      "scale": 259837,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N259837/predictions.jsonl",
+      "prediction_sha256": "b1d9a612e3f7f76e6acb8fd0d6250df82cb59cc3af8799292b7b9efe00de2a28",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N259837.jsonl",
+      "judgment_sha256": "76118e66e771b5a8834004d931676facab3a21303efaa328f787915d82221236",
+      "n": 500
+    },
+    {
+      "family": "bm25",
+      "scale": 511959,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/bm25/enterprise_N511959/predictions.jsonl",
+      "prediction_sha256": "12c70bf3a997f9c8d5dfaed078e073916d91e6881b54ec582328ff6e486bb866",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/bm25_N511959.jsonl",
+      "judgment_sha256": "f93dafde132c72375e0192ee4c98c1ceb1f1027c2080cafe381aacec218daa7d",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 1144,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N1144/predictions_local.jsonl",
+      "prediction_sha256": "a3047f8af63131d42f202c1e8b5ca3cb39c49a995b4de34cfedd334174848c96",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N1144.jsonl",
+      "judgment_sha256": "7d69c50361d5b5c1fb4e50405ac285c3aa6c99eba4ae3f5723ad087b0afc46f9",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 1434,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N1434/predictions_local.jsonl",
+      "prediction_sha256": "8a0312e52901b4b7ae89cef1443c13b695f9b7aac568673d1389910e9fb57444",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N1434.jsonl",
+      "judgment_sha256": "ffceefa6b7792e50514664fd52b9d4672d80c00c449e34ff67815e671ef0c2b3",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 1798,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N1798/predictions_local.jsonl",
+      "prediction_sha256": "2e3cb149e7d31a6fbce662cda1d5c1a1a2c7b17a089fc6bb2087330a40918950",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N1798.jsonl",
+      "judgment_sha256": "b11957a5f64505d59ada370ad0ad022772579591008af24daf29f0778c459db7",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 2254,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N2254/predictions_local.jsonl",
+      "prediction_sha256": "1c6837db455530afecd48628e73316d49f977b6a75a894d0606f582f81fe0168",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N2254.jsonl",
+      "judgment_sha256": "f1d92a286b2f028a9b1350cf37450d570535c37b767d68716b76b3c502d787f8",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 2826,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N2826/predictions_local.jsonl",
+      "prediction_sha256": "4142b4958a64a8576a2cdd17a30dc0a6545552b004dd99b5a402f9a099640cad",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N2826.jsonl",
+      "judgment_sha256": "ad2269c6922cfb391bc9e87f7fd6d65061b6807f40118779d913e0cbe4bb5c6b",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 3543,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N3543/predictions_local.jsonl",
+      "prediction_sha256": "d37e2dece6d48f6b3cd4bd7386eb41b3f7a8d6552b0a0e8b4c32014027404d4e",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N3543.jsonl",
+      "judgment_sha256": "6dbadc9b6b9c6bd5ddbe59e204e75bc753e3769243d47cf24fff3da93a0c76c8",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 4441,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N4441/predictions_local.jsonl",
+      "prediction_sha256": "f6c428a6d2c11d928d736833168099cd31f5f1fc73e349544182473e9c8c9709",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N4441.jsonl",
+      "judgment_sha256": "f97babc837735f068f2f6fa7910f3b9f8e74d2339178ed65657ec3d4cdba1685",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 5568,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N5568/predictions_local.jsonl",
+      "prediction_sha256": "3d86e65aa7bc8ffd21b29a989eec5b826adb24dcb10ad82a1260120265fa6789",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N5568.jsonl",
+      "judgment_sha256": "a417995762ceee64e88ae2ca32ada6f16e87947fab679b190dba210885cd653d",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 6980,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N6980/predictions_local.jsonl",
+      "prediction_sha256": "9f7c061adb8db4659b692981edda220205b8a4327c91ad8b8b1e4d86fe4f89b9",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N6980.jsonl",
+      "judgment_sha256": "f587489dad06138582f0fa3dfd516c4957f7db2024fb30e30ff25aa96f4ef9c5",
+      "n": 500
+    },
+    {
+      "family": "graphrag",
+      "scale": 8750,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/graphrag/enterprise_N8750/predictions_local.jsonl",
+      "prediction_sha256": "6254bcedce85ec8e1d08fa175736260d2f58f3807bbc81aec9e370eb8f5e2d95",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/graphrag_N8750.jsonl",
+      "judgment_sha256": "4bc021989f3f922d85af63549ceb4089b197d51c7d38c5bea57b07e5278d5a31",
+      "n": 500
+    },
+    {
+      "family": "hipporag",
+      "scale": 1144,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/hipporag/enterprise_N1144/predictions.jsonl",
+      "prediction_sha256": "13bfc1991fcfd0e7b9018b5db27d8278fb662ed1f122add82a6df9a406715acd",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/hipporag_N1144.jsonl",
+      "judgment_sha256": "15f078ca5f0d28ad2d32f0ceac7361e0609f5306d22461a8fda9997287ac4f84",
+      "n": 500
+    },
+    {
+      "family": "hipporag",
+      "scale": 2254,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/hipporag/enterprise_N2254/predictions.jsonl",
+      "prediction_sha256": "1dab5682880c3fa927f1bc02a9a74ab0cf341f5dd064ccc684101af1ab10044a",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/hipporag_N2254.jsonl",
+      "judgment_sha256": "c66d72003f00cbf7c986f6eda26bbc5244a6300d2521dd6d4b7044201489d2e9",
+      "n": 500
+    },
+    {
+      "family": "hipporag",
+      "scale": 6980,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/hipporag/enterprise_N6980/predictions.jsonl",
+      "prediction_sha256": "e5c00cc6b32e6ca8599cf883f90ee1b0ce11d256a63f0e90f5c5847a2bb36ce1",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/hipporag_N6980.jsonl",
+      "judgment_sha256": "5cfbe9f26272c9b069d0050507246fce91fdbd9c27887aee731afa4f94866155",
+      "n": 500
+    },
+    {
+      "family": "hipporag",
+      "scale": 21614,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/hipporag/enterprise_N21614/predictions.jsonl",
+      "prediction_sha256": "6415918e1035a3db18fcdef730dd2014e41c903db0e7a96333f1ae99c16a9f69",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/hipporag_N21614.jsonl",
+      "judgment_sha256": "73acac1503986f357f8f9e0edbc9ceee45ac28cd204bc8c521c12e48939e74fc",
+      "n": 500
+    },
+    {
+      "family": "hipporag",
+      "scale": 42587,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/hipporag/enterprise_N42587/predictions.jsonl",
+      "prediction_sha256": "6b4e577797c12cf229bdd2e0802bfbddc65a1012d1304d3c67c4a1deef3bd920",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/hipporag_N42587.jsonl",
+      "judgment_sha256": "7cf192463ebe439353e57895a2f109b52cc81b068bb46e280c372b1283e12ded",
+      "n": 500
+    },
+    {
+      "family": "hipporag",
+      "scale": 131876,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/hipporag/enterprise_N131876/predictions.jsonl",
+      "prediction_sha256": "c2f4a515e815acfc18a74d50ffee47776e167b9852aa9a726a53950e8bed9fbd",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/hipporag_N131876.jsonl",
+      "judgment_sha256": "6d558bacc7d3791e6432f15aad57200f0b2dcfd4a13286de94b0affd85a5415b",
+      "n": 500
+    },
+    {
+      "family": "lightrag",
+      "scale": 1144,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/lightrag/enterprise_N1144/predictions_hybrid.jsonl",
+      "prediction_sha256": "4963ed175fb0575d29bbe3fa108d3d75b8f29fae3bcb0f01667245f8a5fd9a9f",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/lightrag_N1144.jsonl",
+      "judgment_sha256": "fb2128f39e8591ccc582c3c13d4f0671c4fe597340d9daa44af72fcf610fa4da",
+      "n": 500
+    },
+    {
+      "family": "lightrag",
+      "scale": 1434,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/lightrag/enterprise_N1434/predictions_hybrid.jsonl",
+      "prediction_sha256": "beeb0647fb50dc75ed3725ad6f42a30a8a58b82f046af5780fa98050d220dc21",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/lightrag_N1434.jsonl",
+      "judgment_sha256": "876f576bba5dd8e0d3526821c40ebdd9212b63135822288b27329906763611f5",
+      "n": 500
+    },
+    {
+      "family": "lightrag",
+      "scale": 1798,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/lightrag/enterprise_N1798/predictions_hybrid.jsonl",
+      "prediction_sha256": "b062076b91dc930736975d09e9897b667cfb029cc9181dca9e8a5dcd46221411",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/lightrag_N1798.jsonl",
+      "judgment_sha256": "c6843cddfd73b80aceee21aae8ab3e807d88707ecf2f5721fdcfda788940f2db",
+      "n": 500
+    },
+    {
+      "family": "lightrag",
+      "scale": 2254,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/lightrag/enterprise_N2254/predictions_hybrid.jsonl",
+      "prediction_sha256": "8099d1067c4220ac45579a4867e7f237bddc667738a65f38a46265df025ffb10",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/lightrag_N2254.jsonl",
+      "judgment_sha256": "7835d6248fb3474ef2083113b10d2d5d3afee812c1f76b124735b2b627369aa3",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 1144,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N1144/predictions.jsonl",
+      "prediction_sha256": "66931467b14a16ccc91764e9bec1d410b3e71ed82bfd12ccc9ace42758453470",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N1144.jsonl",
+      "judgment_sha256": "8d1b652b995d78d084a49249acd65334c46b610c2974d7eeb0e380dd794ef0b4",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 1434,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N1434/predictions.jsonl",
+      "prediction_sha256": "9c75e67882d310abe452e0dc716d0bd9b2950d5b4adf2aaadad01dc198e1ab8d",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N1434.jsonl",
+      "judgment_sha256": "ecbdac88d12121b27a0cc1560d522951e2096fb545dd0dc6d26093100dc12fe1",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 1798,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N1798/predictions.jsonl",
+      "prediction_sha256": "33c2bda3ac4134ca2c651cee9c14ec384f7323a48f61db295117ea38337a4628",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N1798.jsonl",
+      "judgment_sha256": "d9472ec0ab070f9edc4e1aca171129928cbf5f8bd1c6bed69ef3c3a1f0b08902",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 2254,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N2254/predictions.jsonl",
+      "prediction_sha256": "66ab895259b6f36004fa862c2fba69db64fe11692dc72bb49dcc9a86adcd5e66",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N2254.jsonl",
+      "judgment_sha256": "764ffcdbcb9422266a1df3a5b7602615657f64a5d1c9cf0d58a848db52882e67",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 2826,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N2826/predictions.jsonl",
+      "prediction_sha256": "1b9e7109c1dcf0afb0379710c2238fc96f8be27740d7884109f4d55a35e47a13",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N2826.jsonl",
+      "judgment_sha256": "e4ce1c0dd91282a6ccf33fea2a8ef7cfdd3c7e4fcc24b1f66ab8664ae39f9c6b",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 3543,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N3543/predictions.jsonl",
+      "prediction_sha256": "d448ad8ef2dd48390fbd803817425589821a9cfef1dc5255e86b1cbf0c13d9a4",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N3543.jsonl",
+      "judgment_sha256": "326697b200f2b5e29a8d80818120dd736c43a7738d0839d0024b3eb96a6f92d6",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 4441,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N4441/predictions.jsonl",
+      "prediction_sha256": "6f74b57b2bb2cf8f6b08409baccb4c4068c8eacbb7fb6c3bc1b41dc73fdcf541",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N4441.jsonl",
+      "judgment_sha256": "cb2088fdb9ff4fe0aa99d66cd6cc3d79df9e0272957a5cb03e1c3c1242d4e5a0",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 5568,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N5568/predictions.jsonl",
+      "prediction_sha256": "401ccd7669e445849e9df0bdb2c0943489b4df8555d90249eb675bd475e3bd0a",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N5568.jsonl",
+      "judgment_sha256": "3c3d70632800bd2d02a0c02fb2b35fe9503698ab0e0da7d140b02c9bd687daa5",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 6980,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N6980/predictions.jsonl",
+      "prediction_sha256": "68bb4b9571975c36b302ad2be87dcad724d9c2aaa053b32cde032bba9c26f411",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N6980.jsonl",
+      "judgment_sha256": "f6ff4e315b8b33c435d1875448ad491e3689d93a57f7e9e988a52a387d6ecbb8",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 8750,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N8750/predictions.jsonl",
+      "prediction_sha256": "075bcf381177aa75db69215a46023e98ee0c7b699492651a9bdab92d23bafab1",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N8750.jsonl",
+      "judgment_sha256": "e1adb64f8ab04613687fcfbe46f8b453dd18575c24f71e335479a524f7c9cbb9",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 10970,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N10970/predictions.jsonl",
+      "prediction_sha256": "8c3ec85b269b34bd385704f32325c1e07c741f3409762a0b1b30f53300ccfef2",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N10970.jsonl",
+      "judgment_sha256": "9eec32ce44f1f58339fab55c94109330cf6f2fa3524cc8b64e10547e34139744",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 13753,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N13753/predictions.jsonl",
+      "prediction_sha256": "7f3fdc4dcc86fa757f384bbdc837aa6ae400057aa28e225b63a15ab2a228c085",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N13753.jsonl",
+      "judgment_sha256": "d4453595c1b8fccad45ea3f5d6dc323340626d7aa2ef607b3200aece354eae70",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 17241,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N17241/predictions.jsonl",
+      "prediction_sha256": "8c9f790dd074e6a3cd629cd39195a9fcfd6fea270a712a714a26dad01387f66b",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N17241.jsonl",
+      "judgment_sha256": "088863807ffe8351810f1920ee19af48f4800912a55dbada2e01e0dd342daceb",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 21614,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N21614/predictions.jsonl",
+      "prediction_sha256": "1512a1f513511491c311d68975152421215a7690f53d9c8c7a74b87f58ea71d4",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N21614.jsonl",
+      "judgment_sha256": "41715a5777433262984c7e540f5be2f82538874fcc57f240aa3a1a99e7b00a09",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 27097,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N27097/predictions.jsonl",
+      "prediction_sha256": "7069865db881838a77801f8642ee1f6a1663dff6df52c750ef7656666fcf9f7b",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N27097.jsonl",
+      "judgment_sha256": "f7e84de40e5b43d65c6e821197d3542a7347ac1f3cb91e373a28d2f719d9d087",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 33970,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N33970/predictions.jsonl",
+      "prediction_sha256": "76d1125031427643b5a42e287250c39acbc92a396f87bf92eda075f09bfe602a",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N33970.jsonl",
+      "judgment_sha256": "b046c1a4097a97af355df4ba205a2b90fc4601e3a0de1f48bf348494d27d11f2",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 42587,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N42587/predictions.jsonl",
+      "prediction_sha256": "84f6608697989e5f963e53adb8f32d118c67bbc61ee68ed38f1fc3625a91c4da",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N42587.jsonl",
+      "judgment_sha256": "44a2a69c4a2d765fda2cf63c8c68709ed991626d07911e187a0170144068b93f",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 53389,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N53389/predictions.jsonl",
+      "prediction_sha256": "7af8741afc40b9620efa50b0ded45ecc58ab3c20a7beab6acdf7c678e89e3a16",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N53389.jsonl",
+      "judgment_sha256": "c8aa1c6d3b54604c1ce15173063267b80de21b964ed1e71e1b5702ef0e097fc6",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 66932,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N66932/predictions.jsonl",
+      "prediction_sha256": "e2bf8985f8a5101ee23068e3c26cb99c924ab325ce11c3c1386fce64babf1db1",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N66932.jsonl",
+      "judgment_sha256": "d464a180634c2f09a36fecd8fd5b60ca05c5c7ad49333465d6fd542615e4e7fa",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 83909,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N83909/predictions.jsonl",
+      "prediction_sha256": "bb32f4b9a26d3e8b33cd28e5c799b3feedd3db2ca51385b963f4a24393df5e15",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N83909.jsonl",
+      "judgment_sha256": "8a6043d72658b93f301c8511e76cfec346d4d7fc8b553aac61aed85d8de1405d",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 105193,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N105193/predictions.jsonl",
+      "prediction_sha256": "1c2c3e5d01dad351ba9883767daa21484c1ff7643d88ea44267a8d31ffadecc2",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N105193.jsonl",
+      "judgment_sha256": "922fb5094ee3836ff00ff5a81ecc3575acfb96d8fa3c97213565873291693f57",
+      "n": 500
+    },
+    {
+      "family": "linearrag",
+      "scale": 131876,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/linearrag/enterprise_N131876/predictions.jsonl",
+      "prediction_sha256": "0e21037a58780b4d40e31ef8d815d94a2bec4170aece8b77b7caa77b8e9b740e",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/linearrag_N131876.jsonl",
+      "judgment_sha256": "c35ffa9a16399c142f3fa3757dc9c5d9dc31cfc6e23f07405d2e1804db089e23",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 1144,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N1144/predictions.jsonl",
+      "prediction_sha256": "4b7e21413baf20880e4f511cd22a633a055722fe6e620f0f9149ae80dfa8a924",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N1144.jsonl",
+      "judgment_sha256": "465e7235bee7164709dd9c4dafcbaefe04b569c75b4943a76897c91c2616935c",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 2254,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N2254/predictions.jsonl",
+      "prediction_sha256": "6ee791e72b54987aba4fa96f9f7e70a948161afdc5b651daf89ef4d10a52a8b0",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N2254.jsonl",
+      "judgment_sha256": "2f844bedbf2f3f55138f487bbc1e09188e2cbf2dc49b5d6fa3a23714a18eb2e0",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 6980,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N6980/predictions.jsonl",
+      "prediction_sha256": "1078fe0e4c35de34f325c0cc900ed1efaf3d13cba5554546b16305e78dde6512",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N6980.jsonl",
+      "judgment_sha256": "57f8ea4571d590eb5d36a6417f2b737d4a6384bdea7897f2dad4fd6b98648c08",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 21614,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N21614/predictions.jsonl",
+      "prediction_sha256": "d6810d8f33b5f2d1c868852a900bd669368147e0410a6b93a2a2b625ddb01214",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N21614.jsonl",
+      "judgment_sha256": "0f1e89e077a7404db311a0166bd18c97a42460aa43d74004e3c5fc790c96fd9d",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 42587,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N42587/predictions.jsonl",
+      "prediction_sha256": "1d9a148e543fb14d61ed976dcf9bfd55fb8dc525c3758480140d2a87d2cead28",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N42587.jsonl",
+      "judgment_sha256": "28045d0b512582df5b96e6cf772ac83134dde7200c3becca2382dfdbd4d95241",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 66932,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N66932/predictions.jsonl",
+      "prediction_sha256": "78487528d206ec36881e99edc3992012e06cb8e4b624dae3eceb7c3b744a10d3",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N66932.jsonl",
+      "judgment_sha256": "9b506e1bcf9486ca60d17bc819247f5a112e7cf21bd385fe6401f6da47b17639",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 131876,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N131876/predictions.jsonl",
+      "prediction_sha256": "516bef74afd86bffee5a7508095c1bc61ad5548902ebce49da6881195bac6eba",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N131876.jsonl",
+      "judgment_sha256": "cb3b17077b1d9e0084ce58c3666d3c4579cac63729ba17c0dd5ba24ce0b5c850",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 259837,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N259837/predictions.jsonl",
+      "prediction_sha256": "84a8a8ce2f5aeb8f5c595b39d3fd8a5ce3c7e9cef4ae1eb9e4555b755518b0c2",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N259837.jsonl",
+      "judgment_sha256": "fd0df00182fc80cbed5d81665879f174c6cda72b28c9442c9dcb97b8713ad7dc",
+      "n": 500
+    },
+    {
+      "family": "naiverag",
+      "scale": 511959,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/naiverag/enterprise_N511959/predictions.jsonl",
+      "prediction_sha256": "fca769ec25fa9058d4173fa3201e4db8bb6ec88946e5e0ce9f4a52a318ebd058",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/naiverag_N511959.jsonl",
+      "judgment_sha256": "bb581198822ea1ccb80cd3ca793b750b78a6930c6962c58d968480f7769cfce5",
+      "n": 500
+    },
+    {
+      "family": "sandbox",
+      "scale": 1144,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/sandbox/enterprise_N1144/predictions.jsonl",
+      "prediction_sha256": "76e2fc12814c4fca71d490970efb00fdd8e19783d8bf64638e4c98c596a9c8ac",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/sandbox_N1144.jsonl",
+      "judgment_sha256": "b5a3dd52006b8d794f10f23e8c2abea4d44b1d44827a5d383567ec163e19ac3b",
+      "n": 500
+    },
+    {
+      "family": "sandbox",
+      "scale": 2254,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/sandbox/enterprise_N2254/predictions.jsonl",
+      "prediction_sha256": "f5eaed4695af2d0dfd0f6cd3fdebfaf3e3a01bbd6b7802fab79454a3c327d34a",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/sandbox_N2254.jsonl",
+      "judgment_sha256": "53e24d7df37bab0e08b03d2b69a83bffe927f923fbcf7da88c47f951c3a76139",
+      "n": 500
+    },
+    {
+      "family": "sandbox",
+      "scale": 6980,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/sandbox/enterprise_N6980/predictions.jsonl",
+      "prediction_sha256": "bf2457473d02fef03cca0cce0ac865ab36463e8dc994d9ad199771b2ee0df5dd",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/sandbox_N6980.jsonl",
+      "judgment_sha256": "24150f802d179d89f1559a396902ed826552736c11b39139fecc4eda08ed3e06",
+      "n": 500
+    },
+    {
+      "family": "sandbox",
+      "scale": 21614,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/sandbox/enterprise_N21614/predictions.jsonl",
+      "prediction_sha256": "bae98ad5f679ec7fb6172cb3632a09f46cd34b990dd832b5a1e798b89ef0c4f7",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/sandbox_N21614.jsonl",
+      "judgment_sha256": "001c899598af2fe43461e9c22a5870f4ac3f8610fe3c638d2c0b96eebaf405f2",
+      "n": 500
+    },
+    {
+      "family": "sandbox",
+      "scale": 42587,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/sandbox/enterprise_N42587/predictions.jsonl",
+      "prediction_sha256": "ba669433f8140d893ec2f2dc636a2d3f57ac387c2174192d5cff4f6f9f821360",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/sandbox_N42587.jsonl",
+      "judgment_sha256": "4e0556a45c9ca56c92393cadaee0f3abd03b883082109c5d4b665af5dd50c0f3",
+      "n": 500
+    },
+    {
+      "family": "sandbox",
+      "scale": 66932,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/sandbox/enterprise_N66932/predictions.jsonl",
+      "prediction_sha256": "0c0e94326aad7a5e2d6d0380584688fde5b2d4552d5fc43cd315dbc1a5e8fd17",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/sandbox_N66932.jsonl",
+      "judgment_sha256": "1e0a1dcaa7c2acb62239e1edc134e991a13d7ae5ce4a62c645565922a52fb6d3",
+      "n": 500
+    },
+    {
+      "family": "sandbox",
+      "scale": 131876,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/sandbox/enterprise_N131876/predictions.jsonl",
+      "prediction_sha256": "053e0da06b974937c0738627108d819eb44f9b7dc2d604803c1dd77a7af1e3f7",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/sandbox_N131876.jsonl",
+      "judgment_sha256": "61243511b752461bcb9c48d83a228450f19b69e5530e2ee625bfcabe8ebcad27",
+      "n": 500
+    },
+    {
+      "family": "sandbox",
+      "scale": 511959,
+      "prediction_path": "${URAG_ROOT}/results/canonical_main_20260724/sandbox/enterprise_N511959/predictions.jsonl",
+      "prediction_sha256": "1746df36d86313f433ab280580e6bd7bdefba36a2378b88679b622a340bc31b2",
+      "judgment_path": "${URAG_ROOT}/results/judge_official_canonical_20260724/sandbox_N511959.jsonl",
+      "judgment_sha256": "e811a7482b33f731fd636e17d878aaa8b2db576f8d0f677d413f5999abe8e241",
+      "n": 500
+    }
+  ]
+}

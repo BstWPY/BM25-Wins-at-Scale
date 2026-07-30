@@ -1,0 +1,27 @@
+family,scale,chunks,chunk_tokens,embed_tokens,note
+naiverag,1144,2018,1864899,1864899,chunks 单遍; miss=0
+naiverag,6980,10419,9336884,9336884,chunks 单遍; miss=0
+naiverag,21614,31475,28156220,28156220,chunks 单遍; miss=0
+naiverag,42587,61615,55044694,55044694,chunks 单遍; miss=0
+naiverag,66932,96635,86291984,86291984,chunks 单遍; miss=0
+linearrag,1434,2435,2236615,4607427,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,1798,2955,2701930,5565976,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,2254,3606,3289557,6776487,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,2826,4425,4010119,8260845,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,3543,5454,4929589,10154953,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,4441,6737,6068149,12500387,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,5568,8374,7514016,15478873,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,6980,10419,9336884,19233981,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,8750,12974,11618272,23933640,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,10970,16169,14483214,29835421,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,13753,20185,18053019,37189219,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,17241,25203,22529455,46410677,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,21614,31475,28156220,58001813,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,27097,39374,35189537,72490446,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,33970,49252,44042111,90726749,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,42587,61615,55044694,113392070,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,53389,77142,68919354,141973869,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,66932,96635,86291984,177761487,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,83909,121123,108174340,222839140,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,105193,151751,135580705,279296252,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0
+linearrag,131876,190096,169816930,349822876,passages+sentences 双遍 ×(1+0.03 实体名估计); miss=0

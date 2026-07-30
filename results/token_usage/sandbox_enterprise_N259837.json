@@ -1,0 +1,20 @@
+{
+  "baseline": "sandbox",
+  "dataset": "enterprise_N259837",
+  "source": "qwen_agent_hook",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 22795503,
+    "completion_tokens": 155690,
+    "total_tokens": 22951193,
+    "calls": 875
+  },
+  "build_qa_total_tokens": 22951193,
+  "note": "agent探索token,hook vLLM真实usage;max_calls=80;llm_calls=875 tool_calls=2212",
+  "ts": "2026-07-23T09:51:59"
+}

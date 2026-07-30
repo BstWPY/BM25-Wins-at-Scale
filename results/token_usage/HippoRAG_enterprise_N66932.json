@@ -1,0 +1,20 @@
+{
+ "baseline": "HippoRAG",
+ "dataset": "enterprise_N66932",
+ "source": "hipporag_sqlite",
+ "build": {
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "calls": 0
+ },
+ "qa": {
+  "prompt_tokens": 819960,
+  "completion_tokens": 15720,
+  "total_tokens": 835680,
+  "calls": -1
+ },
+ "build_qa_total_tokens": 367183794,
+ "note": "qa=rag_qa增量delta(进程隔离); build=0(QA-mode不记,见ledger) [N66932 500题重建失败, 选A保留旧100题acc, build归0防污染figC]",
+ "ts": "2026-06-16T05:14:04"
+}

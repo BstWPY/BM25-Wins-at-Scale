@@ -1,0 +1,238 @@
+{
+  "generated_at": "2026-07-26T15:04:43.468519+08:00",
+  "sample_path": "results/query_sample_150.json",
+  "sample_size": 150,
+  "complete": true,
+  "cells": {
+    "1434": {
+      "agent": {
+        "predictions": {
+          "path": "results/graphagent_hippo/enterprise_N1434/predictions.jsonl",
+          "line_count": 150,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "sample_missing_ids": [],
+          "extra_ids": 0,
+          "empty_prediction_ids": [
+            "qst_0281"
+          ],
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "ready": true
+        },
+        "judgments": {
+          "path": "results/judge_official_resweep/graphagent_hippo_N1434.jsonl",
+          "line_count": 150,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "valid_sample_judgments": 150,
+          "sample_missing_ids": [],
+          "invalid_sample_ids": [],
+          "extra_ids": 0,
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "metrics": {
+            "n": 150,
+            "correctness": 80.6667,
+            "completeness": 80.9085,
+            "combined": 75.8579,
+            "doc_recall": 78.9638
+          },
+          "ready": true
+        }
+      },
+      "native": {
+        "predictions": {
+          "path": "results/hipporag/enterprise_N1434/predictions.jsonl",
+          "line_count": 150,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "sample_missing_ids": [],
+          "extra_ids": 0,
+          "empty_prediction_ids": [],
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "ready": true
+        },
+        "judgments": {
+          "path": "results/judge_official_resweep/hipporag_N1434.jsonl",
+          "line_count": 151,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "valid_sample_judgments": 150,
+          "sample_missing_ids": [],
+          "invalid_sample_ids": [],
+          "extra_ids": 0,
+          "duplicate_rows": 1,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "metrics": {
+            "n": 150,
+            "correctness": 73.3333,
+            "completeness": 71.8365,
+            "combined": 65.5433,
+            "doc_recall": 81.9346
+          },
+          "ready": true
+        }
+      },
+      "ready": true
+    },
+    "1798": {
+      "agent": {
+        "predictions": {
+          "path": "results/graphagent_hippo/enterprise_N1798/predictions.jsonl",
+          "line_count": 150,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "sample_missing_ids": [],
+          "extra_ids": 0,
+          "empty_prediction_ids": [
+            "qst_0206",
+            "qst_0281"
+          ],
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "ready": true
+        },
+        "judgments": {
+          "path": "results/judge_official_resweep/graphagent_hippo_N1798.jsonl",
+          "line_count": 150,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "valid_sample_judgments": 150,
+          "sample_missing_ids": [],
+          "invalid_sample_ids": [],
+          "extra_ids": 0,
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "metrics": {
+            "n": 150,
+            "correctness": 84.6667,
+            "completeness": 86.0554,
+            "combined": 81.7281,
+            "doc_recall": 83.5501
+          },
+          "ready": true
+        }
+      },
+      "native": {
+        "predictions": {
+          "path": "results/hipporag/enterprise_N1798/predictions.jsonl",
+          "line_count": 150,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "sample_missing_ids": [],
+          "extra_ids": 0,
+          "empty_prediction_ids": [],
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "ready": true
+        },
+        "judgments": {
+          "path": "results/judge_official_resweep/hipporag_N1798.jsonl",
+          "line_count": 152,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "valid_sample_judgments": 150,
+          "sample_missing_ids": [],
+          "invalid_sample_ids": [],
+          "extra_ids": 0,
+          "duplicate_rows": 2,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "metrics": {
+            "n": 150,
+            "correctness": 76.6667,
+            "completeness": 72.8994,
+            "combined": 68.7343,
+            "doc_recall": 81.2609
+          },
+          "ready": true
+        }
+      },
+      "ready": true
+    },
+    "2254": {
+      "agent": {
+        "predictions": {
+          "path": "results/graphagent_hippo/enterprise_N2254/predictions.jsonl",
+          "line_count": 150,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "sample_missing_ids": [],
+          "extra_ids": 0,
+          "empty_prediction_ids": [],
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "ready": true
+        },
+        "judgments": {
+          "path": "results/judge_official_resweep/graphagent_hippo_N2254.jsonl",
+          "line_count": 150,
+          "unique_ids": 150,
+          "sample_covered": 150,
+          "valid_sample_judgments": 150,
+          "sample_missing_ids": [],
+          "invalid_sample_ids": [],
+          "extra_ids": 0,
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "metrics": {
+            "n": 150,
+            "correctness": 77.3333,
+            "completeness": 81.1054,
+            "combined": 75.02,
+            "doc_recall": 79.7951
+          },
+          "ready": true
+        }
+      },
+      "native": {
+        "predictions": {
+          "path": "results/hipporag/enterprise_N2254/predictions.jsonl",
+          "line_count": 500,
+          "unique_ids": 500,
+          "sample_covered": 150,
+          "sample_missing_ids": [],
+          "extra_ids": 350,
+          "empty_prediction_ids": [],
+          "duplicate_rows": 0,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "ready": true
+        },
+        "judgments": {
+          "path": "results/judge_official_resweep/hipporag_N2254.jsonl",
+          "line_count": 503,
+          "unique_ids": 500,
+          "sample_covered": 150,
+          "valid_sample_judgments": 150,
+          "sample_missing_ids": [],
+          "invalid_sample_ids": [],
+          "extra_ids": 350,
+          "duplicate_rows": 3,
+          "missing_id_rows": 0,
+          "parse_errors": [],
+          "metrics": {
+            "n": 150,
+            "correctness": 72.6667,
+            "completeness": 70.9762,
+            "combined": 65.1334,
+            "doc_recall": 79.7872
+          },
+          "ready": true
+        }
+      },
+      "ready": true
+    }
+  }
+}

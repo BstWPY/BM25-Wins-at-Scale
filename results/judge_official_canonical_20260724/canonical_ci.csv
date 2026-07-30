@@ -1,0 +1,69 @@
+family,method,scale,metric,n,bootstrap_reps,seed,estimate,ci95_low,ci95_high
+bm25,BM25,1144,official_combined,500,10000,20260724,74.704,71.396,77.868
+bm25,BM25,2254,official_combined,500,10000,20260725,71.431,67.854,74.799
+bm25,BM25,6980,official_combined,500,10000,20260726,70.101,66.455,73.663
+bm25,BM25,21614,official_combined,500,10000,20260727,64.887,61.083,68.601
+bm25,BM25,42587,official_combined,500,10000,20260728,61.157,57.334,64.917
+bm25,BM25,66932,official_combined,500,10000,20260729,59.454,55.492,63.349
+bm25,BM25,131876,official_combined,500,10000,20260730,55.245,51.26,59.2
+bm25,BM25,259837,official_combined,500,10000,20260731,53.031,49.065,57.13
+bm25,BM25,511959,official_combined,500,10000,20260732,50.464,46.432,54.456
+graphrag,MS-GraphRAG,1144,official_combined,500,10000,20260733,45.909,41.853,49.969
+graphrag,MS-GraphRAG,1434,official_combined,500,10000,20260734,43.369,39.299,47.557
+graphrag,MS-GraphRAG,1798,official_combined,500,10000,20260735,44.43,40.428,48.404
+graphrag,MS-GraphRAG,2254,official_combined,500,10000,20260736,43.95,39.835,47.973
+graphrag,MS-GraphRAG,2826,official_combined,500,10000,20260737,42.528,38.413,46.631
+graphrag,MS-GraphRAG,3543,official_combined,500,10000,20260738,40.398,36.272,44.479
+graphrag,MS-GraphRAG,4441,official_combined,500,10000,20260739,38.477,34.533,42.502
+graphrag,MS-GraphRAG,5568,official_combined,500,10000,20260740,38.677,34.794,42.644
+graphrag,MS-GraphRAG,6980,official_combined,500,10000,20260741,38.399,34.311,42.34
+graphrag,MS-GraphRAG,8750,official_combined,500,10000,20260742,35.493,31.531,39.471
+hipporag,HippoRAG2,1144,official_combined,500,10000,20260743,66.23,62.559,69.871
+hipporag,HippoRAG2,2254,official_combined,500,10000,20260744,63.058,59.219,66.84
+hipporag,HippoRAG2,6980,official_combined,500,10000,20260745,58.575,54.642,62.5
+hipporag,HippoRAG2,21614,official_combined,500,10000,20260746,53.771,49.766,57.808
+hipporag,HippoRAG2,42587,official_combined,500,10000,20260747,50.508,46.288,54.545
+hipporag,HippoRAG2,131876,official_combined,500,10000,20260748,41.021,36.96,45.198
+lightrag,LightRAG,1144,official_combined,500,10000,20260749,47.992,43.845,52.194
+lightrag,LightRAG,1434,official_combined,500,10000,20260750,46.474,42.111,50.636
+lightrag,LightRAG,1798,official_combined,500,10000,20260751,44.316,40.03,48.504
+lightrag,LightRAG,2254,official_combined,500,10000,20260752,42.526,38.346,46.734
+linearrag,LinearRAG,1144,official_combined,500,10000,20260753,46.239,42.356,50.233
+linearrag,LinearRAG,1434,official_combined,500,10000,20260754,45.288,41.375,49.189
+linearrag,LinearRAG,1798,official_combined,500,10000,20260755,46.08,42.007,50.088
+linearrag,LinearRAG,2254,official_combined,500,10000,20260756,44.075,40.11,47.969
+linearrag,LinearRAG,2826,official_combined,500,10000,20260757,41.992,38.122,45.962
+linearrag,LinearRAG,3543,official_combined,500,10000,20260758,42.506,38.635,46.43
+linearrag,LinearRAG,4441,official_combined,500,10000,20260759,40.335,36.412,44.305
+linearrag,LinearRAG,5568,official_combined,500,10000,20260760,39.048,35.203,42.955
+linearrag,LinearRAG,6980,official_combined,500,10000,20260761,38.809,34.904,42.75
+linearrag,LinearRAG,8750,official_combined,500,10000,20260762,35.489,31.625,39.314
+linearrag,LinearRAG,10970,official_combined,500,10000,20260763,35.036,31.182,39.018
+linearrag,LinearRAG,13753,official_combined,500,10000,20260764,34.803,30.969,38.724
+linearrag,LinearRAG,17241,official_combined,500,10000,20260765,33.234,29.518,37.145
+linearrag,LinearRAG,21614,official_combined,500,10000,20260766,34.288,30.399,38.092
+linearrag,LinearRAG,27097,official_combined,500,10000,20260767,32.203,28.44,36.051
+linearrag,LinearRAG,33970,official_combined,500,10000,20260768,32.172,28.402,36.047
+linearrag,LinearRAG,42587,official_combined,500,10000,20260769,31.309,27.504,35.078
+linearrag,LinearRAG,53389,official_combined,500,10000,20260770,30.525,26.66,34.354
+linearrag,LinearRAG,66932,official_combined,500,10000,20260771,30.876,27.126,34.674
+linearrag,LinearRAG,83909,official_combined,500,10000,20260772,28.725,25.091,32.397
+linearrag,LinearRAG,105193,official_combined,500,10000,20260773,28.454,24.78,32.231
+linearrag,LinearRAG,131876,official_combined,500,10000,20260774,29.797,26.16,33.487
+naiverag,DenseRAG,1144,official_combined,500,10000,20260775,58.139,54.098,62.108
+naiverag,DenseRAG,2254,official_combined,500,10000,20260776,55.694,51.624,59.81
+naiverag,DenseRAG,6980,official_combined,500,10000,20260777,50.955,46.89,55.092
+naiverag,DenseRAG,21614,official_combined,500,10000,20260778,44.193,40.122,48.272
+naiverag,DenseRAG,42587,official_combined,500,10000,20260779,40.686,36.706,44.67
+naiverag,DenseRAG,66932,official_combined,500,10000,20260780,38.051,33.977,42.015
+naiverag,DenseRAG,131876,official_combined,500,10000,20260781,35.97,32.051,40.032
+naiverag,DenseRAG,259837,official_combined,500,10000,20260782,32.83,28.823,36.753
+naiverag,DenseRAG,511959,official_combined,500,10000,20260783,29.912,26.209,33.753
+sandbox,File-System Agent,1144,official_combined,500,10000,20260784,77.394,73.924,80.83
+sandbox,File-System Agent,2254,official_combined,500,10000,20260785,75.446,71.87,78.904
+sandbox,File-System Agent,6980,official_combined,500,10000,20260786,69.922,66.009,73.724
+sandbox,File-System Agent,21614,official_combined,500,10000,20260787,62.622,58.574,66.66
+sandbox,File-System Agent,42587,official_combined,500,10000,20260788,58.949,54.853,63.088
+sandbox,File-System Agent,66932,official_combined,500,10000,20260789,56.706,52.534,60.943
+sandbox,File-System Agent,131876,official_combined,500,10000,20260790,50.877,46.624,55.078
+sandbox,File-System Agent,511959,official_combined,500,10000,20260791,30.74,26.831,34.763

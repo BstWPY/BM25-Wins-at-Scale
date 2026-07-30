@@ -1,0 +1,20 @@
+{
+  "baseline": "NAIVERAG_K3",
+  "dataset": "enterprise_N1144",
+  "source": "wrapper_usage",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 441545,
+    "completion_tokens": 14595,
+    "total_tokens": 456140,
+    "calls": 150
+  },
+  "build_qa_total_tokens": 456140,
+  "note": "build=0 LLM (dense embed, build_sec=0); qa=1 LLM/Q, concurrency=8",
+  "ts": "2026-07-20T22:47:37"
+}

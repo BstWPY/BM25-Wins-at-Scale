@@ -1,0 +1,32 @@
+[
+ {
+  "baseline": "bm25_k10",
+  "scale": 2254,
+  "n": 148,
+  "correctness": 89.86,
+  "completeness": 84.9,
+  "combined": 81.85,
+  "doc_recall": 92.99,
+  "fail": 2
+ },
+ {
+  "baseline": "hipporag_k10",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 80.67,
+  "completeness": 77.4,
+  "combined": 73.0,
+  "doc_recall": 86.58,
+  "fail": 0
+ },
+ {
+  "baseline": "naiverag_k10",
+  "scale": 2254,
+  "n": 150,
+  "correctness": 72.67,
+  "completeness": 71.45,
+  "combined": 66.5,
+  "doc_recall": 78.2,
+  "fail": 0
+ }
+]

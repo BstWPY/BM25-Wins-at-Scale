@@ -1,0 +1,26 @@
+{
+  "enterprise_N1144": {
+    "N": 1144,
+    "fresh_build_tok": 7468274,
+    "cumulative_ledger_tok": 7469665,
+    "wall_sec_contended": 2680,
+    "rc": 0,
+    "ratio_cumul_over_fresh": 1.0
+  },
+  "enterprise_N1434": {
+    "N": 1434,
+    "fresh_build_tok": 9059592,
+    "cumulative_ledger_tok": 9062797,
+    "wall_sec_contended": 3426,
+    "rc": 0,
+    "ratio_cumul_over_fresh": 1.0
+  },
+  "enterprise_N1798": {
+    "N": 1798,
+    "fresh_build_tok": 11040426,
+    "cumulative_ledger_tok": 11037210,
+    "wall_sec_contended": 4321,
+    "rc": 0,
+    "ratio_cumul_over_fresh": 1.0
+  }
+}

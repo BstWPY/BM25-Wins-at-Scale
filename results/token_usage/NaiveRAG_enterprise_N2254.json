@@ -1,0 +1,20 @@
+{
+  "baseline": "NaiveRAG",
+  "dataset": "enterprise_N2254",
+  "source": "wrapper_usage",
+  "build": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "calls": 0
+  },
+  "qa": {
+    "prompt_tokens": 2377823,
+    "completion_tokens": 53544,
+    "total_tokens": 2431367,
+    "calls": 500
+  },
+  "build_qa_total_tokens": 2431367,
+  "note": "build=0 LLM (dense embed, build_sec=74); qa=1 LLM/Q, concurrency=8",
+  "ts": "2026-07-16T15:53:44"
+}

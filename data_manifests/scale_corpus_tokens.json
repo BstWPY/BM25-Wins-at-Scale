@@ -1,0 +1,176 @@
+{
+  "105193": {
+    "n_docs": 105193,
+    "corpus_tokens": 123543492,
+    "n_chunks": 151751,
+    "mean_doc_token": 1174.4
+  },
+  "10970": {
+    "n_docs": 10970,
+    "corpus_tokens": 13188376,
+    "n_chunks": 16169,
+    "mean_doc_token": 1202.2
+  },
+  "1144": {
+    "n_docs": 1144,
+    "corpus_tokens": 1684792,
+    "n_chunks": 2018,
+    "mean_doc_token": 1472.7
+  },
+  "131876": {
+    "n_docs": 131876,
+    "corpus_tokens": 154746510,
+    "n_chunks": 190096,
+    "mean_doc_token": 1173.4
+  },
+  "13753": {
+    "n_docs": 13753,
+    "corpus_tokens": 16437062,
+    "n_chunks": 20185,
+    "mean_doc_token": 1195.2
+  },
+  "1434": {
+    "n_docs": 1434,
+    "corpus_tokens": 2023520,
+    "n_chunks": 2435,
+    "mean_doc_token": 1411.1
+  },
+  "1434_updq": {
+    "n_docs": 1434,
+    "corpus_tokens": 2023520,
+    "n_chunks": 2435,
+    "mean_doc_token": 1411.1
+  },
+  "165327": {
+    "n_docs": 165327,
+    "corpus_tokens": 194002902,
+    "n_chunks": 238321,
+    "mean_doc_token": 1173.4
+  },
+  "17241": {
+    "n_docs": 17241,
+    "corpus_tokens": 20516737,
+    "n_chunks": 25203,
+    "mean_doc_token": 1190.0
+  },
+  "1798": {
+    "n_docs": 1798,
+    "corpus_tokens": 2447610,
+    "n_chunks": 2955,
+    "mean_doc_token": 1361.3
+  },
+  "207263": {
+    "n_docs": 207263,
+    "corpus_tokens": 243200417,
+    "n_chunks": 298783,
+    "mean_doc_token": 1173.4
+  },
+  "21614": {
+    "n_docs": 21614,
+    "corpus_tokens": 25647210,
+    "n_chunks": 31475,
+    "mean_doc_token": 1186.6
+  },
+  "2254": {
+    "n_docs": 2254,
+    "corpus_tokens": 2984222,
+    "n_chunks": 3606,
+    "mean_doc_token": 1324.0
+  },
+  "259837": {
+    "n_docs": 259837,
+    "corpus_tokens": 304902373,
+    "n_chunks": 374576,
+    "mean_doc_token": 1173.4
+  },
+  "27097": {
+    "n_docs": 27097,
+    "corpus_tokens": 32054113,
+    "n_chunks": 39374,
+    "mean_doc_token": 1182.9
+  },
+  "2826": {
+    "n_docs": 2826,
+    "corpus_tokens": 3640414,
+    "n_chunks": 4425,
+    "mean_doc_token": 1288.2
+  },
+  "325746": {
+    "n_docs": 325746,
+    "corpus_tokens": 382243251,
+    "n_chunks": 469677,
+    "mean_doc_token": 1173.4
+  },
+  "33970": {
+    "n_docs": 33970,
+    "corpus_tokens": 40124598,
+    "n_chunks": 49252,
+    "mean_doc_token": 1181.2
+  },
+  "3543": {
+    "n_docs": 3543,
+    "corpus_tokens": 4479432,
+    "n_chunks": 5454,
+    "mean_doc_token": 1264.3
+  },
+  "408373": {
+    "n_docs": 408373,
+    "corpus_tokens": 479131675,
+    "n_chunks": 588566,
+    "mean_doc_token": 1173.3
+  },
+  "42587": {
+    "n_docs": 42587,
+    "corpus_tokens": 50153707,
+    "n_chunks": 61615,
+    "mean_doc_token": 1177.7
+  },
+  "4441": {
+    "n_docs": 4441,
+    "corpus_tokens": 5517368,
+    "n_chunks": 6737,
+    "mean_doc_token": 1242.4
+  },
+  "511959": {
+    "n_docs": 511959,
+    "corpus_tokens": 600823640,
+    "n_chunks": 737878,
+    "mean_doc_token": 1173.6
+  },
+  "53389": {
+    "n_docs": 53389,
+    "corpus_tokens": 62804222,
+    "n_chunks": 77142,
+    "mean_doc_token": 1176.4
+  },
+  "5568": {
+    "n_docs": 5568,
+    "corpus_tokens": 6834156,
+    "n_chunks": 8374,
+    "mean_doc_token": 1227.4
+  },
+  "66932": {
+    "n_docs": 66932,
+    "corpus_tokens": 78632159,
+    "n_chunks": 96635,
+    "mean_doc_token": 1174.8
+  },
+  "6980": {
+    "n_docs": 6980,
+    "corpus_tokens": 8495372,
+    "n_chunks": 10419,
+    "mean_doc_token": 1217.1
+  },
+  "83909": {
+    "n_docs": 83909,
+    "corpus_tokens": 98567435,
+    "n_chunks": 121123,
+    "mean_doc_token": 1174.7
+  },
+  "8750": {
+    "n_docs": 8750,
+    "corpus_tokens": 10575654,
+    "n_chunks": 12974,
+    "mean_doc_token": 1208.6
+  }
+}
