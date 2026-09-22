@@ -12,6 +12,15 @@ orchestration scripts.
 
 ## External resources
 
+For the paper's exact corpus document sets, start with
+[`docs/reproduction.md`](docs/reproduction.md). Frozen bedrock/background IDs
+now reproduce all 28 historical set checksums, and the 42,587-document tier
+has been rebuilt and cross-checked against the unchanged original chunking
+functions. Run `python scripts/frozen_ladder.py` for an offline ID audit.
+The original experiment scripts below are preserved; the new tools avoid
+re-mining or re-sampling the paper's ladder. See [`SECURITY.md`](SECURITY.md)
+before running optional shell-agent controls.
+
 Obtain the public EnterpriseRAG-Bench corpus and question set from the
 release cited in the main paper.
 

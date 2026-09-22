@@ -1,0 +1,62 @@
+{
+  "checked_on": "2026-09-22",
+  "scope": "PyPI advisories for the pinned reconstruction environment only; not optional research dependencies or a complete security audit",
+  "packages": [
+    {
+      "package": "pyarrow",
+      "version": "25.0.1",
+      "source": "https://pypi.org/pypi/pyarrow/25.0.1/json",
+      "vulnerabilities": [],
+      "status": "checked"
+    },
+    {
+      "package": "tiktoken",
+      "version": "0.14.0",
+      "source": "https://pypi.org/pypi/tiktoken/0.14.0/json",
+      "vulnerabilities": [],
+      "status": "checked"
+    },
+    {
+      "package": "regex",
+      "version": "2026.9.10",
+      "source": "https://pypi.org/pypi/regex/2026.9.10/json",
+      "vulnerabilities": [],
+      "status": "checked"
+    },
+    {
+      "package": "requests",
+      "version": "2.34.2",
+      "source": "https://pypi.org/pypi/requests/2.34.2/json",
+      "vulnerabilities": [],
+      "status": "checked"
+    },
+    {
+      "package": "charset-normalizer",
+      "version": "3.5.1",
+      "source": "https://pypi.org/pypi/charset-normalizer/3.5.1/json",
+      "vulnerabilities": [],
+      "status": "checked"
+    },
+    {
+      "package": "idna",
+      "version": "3.20",
+      "source": "https://pypi.org/pypi/idna/3.20/json",
+      "vulnerabilities": [],
+      "status": "checked"
+    },
+    {
+      "package": "urllib3",
+      "version": "2.8.0",
+      "source": "https://pypi.org/pypi/urllib3/2.8.0/json",
+      "vulnerabilities": [],
+      "status": "checked"
+    },
+    {
+      "package": "certifi",
+      "version": "2026.7.22",
+      "source": "https://pypi.org/pypi/certifi/2026.7.22/json",
+      "vulnerabilities": [],
+      "status": "checked"
+    }
+  ]
+}

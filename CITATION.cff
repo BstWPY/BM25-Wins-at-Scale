@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the paper when using this experimental artifact."
+title: "Which RAG Paradigm Wins at Scale? A Scaling Study of Retrieval-Augmented Generation Paradigms"
+type: software
+version: "0.1.0-rc1"
+date-released: 2026-09-22
+license: MIT
+repository-code: "https://github.com/BstWPY/RAG_position_paper"
+authors:
+  - family-names: Wang
+    given-names: Pengyu
+  - family-names: Xu
+    given-names: Benfeng
+  - family-names: Wang
+    given-names: Shaohan
+  - family-names: Zeng
+    given-names: Xin
+  - family-names: Wu
+    given-names: Huarui
+  - family-names: Zhang
+    given-names: Lei
+  - family-names: Zhang
+    given-names: Licheng
+identifiers:
+  - type: url
+    value: "https://arxiv.org/abs/2607.26497"

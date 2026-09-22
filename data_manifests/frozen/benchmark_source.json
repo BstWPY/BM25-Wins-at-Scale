@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "source_code_commit": "a6206e5e37e37fa474dc9394d86b10b08cce19a7",
+  "hf_repository": "Bstwpy/rag-scaling-rebuttal-artifacts",
+  "hf_revision": "e565526a73f1195e59a4055599f3a9fbe50eb67d",
+  "corpus_path": "reconstruction_seed/enterprise_corpus_meta.parquet",
+  "corpus_sha256": "41d8191e44616227a9be173a6e4a09340b873a07a8f03e3f283ecbde85547cd6",
+  "core_archive_sha256": "ace1d26f5be7e45000d6bd46c6c4ea54067615ed3145fc8a2aba77580b6f9640",
+  "upstream": {
+    "repository": "onyx-dot-app/EnterpriseRAG-Bench",
+    "commit": "d36685e273713975ee20299bbf1ab64165575b3c",
+    "role": "audit-time pinned upstream; not an independently established original experiment commit",
+    "files": [
+      {
+        "path": "questions.jsonl",
+        "sha256": "f9524b9157cd43aae36b99333a124738804306ea6d07f332d49faa6d3d147905",
+        "bytes": 764927
+      },
+      {
+        "path": "generated_data/company_overview.md",
+        "sha256": "a889c45be24c8075c605e83771e704a437ccf60b33d4841f1dec7185333168d2",
+        "bytes": 7275
+      },
+      {
+        "path": "generated_data/initiatives.md",
+        "sha256": "b65f6fdc8956accb7266cfc7c2b2f72897bcb0995843e40bdc38d09c43199625",
+        "bytes": 13436
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "9eab95dae84867fa8ba1450e4bf34addf74e841923f4b6877f4d2df82bed3508",
+        "bytes": 1072
+      }
+    ]
+  },
+  "order_evidence": "Original algorithm replayed using archived Parquet row and bucket insertion order; all 28 historical ID-set hashes match. No independent original order hash was available.",
+  "historical_chunk_bytes_verified": false
+}

@@ -1,0 +1,10 @@
+# Tested reconstruction environment, not a recovered historical GPU lockfile.
+# Python 3.12.2 was used for release validation; see release_audit/environment.json.
+pyarrow==25.0.1
+tiktoken==0.14.0
+regex==2026.9.10
+requests==2.34.2
+charset-normalizer==3.5.1
+idna==3.20
+urllib3==2.8.0
+certifi==2026.7.22

@@ -1,0 +1,24 @@
+{
+  "N_docs": 42587,
+  "N_chunks": 61615,
+  "manifest_sha256": "cc70d16d9754ff127b2c6b3f8d5a2b08dab725e400e54ff9b51ecca7e2138e2e",
+  "order_sha256": "58cb37f4c5c1cdaf39dad578b42090d80c2e9c677e79a4f9c2a8f6bf44c5b4ca",
+  "corpus_parquet_sha256": "41d8191e44616227a9be173a6e4a09340b873a07a8f03e3f283ecbde85547cd6",
+  "chunk_stream_sha256": "b607d10698e684f0ddaae026b89cd7e2f31750d494ff04b2218921ce364c2fb5",
+  "q_with_gold": 470,
+  "noise_frac": 0.079,
+  "source_dist": {
+    "slack": 0.5494,
+    "gmail": 0.233,
+    "linear": 0.0696,
+    "google_drive": 0.0503,
+    "hubspot": 0.0294,
+    "fireflies": 0.0201,
+    "github": 0.017,
+    "jira": 0.0161,
+    "confluence": 0.015,
+    "scaffold": 0.0
+  },
+  "historical_chunk_bytes_verified": false,
+  "elapsed_seconds": 63.76
+}

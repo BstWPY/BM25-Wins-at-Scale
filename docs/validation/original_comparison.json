@@ -1,0 +1,31 @@
+{
+  "source_commit": "a6206e5e37e37fa474dc9394d86b10b08cce19a7",
+  "original_functions": [
+    "chunk_body",
+    "dump_point"
+  ],
+  "io_convention": "original Linux UTF-8 and LF, normalized on Windows",
+  "files": {
+    "chunks.json": {
+      "original_function_sha256": "5613466000f47f8d7f573060284e03bc8e8b66d6f8db77415bf2a18b48f7c89a",
+      "release_sha256": "5613466000f47f8d7f573060284e03bc8e8b66d6f8db77415bf2a18b48f7c89a",
+      "equal": true
+    },
+    "chunks_meta.jsonl": {
+      "original_function_sha256": "f95b7067090e379201cf995b5b766da4f559362e7207c8534849a95e3ac4e7bc",
+      "release_sha256": "f95b7067090e379201cf995b5b766da4f559362e7207c8534849a95e3ac4e7bc",
+      "equal": true
+    },
+    "questions.jsonl": {
+      "original_function_sha256": "2bf0dd6e5f1f5c1675cad5a8061703f35f572f7c9e85c00227a302df3cc31c8a",
+      "release_sha256": "2bf0dd6e5f1f5c1675cad5a8061703f35f572f7c9e85c00227a302df3cc31c8a",
+      "equal": true
+    }
+  },
+  "historical_saved_chunk_bytes_available": false,
+  "manifest_semantically_equal": true,
+  "all_original_scale_report_fields_equal": true,
+  "N_docs": 42587,
+  "N_chunks": 61615,
+  "elapsed_seconds": 35.78
+}
