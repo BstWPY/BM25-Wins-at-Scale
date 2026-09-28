@@ -1,7 +1,7 @@
 # BM25 Wins at Scale — Experiment Artifact
 
 This repository contains the experiment code, aggregate results, and figures
-for [*Which RAG Paradigm Wins at Scale? A Scaling Study of
+for [*BM25 Wins at Scale: A Scaling Study of
 Retrieval-Augmented Generation Paradigms*](https://arxiv.org/abs/2607.26497).
 It covers corpus scaling, retrieval baselines, agent controls, token accounting,
 judging, and paper figures.

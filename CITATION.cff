@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Please cite the paper when using this experimental artifact."
-title: "Which RAG Paradigm Wins at Scale? A Scaling Study of Retrieval-Augmented Generation Paradigms"
+title: "BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms"
 type: software
 version: "0.1.0-rc1"
 date-released: 2026-09-22
