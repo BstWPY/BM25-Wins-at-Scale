@@ -1,5 +1,4 @@
-# Tested reconstruction environment, not a recovered historical GPU lockfile.
-# Python 3.12.2 was used for release validation; see release_audit/environment.json.
+# Dependencies for corpus tier construction with Python 3.12.
 pyarrow==25.0.1
 tiktoken==0.14.0
 regex==2026.9.10

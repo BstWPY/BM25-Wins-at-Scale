@@ -1,30 +1,23 @@
 # BM25 Wins at Scale — Experiment Artifact
 
-This repository contains the sanitized core experiment code and aggregate
-result ledgers for **"BM25 Wins at Scale: A Scaling Study of
-Retrieval-Augmented Generation Paradigms."** It supports result auditing and
-reproduction of the corpus ladder, retrieval baselines, agent controls, token
-accounting, judging, and paper figures.
+This repository contains the experiment code, aggregate results, and figures
+for [*Which RAG Paradigm Wins at Scale? A Scaling Study of
+Retrieval-Augmented Generation Paradigms*](https://arxiv.org/abs/2607.26497).
+It covers corpus scaling, retrieval baselines, agent controls, token accounting,
+judging, and paper figures.
 
-The repository intentionally excludes model checkpoints, raw benchmark
-documents, local caches, private endpoints, machine logs, and cluster-specific
-orchestration scripts.
+## Corpus and tier construction
 
-## External resources
-
-For the paper's exact corpus document sets, start with
-[`docs/reproduction.md`](docs/reproduction.md). Frozen bedrock/background IDs
-now reproduce all 28 historical set checksums, and the 42,587-document tier
-has been rebuilt and cross-checked against the unchanged original chunking
-functions. Run `python scripts/frozen_ladder.py` for an offline ID audit.
-The original experiment scripts below are preserved; the new tools avoid
-re-mining or re-sampling the paper's ladder. See [`SECURITY.md`](SECURITY.md)
-before running optional shell-agent controls.
-
-The verified 1.38 GB corpus and reproduction inputs are packaged in
+Download the approximately 1.38 GB corpus package from
 [BM25 Wins at Scale — Corpus](https://huggingface.co/datasets/Bstwpy/BM25-Wins-at-Scale-Corpus).
-This supplement preserves the EnterpriseRAG-Bench text and includes the pinned
-questions and scaffold documents.
+It contains 511,957 document rows, 500 questions, and two scaffold documents.
+
+Use the supplied bedrock IDs and background ordering to construct the paper's
+28 nested corpus tiers. Start with the commands in
+[`docs/reproduction.md`](docs/reproduction.md), including the 42,587-document
+example. The tier construction tools do not require a GPU or model API.
+
+Before running the optional shell-agent controls, see [`SECURITY.md`](SECURITY.md).
 
 The experiments used:
 
@@ -61,11 +54,13 @@ export GW_KEY="<judge-api-key>"
 ```
 
 `GW_KEY` is required only for scripts that call an external judge.  The
-included aggregate ledgers can be audited without a judge key.
+included results can be read without a judge key.
 
-## Core pipeline
+## Experiment pipeline
 
-The corpus-scaling experiment is reconstructed in the following order:
+The original preprocessing workflow below builds a ladder from a benchmark
+checkout. For the paper's supplied corpus tiers, use
+[`docs/reproduction.md`](docs/reproduction.md).
 
 ```bash
 # 1. Render the public benchmark documents and build the corpus metadata table.
@@ -95,7 +90,7 @@ method-specific and harness variables are documented in `.env.example`.
 
 ## Directory layout
 
-- `scripts/`: sanitized pipeline, metering, judging, analysis, and plotting
+- `scripts/`: experiment pipeline, metering, judging, analysis, and plotting
   scripts.
 - `scripts/mine_traps.py`: hard-negative and not-found-lure construction.
 - `scripts/pack_corpus_enterprise.py`: nested 28-tier corpus construction and
@@ -111,10 +106,10 @@ method-specific and harness variables are documented in `.env.example`.
 - `figures/`: final paper figure PDFs, including the crossover schematic,
   and the cross-scale point ledger.
 
-## Suggested audit order
+## Results and figures
 
 1. Inspect `data_manifests/scale_corpus_tokens.json` and
-   `data_manifests/tier_manifest_summary.json` to verify the ladder sizes.
+   `data_manifests/tier_manifest_summary.json` for the ladder sizes.
 2. Inspect `results/judge_official_canonical_20260724/canonical_matrix.csv`
    and `canonical_ci.csv` for the native-ladder accuracy tables and Figure 3.
    This canonical directory is the sole authoritative native-ladder matrix;
@@ -143,17 +138,3 @@ be regenerated directly from its included point ledger. Raw benchmark
 text, per-question free-form outputs, and full latency traces are omitted
 for privacy and size; regenerating those aggregates requires the public
 benchmark plus a complete experiment tree.
-
-## Privacy and anonymization
-
-The repository was scanned for:
-
-- private tokens and API keys,
-- local absolute paths,
-- SSH host/user strings,
-- private gateway domains,
-- model/cache paths tied to a specific machine.
-
-Only aggregate results and opaque question identifiers are included. Raw
-benchmark documents, question/answer text, retrieved document paths, and
-per-question free-form model outputs are excluded.
