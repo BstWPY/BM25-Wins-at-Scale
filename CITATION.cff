@@ -5,7 +5,7 @@ type: software
 version: "0.1.0-rc1"
 date-released: 2026-09-22
 license: MIT
-repository-code: "https://github.com/BstWPY/RAG_position_paper"
+repository-code: "https://github.com/BstWPY/BM25-Wins-at-Scale"
 authors:
   - family-names: Wang
     given-names: Pengyu

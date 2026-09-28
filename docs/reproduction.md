@@ -38,18 +38,17 @@ The pinned reconstruction environment is in `requirements-release.txt`. It
 was tested on Python 3.12.2 on Windows. These versions describe the release
 validation environment, not a recovered historical GPU environment.
 
-The corpus metadata is currently in a private archival HF repository, so an
-authorized account or an author-provided copy is required. Do not put tokens
-in command lines or send them with a supplement. The original 70 GB archive
-does not need to be downloaded. Download the single file with an authenticated
-HF CLI, or use an independently shared copy with the exact checksum above:
+The verified corpus, questions, and scaffold documents are available in
+[BM25 Wins at Scale — Corpus](https://huggingface.co/datasets/Bstwpy/BM25-Wins-at-Scale-Corpus).
+Download the 1.38 GB supplement below; the original 70 GB archive is not
+required. While the repository remains private, use an authorized HF login.
+Do not put tokens in command lines or send them with a supplement.
 
 ```bash
-hf download Bstwpy/rag-scaling-rebuttal-artifacts reconstruction_seed/enterprise_corpus_meta.parquet --repo-type dataset --revision e565526a73f1195e59a4055599f3a9fbe50eb67d --local-dir /path/to/artifact-inputs
-git clone https://github.com/onyx-dot-app/EnterpriseRAG-Bench.git /path/to/benchmark
-git -C /path/to/benchmark checkout d36685e273713975ee20299bbf1ab64165575b3c
+hf download Bstwpy/BM25-Wins-at-Scale-Corpus --repo-type dataset --revision 2e7275387a28a442978c5fff4693347e541ea5cb --local-dir /path/to/artifact-inputs
+python /path/to/artifact-inputs/verify_files.py
 python -m pip install -r requirements-release.txt
-python scripts/materialize_frozen_tier.py --tier 42587 --corpus-meta /path/to/artifact-inputs/reconstruction_seed/enterprise_corpus_meta.parquet --benchmark-root /path/to/benchmark --out /path/to/new-output/enterprise_N42587
+python scripts/materialize_frozen_tier.py --tier 42587 --corpus-meta /path/to/artifact-inputs/reconstruction_seed/enterprise_corpus_meta.parquet --benchmark-root /path/to/artifact-inputs/benchmark --out /path/to/new-output/enterprise_N42587
 ```
 
 Use a new output directory. The first tokenizer use may download the public

@@ -21,8 +21,10 @@ The original experiment scripts below are preserved; the new tools avoid
 re-mining or re-sampling the paper's ladder. See [`SECURITY.md`](SECURITY.md)
 before running optional shell-agent controls.
 
-Obtain the public EnterpriseRAG-Bench corpus and question set from the
-release cited in the main paper.
+The verified 1.38 GB corpus and reproduction inputs are packaged in
+[BM25 Wins at Scale — Corpus](https://huggingface.co/datasets/Bstwpy/BM25-Wins-at-Scale-Corpus).
+This supplement preserves the EnterpriseRAG-Bench text and includes the pinned
+questions and scaffold documents.
 
 The experiments used:
 
